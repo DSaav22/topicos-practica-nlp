@@ -102,6 +102,17 @@ La lista de reactivos sale por conteo, no del modelo. Para cada práctica se cue
 
 ![Reactivos estimados al escribir el título](docs/img/reactivos.png)
 
+## Despliegue con Docker (integración con BioFarm)
+
+La imagen lleva solo la API, el modelo entrenado y las dos tablas que lee (`catalogo.csv` y `reactivos_por_practica.csv`); no incluye planillas ni datos de personas.
+
+```bash
+docker build -t practica-nlp .
+docker run --rm -p 8001:8000 practica-nlp      # http://localhost:8001/salud
+```
+
+En BioFarm (rama `topicos`) el servicio `practica-nlp` de `docker-compose.yml` construye esta imagen desde `../topicos-practica-nlp` y queda solo en la red interna. Laravel lo consume con `PRACTICA_NLP_URL=http://practica-nlp:8000` en `POST /api/formularios-generales/sugerir-practica`. Si la variable está vacía o el servicio no responde, el formulario general sigue funcionando sin sugerencias.
+
 ## Estructura
 
 ```
