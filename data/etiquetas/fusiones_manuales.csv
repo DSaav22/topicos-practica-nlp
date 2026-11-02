@@ -1,0 +1,18 @@
+# Revisado a mano sobre variantes.csv (2026-11-02). Une claves que el algoritmo deja
+# separadas y son la misma práctica. Las claves van sin tildes ni stop words.
+clave_origen,clave_destino
+preparacion soluciones unidades fisicas concentracion,preparacion soluciones unidades fisicas
+preparacion soluciones unidades quimicas concentracion,preparacion soluciones unidades quimicas
+punto fusion,determinacion punto fusion
+punto ebullicion,determinacion punto ebullicion
+indice refraccion,determinacion indice refraccion
+propiedades membrana,propiedades membrana celular
+estandarizacion soluciones volumetricas,estandarizacion soluciones
+soluciones tampon,preparacion soluciones tampon
+preparacion tampon,preparacion soluciones tampon
+soluciones tampon buffer,preparacion soluciones tampon
+preparacion soluciones ph determinado acido,preparacion soluciones ph determinado
+soluciones stock,preparacion soluciones stock
+soluciones simples,preparacion soluciones simples
+medicion ph diferentes soluciones,medicion ph soluciones
+ph diferentes solucion,medicion ph soluciones
