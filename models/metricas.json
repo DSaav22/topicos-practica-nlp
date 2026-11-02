@@ -1,0 +1,904 @@
+{
+  "fecha": "2026-11-02T11:54:25",
+  "semilla": 42,
+  "modelo_produccion": "logistica",
+  "datos": {
+    "filas": 2992,
+    "practicas": 154,
+    "entrenamiento": 2628,
+    "prueba": 364,
+    "escrituras_prueba": 135,
+    "practicas_en_prueba": 105,
+    "prueba_manual": 82
+  },
+  "tfidf": {
+    "min_df": 1,
+    "max_df": 0.5,
+    "max_features": 5000,
+    "sublinear_tf": true,
+    "ngramas": "uni+bi+car",
+    "vocabulario": 4009
+  },
+  "modelos": {
+    "logistica": {
+      "modo": "stem",
+      "ngramas": "uni+bi+car",
+      "hiperparametros": {
+        "C": 1
+      },
+      "f1_macro_cv": 0.9074,
+      "grilla": {
+        "{'modelo__C': 1}": 0.9074,
+        "{'modelo__C': 5}": 0.9074,
+        "{'modelo__C': 10}": 0.9074,
+        "{'modelo__C': 30}": 0.9074,
+        "{'modelo__C': 100}": 0.9074
+      },
+      "prueba": {
+        "f1_macro": 0.9937,
+        "f1_ponderado": 0.9945,
+        "exactitud": 0.9945
+      },
+      "prueba_manual": {
+        "f1_macro": 0.9903,
+        "f1_ponderado": 0.9866,
+        "exactitud": 0.9878
+      }
+    },
+    "complement_nb": {
+      "modo": "stem",
+      "ngramas": "uni+bi+car",
+      "hiperparametros": {
+        "alpha": 0.01
+      },
+      "f1_macro_cv": 0.7733,
+      "grilla": {
+        "{'modelo__alpha': 0.01}": 0.7733,
+        "{'modelo__alpha': 0.05}": 0.7733,
+        "{'modelo__alpha': 0.1}": 0.7452,
+        "{'modelo__alpha': 0.3}": 0.73,
+        "{'modelo__alpha': 1.0}": 0.73
+      },
+      "prueba": {
+        "f1_macro": 0.7974,
+        "f1_ponderado": 0.8769,
+        "exactitud": 0.8929
+      },
+      "prueba_manual": {
+        "f1_macro": 0.8936,
+        "f1_ponderado": 0.9382,
+        "exactitud": 0.939
+      }
+    },
+    "linea_base": {
+      "prueba": {
+        "f1_macro": 0.0001,
+        "f1_ponderado": 0.0,
+        "exactitud": 0.0027
+      },
+      "prueba_manual": {
+        "f1_macro": 0.0014,
+        "f1_ponderado": 0.0026,
+        "exactitud": 0.0366
+      }
+    },
+    "regla_similitud": {
+      "prueba": {
+        "f1_macro": 1.0,
+        "f1_ponderado": 1.0,
+        "exactitud": 1.0
+      },
+      "prueba_manual": {
+        "f1_macro": 0.6802,
+        "f1_ponderado": 0.8374,
+        "exactitud": 0.8293
+      }
+    }
+  },
+  "experimentos": [
+    {
+      "modo": "stem",
+      "ngramas": "uni+bi+car",
+      "modelo": "logistica",
+      "f1_macro_cv": 0.9074,
+      "desvio": 0.0535
+    },
+    {
+      "modo": "lemma",
+      "ngramas": "uni+bi+car",
+      "modelo": "logistica",
+      "f1_macro_cv": 0.8993,
+      "desvio": 0.0328
+    },
+    {
+      "modo": "stem",
+      "ngramas": "uni",
+      "modelo": "logistica",
+      "f1_macro_cv": 0.7962,
+      "desvio": 0.0668
+    },
+    {
+      "modo": "lemma",
+      "ngramas": "uni",
+      "modelo": "logistica",
+      "f1_macro_cv": 0.7723,
+      "desvio": 0.0926
+    },
+    {
+      "modo": "stem",
+      "ngramas": "uni+bi",
+      "modelo": "logistica",
+      "f1_macro_cv": 0.7693,
+      "desvio": 0.0422
+    },
+    {
+      "modo": "stem",
+      "ngramas": "uni+bi+car",
+      "modelo": "complement_nb",
+      "f1_macro_cv": 0.73,
+      "desvio": 0.0666
+    },
+    {
+      "modo": "lemma",
+      "ngramas": "uni+bi",
+      "modelo": "logistica",
+      "f1_macro_cv": 0.7268,
+      "desvio": 0.0764
+    },
+    {
+      "modo": "stem",
+      "ngramas": "uni+bi",
+      "modelo": "complement_nb",
+      "f1_macro_cv": 0.7119,
+      "desvio": 0.0346
+    },
+    {
+      "modo": "lemma",
+      "ngramas": "uni+bi+car",
+      "modelo": "complement_nb",
+      "f1_macro_cv": 0.7092,
+      "desvio": 0.0276
+    },
+    {
+      "modo": "lemma",
+      "ngramas": "uni+bi",
+      "modelo": "complement_nb",
+      "f1_macro_cv": 0.6551,
+      "desvio": 0.035
+    },
+    {
+      "modo": "lemma",
+      "ngramas": "uni+bi+car",
+      "modelo": "multinomial_nb",
+      "f1_macro_cv": 0.643,
+      "desvio": 0.0753
+    },
+    {
+      "modo": "stem",
+      "ngramas": "uni+bi+car",
+      "modelo": "multinomial_nb",
+      "f1_macro_cv": 0.6282,
+      "desvio": 0.0567
+    },
+    {
+      "modo": "stem",
+      "ngramas": "uni",
+      "modelo": "complement_nb",
+      "f1_macro_cv": 0.6119,
+      "desvio": 0.0295
+    },
+    {
+      "modo": "lemma",
+      "ngramas": "uni",
+      "modelo": "complement_nb",
+      "f1_macro_cv": 0.5977,
+      "desvio": 0.0393
+    },
+    {
+      "modo": "stem",
+      "ngramas": "uni+bi",
+      "modelo": "multinomial_nb",
+      "f1_macro_cv": 0.5333,
+      "desvio": 0.0994
+    },
+    {
+      "modo": "stem",
+      "ngramas": "uni",
+      "modelo": "multinomial_nb",
+      "f1_macro_cv": 0.5205,
+      "desvio": 0.0772
+    },
+    {
+      "modo": "lemma",
+      "ngramas": "uni+bi",
+      "modelo": "multinomial_nb",
+      "f1_macro_cv": 0.4982,
+      "desvio": 0.1002
+    },
+    {
+      "modo": "lemma",
+      "ngramas": "uni",
+      "modelo": "multinomial_nb",
+      "f1_macro_cv": 0.4756,
+      "desvio": 0.073
+    }
+  ],
+  "por_clase": {
+    "Acidimetria-alcalimetria": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
+    },
+    "Ajuste de datos por minimos cuadrados": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
+    },
+    "Alcanos": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "Aparato digestivo": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "Bioseguridad": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Bioseguridad y microscopia": {
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1-score": 0.667,
+      "support": 4.0
+    },
+    "Celulas animales": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    },
+    "Claves analiticas": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    },
+    "Colesterol identificacion": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "Coliformes totales y termotolerantes": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "Comportamiento de hidroxidos en funcion a su ph": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    },
+    "Control de calidad fisico en comprimidos": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "Control de calidad quimico en comprimidos": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Cristalizacion": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "Cristalizacion y sublimacion": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    },
+    "Cultivo e identificacion del genero sthaphylococcus": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
+    },
+    "Curvas de valoracion": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Determinacion de bilirrubina": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Determinacion de cenizas en materias primas de uso farmaceutico": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Determinacion de glucosa": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Determinacion de punto de ebullicion": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Determinacion de punto de fusion": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "Determinacion de vitaminas": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "Determinacion del coeficiente gama por el metodo de clement y desormes": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Determinacion del indice de refraccion": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 14.0
+    },
+    "Diferencia de angiosperma y gimnospermas": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Division celular-mitosis": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Estandarizacion de soluciones": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 14.0
+    },
+    "Estudio de aceite": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "Estudio de aceite comestible": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "Examen de laboratorio": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Examen de microscopia": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
+    },
+    "Examen general de orina (microscopia)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "Examen preliminar": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 6.0
+    },
+    "Extraccion liquido-liquido": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Extraccion solido liquido y extraccion liquido liquido": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
+    },
+    "Formacion de precipitados": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
+    },
+    "Formas farmaceuticas": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
+    },
+    "Genero bacillos": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    },
+    "Glucidos totales 2da parte": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Gravimetria": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Grupo sanguineo": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
+    },
+    "Identificacion de biomoleculas con muestras conocidas": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 6.0
+    },
+    "Identificacion de enterobacterias": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
+    },
+    "Identificacion del genero haemophilus": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Inestabilidades e incompatibilidades farmaceuticas": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
+    },
+    "Infeccion del tracto urinario": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
+    },
+    "Introduccion a la farmacologia": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Iodometria": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    },
+    "La celula": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Ley de hess en un proceso de neutralizacion": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "Lipidos generalidades": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "Lipidos: obtencion e identificacion": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 6.0
+    },
+    "Materiales de laboratorio": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 12.0
+    },
+    "Materiales de uso comun en laboratorio": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "Medicion de masa y volumen": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Medicion de masa y volumen de liquidos": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 6.0
+    },
+    "Medicion de volumenes liquidos": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Microscopia": {
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1-score": 0.667,
+      "support": 2.0
+    },
+    "Mitocondria y metabolismo celular": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "Modelos matematicos de fenomenos fisicos": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Modelos moleculares": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    },
+    "No disyunciones": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 7.0
+    },
+    "Nucleosoma": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Observacion de bacterias": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "Observacion de celulas animales": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    },
+    "Observacion de celulas sexuales": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Observacion de celulas vegetales": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "Observacion de eucariontes unicelulares": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "Observacion de plastidios": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "Obtencion de acido benzoico": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
+    },
+    "Obtencion del salicilaldehido": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "Obtencion e identificacion de fosfolipidos": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 6.0
+    },
+    "Obtencion y propiedades del hidrogeno": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "Obtencion y propiedades del yodo": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Preparacion de acido picrico": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "Preparacion de m-dinitrobenceno": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 8.0
+    },
+    "Preparacion de medios de cultivos": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    },
+    "Preparacion de reactivo": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    },
+    "Preparacion de soluciones a un ph determinado": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 9.0
+    },
+    "Preparacion de soluciones por dilucion": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "Preparacion de soluciones simples": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    },
+    "Preparacion de soluciones stock": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 8.0
+    },
+    "Preparacion de soluciones tampon": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 13.0
+    },
+    "Preparacion de soluciones unidades fisicas": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 10.0
+    },
+    "Preparacion de soluciones unidades quimicas": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "Presencia de la enzima catalasa en presencia t.a.y.t.v": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "Propiedades de la membrana celular": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 20.0
+    },
+    "Propiedades quimicas de alcoholes": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Propiedades quimicas de aldehidos y cetonas": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
+    },
+    "Propiedades quimicas de fenoles": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "Proteinas plasmaticas": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "Reaccion redox": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Reactivos de grupo y especificos": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 7.0
+    },
+    "Reconocimiento de parasitos tisulares": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Revision de guias": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Saponificacion de una grasa y obtencion de acidos grasos": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "Sintesis de cetona": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Tecnicas de trabajo en el laboratorio": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    },
+    "Tejido cartilaginoso": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Tipos de reacciones": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 11.0
+    },
+    "Toma de muestra sanguinea": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "Trabajo expansion y compresion": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
+    },
+    "Uso y control de la micripipeta": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    },
+    "Verificacion de la ley de charles": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    }
+  },
+  "errores": {
+    "ejemplos": [
+      {
+        "texto": "BIOSEFURIDAD Y MICROSCOPIA",
+        "practica": "Bioseguridad y microscopia",
+        "prediccion": "Microscopia",
+        "probabilidad": 0.608
+      }
+    ],
+    "confusiones_frecuentes": [
+      {
+        "real": "Bioseguridad y microscopia",
+        "predicha": "Microscopia",
+        "veces": 1
+      }
+    ],
+    "exactitud_una_palabra": 1.0,
+    "exactitud_varias_palabras": 0.9943,
+    "probabilidad_media_aciertos": 0.59,
+    "probabilidad_media_errores": 0.608
+  },
+  "errores_prueba_manual": {
+    "ejemplos": [
+      {
+        "texto": "PREPARACION DE SOLUCIONES BUFFER",
+        "practica": "Preparacion de soluciones tampon",
+        "prediccion": "Preparacion de soluciones stock",
+        "probabilidad": 0.109
+      }
+    ],
+    "confusiones_frecuentes": [
+      {
+        "real": "Preparacion de soluciones tampon",
+        "predicha": "Preparacion de soluciones stock",
+        "veces": 1
+      }
+    ],
+    "exactitud_una_palabra": 1.0,
+    "exactitud_varias_palabras": 0.9875,
+    "probabilidad_media_aciertos": 0.588,
+    "probabilidad_media_errores": 0.109
+  },
+  "versiones": {
+    "python": "3.12.10",
+    "scikit-learn": "1.9.1"
+  }
+}
