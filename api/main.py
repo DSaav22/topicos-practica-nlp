@@ -18,7 +18,9 @@ from src.nlp.preprocesamiento import pasos
 
 RAIZ = Path(__file__).resolve().parents[1]
 MAX_CARACTERES = 500
-UMBRAL_CONFIRMAR = 0.5
+# Con cientos de clases la probabilidad absoluta queda baja aunque acierte; se pide confirmar
+# cuando la primera opción no llega al doble de la segunda.
+MARGEN_CONFIRMAR = 2.0
 
 pipeline = joblib.load(RAIZ / "models" / "pipeline.joblib")
 metricas = json.loads((RAIZ / "models" / "metricas.json").read_text(encoding="utf-8"))
@@ -102,12 +104,13 @@ def predecir(entrada: EntradaPrediccion):
         pares = [(c, p / total) for c, p in pares]
     pares.sort(key=lambda x: x[1], reverse=True)
     elegida, probabilidad = pares[0]
+    segunda = pares[1][1] if len(pares) > 1 else 0.0
     sugeridos = reactivos[reactivos["practica"] == elegida]
     return {
         "texto": entrada.texto,
         "practica": elegida,
         "probabilidad": round(float(probabilidad), 4),
-        "confirmar": bool(probabilidad < UMBRAL_CONFIRMAR),
+        "confirmar": bool(probabilidad < MARGEN_CONFIRMAR * segunda),
         "alternativas": [{"practica": c, "probabilidad": round(float(p), 4)} for c, p in pares[: entrada.top_k]],
         "reactivos_sugeridos": [
             {"reactivo": r.reactivo, "proporcion": float(r.proporcion), "sesiones": int(r.sesiones)}
