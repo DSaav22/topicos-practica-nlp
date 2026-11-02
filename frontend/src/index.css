@@ -1,0 +1,87 @@
+:root {
+  --azul: #12355b;
+  --azul-claro: #e8eef6;
+  --rojo: #b3261e;
+  --verde: #1b7f4b;
+  --ambar: #9a6700;
+  --gris: #5f6b7a;
+  --borde: #d8dee6;
+  --fondo: #f5f7fa;
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  color: #1d2733;
+  background: var(--fondo);
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; }
+h1, h2, h3 { margin: 0 0 0.5rem; }
+h1 { font-size: 1.4rem; }
+h2 { font-size: 1.1rem; color: var(--azul); }
+h3 { font-size: 0.95rem; margin-top: 1.2rem; }
+
+.pagina { max-width: 1200px; margin: 0 auto; padding: 1.5rem; }
+.cabecera { display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem; flex-wrap: wrap; }
+.sub { margin: 0.2rem 0 0; color: var(--gris); }
+.estado { font-size: 0.85rem; padding: 0.35rem 0.7rem; border-radius: 999px; }
+.estado.ok { background: #e3f4ea; color: var(--verde); }
+.estado.mal { background: #fbe9e7; color: var(--rojo); }
+
+.pestanas { display: flex; gap: 0.3rem; margin: 1.2rem 0; border-bottom: 1px solid var(--borde); }
+.pestanas button, .selector button {
+  border: none; background: none; padding: 0.6rem 1rem; cursor: pointer; color: var(--gris); font-size: 0.95rem;
+}
+.pestanas button.activa { color: var(--azul); border-bottom: 3px solid var(--azul); font-weight: 600; }
+.selector { display: flex; background: var(--azul-claro); border-radius: 8px; }
+.selector button { padding: 0.35rem 0.8rem; font-size: 0.85rem; }
+.selector button.activa { background: var(--azul); color: white; border-radius: 8px; }
+
+.rejilla { display: grid; grid-template-columns: repeat(auto-fit, minmax(420px, 1fr)); gap: 1rem; }
+.tarjeta { background: white; border: 1px solid var(--borde); border-radius: 10px; padding: 1.2rem; min-width: 0; }
+.tarjeta.ancho { grid-column: 1 / -1; }
+.titulo-fila { display: flex; justify-content: space-between; align-items: center; gap: 1rem; flex-wrap: wrap; }
+
+.entrada label { display: block; font-weight: 600; margin-bottom: 0.5rem; }
+.fila { display: flex; gap: 0.5rem; }
+.fila input {
+  flex: 1; padding: 0.7rem 0.9rem; border: 1px solid var(--borde); border-radius: 8px; font-size: 1rem;
+}
+.fila button {
+  padding: 0 1.4rem; border: none; border-radius: 8px; background: var(--azul); color: white; font-size: 1rem; cursor: pointer;
+}
+.fila button:disabled { opacity: 0.5; cursor: default; }
+.ejemplos { display: flex; gap: 0.4rem; flex-wrap: wrap; margin-top: 0.7rem; }
+.chip {
+  border: 1px solid var(--borde); background: var(--azul-claro); color: var(--azul);
+  border-radius: 999px; padding: 0.25rem 0.7rem; font-size: 0.8rem; cursor: pointer;
+}
+
+.practica { font-size: 1.3rem; font-weight: 600; margin: 0.2rem 0 0.6rem; }
+.prob { margin: 0.3rem 0 0; color: var(--gris); }
+.aviso { background: #fff4d6; color: var(--ambar); padding: 0.5rem 0.7rem; border-radius: 6px; }
+.barra { background: var(--azul-claro); border-radius: 4px; height: 10px; overflow: hidden; }
+.barra.grande { height: 14px; }
+.barra span { display: block; height: 100%; background: var(--azul); }
+.alternativas { list-style: none; padding: 0; margin: 0; }
+.alternativas li {
+  display: grid; grid-template-columns: minmax(0, 1fr) 120px 60px; gap: 0.6rem; align-items: center; padding: 0.3rem 0;
+}
+.alternativas .nombre { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 0.9rem; }
+.alternativas .valor { text-align: right; font-size: 0.85rem; color: var(--gris); }
+
+.tabla { width: 100%; border-collapse: collapse; font-size: 0.85rem; margin-top: 0.4rem; }
+.tabla th, .tabla td { text-align: left; padding: 0.4rem 0.5rem; border-bottom: 1px solid var(--borde); vertical-align: top; }
+.tabla th { color: var(--gris); font-weight: 600; }
+.tabla tr.destacada { background: #eef6f0; font-weight: 600; }
+.tabla tr.dudosa { background: #fff8e6; }
+
+.pasos { padding-left: 1.2rem; margin: 0; }
+.pasos li { margin-bottom: 0.8rem; }
+.pasos strong { display: block; margin-bottom: 0.25rem; }
+code { display: block; background: var(--fondo); padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.9rem; }
+.tokens { display: flex; flex-wrap: wrap; gap: 0.3rem; }
+.token { background: var(--azul-claro); color: var(--azul); padding: 0.15rem 0.5rem; border-radius: 4px; font-size: 0.85rem; }
+.token.quitada { background: #fbe9e7; color: var(--rojo); text-decoration: line-through; }
+.token.raiz { background: #e3f4ea; color: var(--verde); }
+
+.nota { color: var(--gris); font-size: 0.85rem; }
+.error { color: var(--rojo); }
