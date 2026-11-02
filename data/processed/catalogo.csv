@@ -3,8 +3,8 @@ Bioseguridad,82,2,"BQM,FAR","BIO-107,BIO-109,BIO-117,BIO-207,BIO-209,BQM-300,BQM
 Materiales de laboratorio,81,3,"BQM,FAR","QMC-100,QMC-101,QMC-102,QMC-103,QMC-105"
 Examen de laboratorio,77,3,"BQM,FAR","BIO-107,BIO-108,BIO-117,BIO-118,BIO-207,BIO-217,BQM-200,BQM-300"
 Preparacion de soluciones a un ph determinado,77,7,"BQM,FAR","QMC-100,QMC-102,QUIMCA GENERAL E INORGANICA"
-Observacion de bacterias,54,3,"BQM,FAR","BIO-107,BIO-108"
 Propiedades de la membrana celular,54,6,"BQM,FAR","BIO-107,BIO-108,BQM-308"
+Observacion de bacterias,54,3,"BQM,FAR","BIO-107,BIO-108"
 Preparacion de soluciones unidades quimicas,52,6,"BQM,FAR","QMC-100,QMC-101"
 Determinacion de punto de fusion,50,4,"BQM,FAR","FMC 400,QMC-101,QMC-103,QMC-105,QMC-205,QMC-207"
 Preparacion de soluciones unidades fisicas,50,7,"#ERROR!,BQM,FAR","QMC-100,QMC-101"
@@ -13,143 +13,255 @@ Observacion de celulas vegetales,43,5,"BQM,FAR","BIO-107,BIO-108"
 Mitocondria y metabolismo celular,42,4,"BQM,FAR","BIO-107,BIO-108"
 Tecnicas usuales de separacion,41,2,"BQM,FAR","QMC-100,QMC-101"
 Observacion de celulas animales,40,5,"BQM,FAR","BIO-107,BIO-108"
+Tejido epitelial,39,1,"BQM,FAR","BIO-117,BIO-118"
 Gravimetria,39,2,"BQM,FAR","QMC-201,QMC-203"
 Examen preliminar,39,3,"BQM,FAR","QMC-103,QMC-105"
-Alcanos,36,2,"BQM,FAR","QMC-103,QMC-105,QMC-207"
 Tipos de reacciones,36,5,"BQM,FAR","QMC-100,QMC-101,QMC-102"
-Microscopia,34,2,"BQM,FAR","BIO-107,BIO-108,BQM-311"
+Alcanos,36,2,"BQM,FAR","QMC-103,QMC-105,QMC-207"
+Observacion de hongos,35,1,"BQM,FAR","BIO-107,BIO-108,BIO-117"
+Frotis sanguineo,35,1,"BQM,FAR","BIO-107,BIO-108"
 Revision de guias,34,3,"BQM,FAR","BIO-117,BIO-217,BQM-200,BQM-303,BQM-311,BQM-405,BQM-430,FMC-200"
+Microscopia,34,2,"BQM,FAR","BIO-107,BIO-108,BQM-311"
 Determinacion de punto de ebullicion,34,3,"BQM,FAR","FMC-400,QMC-103,QMC-105,QMC-207"
 Estandarizacion de soluciones,32,3,"BQM,FAR","QMC-201,QMC-203"
+Cromatografia,32,1,"BQM,FAR","BQM-101,QMC-103,QMC-306"
 Preparacion de soluciones tampon,31,9,"BQM,FAR","BIO-308,QMC-100,QMC-102"
+Cromatina sexual,31,1,FAR,BIO-107
+Cariotipo,31,1,"BQM,FAR","BIO-107,BIO-109"
 Examen de microscopia,30,5,"BQM,EXTRA ASIGNATURA,FAR","BIO-107,BIO-108,BQM-407,FMC-205"
 Estequiometria de soluciones,30,2,"BQM,FAR","QMC-100,QMC-101,QUIMICA GENERAL E INORGANICA"
-Grupo sanguineo,29,3,"BQM,FAR","BIO-109,BIO-207,BIO-209,BQM-305"
+Preparacion de soluciones,29,1,"BQM,FAR","BIO-308,BQM-440,FMC-420,QMC-100,QMC-101,QMC-102,QMC-201"
+Analisis por solubilidad,29,1,"BQM,FAR","QMC-103,QMC-105"
 Introduccion,29,2,"BQM,FAR","BIO-117,BIO-209,BQM-201,BQM-315,BQM-440,FMC-302,PIB-201,PIB-300"
+Grupo sanguineo,29,3,"BQM,FAR","BIO-109,BIO-207,BIO-209,BQM-305"
 Determinacion del indice de refraccion,28,2,"BQM,FAR","QMC-103,QMC-105"
 Saponificacion de una grasa y obtencion de acidos grasos,26,3,"BQM,FAR","QMC-205,QMC-210,QMC210"
-Preparacion de soluciones simples,25,2,"BQM,FAR","BIO-308,FMC-420"
-Curvas de valoracion,25,3,"BQM,FAR","QMC-201,QMC-202,QMC-203"
-Cristalizacion y sublimacion,25,2,"BQM,FAR","QMC-103,QMC-105"
+Estudio de vino,25,1,"BQM,FAR","BQM-430,FMC-415"
 Preparacion de acido picrico,25,3,"BQM,FAR","QMC-205,QMC-207"
+Cristalizacion y sublimacion,25,2,"BQM,FAR","QMC-103,QMC-105"
+Curvas de valoracion,25,3,"BQM,FAR","QMC-201,QMC-202,QMC-203"
+Preparacion de soluciones simples,25,2,"BQM,FAR","BIO-308,FMC-420"
+Cromatina,24,1,"BQM,FAR","BIO-107,BIO-109"
+Carbohidratos generalidades,24,1,BQM,BQM-101
+Determinacion de la energia libre estandar de una reaccion quimica,23,1,"BQM,FAR","QMC-206,QMC-209"
+Medicion de masa,23,2,"BQM,FAR","QMC-100,QMC-101"
 Ajuste de datos por minimos cuadrados,23,3,"BQM,FAR","QMC-201,QMC-203,QMC-205"
 Propiedades quimicas de aldehidos y cetonas,23,4,"BQM,FAR","QMC-205,QMC-210"
 Plastidios,23,2,"BQM,FAR","BIO-107,BIO-108"
-Medicion de masa,23,2,"BQM,FAR","QMC-100,QMC-101"
-Polisacaridos,22,2,"BQM,FAR","BQM-101,BQM-300"
-Determinacion del agua de hidratacion,22,2,"BQM,FAR","QMC-100,QMC-101"
-Extraccion liquido-liquido,22,2,FAR,QMC-103
+Sublimacion,22,1,"BQM,FAR","QMC-103,QMC-105"
 Preparacion de soluciones stock,22,3,"BQM,FAR","BIO-308,BQM-440,FMC-420"
+Determinacion del agua de hidratacion,22,2,"BQM,FAR","QMC-100,QMC-101"
+Polisacaridos,22,2,"BQM,FAR","BQM-101,BQM-300"
+Medicion del ph de diferentes soluciones,22,1,"BQM,FAR","QMC-100,QMC-102"
 Formacion de precipitados,22,5,"BQM,FAR","QMC-101,QMC-201,QMC-202"
-Reactivos de grupo y especificos,21,5,"BQM,FAR","QMC-201,QMC-202"
-Tension superficial,21,2,"BQM,FAR","QMC-206,QMC-208"
-Lipidos generalidades,21,2,BQM,BQM-101
-Analisis elemental cualitativo,21,2,"BQM,FAR","QMC-103,QMC-105"
-Preparacion de m-dinitrobenceno,21,4,"BQM,FAR","QMC-205,QMC-207"
+Toma de muestra,22,1,BQM,"BIO-209,BQM-303,BQM-305,BQM-308,BQM-310,PIB-300"
+Extraccion liquido-liquido,22,2,FAR,QMC-103
 Sintesis de cetona,21,3,"BQM,FAR","QMC-205,QMC-207,QMC-210"
+Reactivos de grupo y especificos,21,5,"BQM,FAR","QMC-201,QMC-202"
 Propiedades quimicas de alcoholes,21,3,"BQM,FAR","QMC-205,QMC-210"
+Preparacion de m-dinitrobenceno,21,4,"BQM,FAR","QMC-205,QMC-207"
+Tension superficial,21,2,"BQM,FAR","QMC-206,QMC-208"
+Analisis elemental cualitativo,21,2,"BQM,FAR","QMC-103,QMC-105"
+Lipidos generalidades,21,2,BQM,BQM-101
+Calor de dilucion,20,1,"BQM,FAR","QMC-206,QMC-209"
+Destilacion simple,20,1,FAR,QMC-103
+Ley de hess en un proceso de neutralizacion,20,3,"BQM,FAR","QMC-206,QMC-209"
+Tejido muscular,20,1,"BQM,FAR","BIO-117,BIO-118"
 Descenso del punto de congelacion,20,2,"BQM,FAR","QMC-206,QMC-208"
 Propiedades quimicas de fenoles,20,4,"BQM,FAR","QMC-205,QMC-210"
-Ley de hess en un proceso de neutralizacion,20,3,"BQM,FAR","QMC-206,QMC-209"
-Identificacion de biomoleculas con muestras conocidas,19,5,BQM,BQM-201
-Comportamiento de hidroxidos en funcion a su ph,19,5,"BQM,FAR","QMC-201,QMC-202"
-Modelos moleculares,19,2,"BQM,FAR","QMC-103,QMC-105"
+Ambiente,20,1,"BQM,FAR","BIO-308,BQM-308,BQM-440,FIS-101,FMC-205,FMC-415,FMC-420,PIB-401"
+Hemograma completo,20,1,BQM,"BQM-314,BQM-400,PIB-400"
+Destilacion de eter de petroleo,19,1,FAR,FMC-305
 Preparacion de soluciones por dilucion,19,4,"BQM,FAR","QMC-100,QMC-101"
+Identificacion de biomoleculas con muestras conocidas,19,5,BQM,BQM-201
+Modelos moleculares,19,2,"BQM,FAR","QMC-103,QMC-105"
+Comportamiento de hidroxidos en funcion a su ph,19,5,"BQM,FAR","QMC-201,QMC-202"
+Rendimiento de una reaccion,19,1,"BQM,FAR","QMC-100,QMC-101"
 Control de calidad fisico en comprimidos,18,4,FAR,FMC-400
+Acidimetria,18,1,"BQM,FAR","QMC-201,QMC-203"
+Medicion de masa y volumen de liquidos,18,4,"BQM,FAR","QMC-100,QMC-101"
 No disyunciones,18,2,BQM,BIO-109
 Obtencion de furfural,18,2,"BQM,FAR","QMC-205,QMC-210"
-Medicion de masa y volumen de liquidos,18,4,"BQM,FAR","QMC-100,QMC-101"
-Extraccion solido liquido y extraccion liquido liquido,17,4,"BQM,FAR","QMC-103,QMC-105"
+Corpusculo de barr,18,1,"BQM,FAR","BIO-107,BIO-109"
+Mitosis,18,1,"BQM,FAR","BIO-107,BIO-108,BIO-308"
+Sistema nervioso,17,1,"BQM,FAR","BIO-117,BIO-118"
 Obtencion y propiedades del yodo,17,3,BQM,QMC-102
+Extraccion solido liquido y extraccion liquido liquido,17,4,"BQM,FAR","QMC-103,QMC-105"
+Sistema digestivo,17,1,"BQM,FAR","BIO-117,BIO-118"
 Carbohidratos - propiedades quimicas,17,2,BQM,BQM-101
+Antibiograma,17,1,"BQM,FAR","BQM-308,BQM-309,BQM-407"
 De los genes a las proteinas,17,2,"BQM,FAR","BIO-107,BIO-109"
-Obtencion e identificacion de fosfolipidos,16,2,BQM,BQM-101
-Tejido cartilaginoso,16,2,"BQM,FAR","BIO-107,BIO-117,BIO-118"
 Formas farmaceuticas,16,2,"BQM,FAR","FMC-200,FMC-302"
+Tejido vegetal,16,1,FAR,BIO-217
+Tejido nervioso,16,1,"BQM,FAR","BIO-117,BIO-118"
+Alquenos,16,1,FAR,QMC-103
+Obtencion e identificacion de fosfolipidos,16,2,BQM,BQM-101
+Marcha fitoquimica- extracto etereo,16,1,FAR,FMC-305
+Tejido cartilaginoso,16,2,"BQM,FAR","BIO-107,BIO-117,BIO-118"
+Cinetica enzimatica,16,1,"BQM,FAR","BQM-200,QMC-206,QMC-208"
 Materiales de uso comun en laboratorio,16,2,"BQM,FAR","QMC-100,QMC-101"
 Velocidad de reaccion,16,2,FAR,"QMC-100,QMC-103"
-Determinacion de densidad,15,2,"BQM,FAR","FMC-400,QMC-103,QMC-105"
 Estudio de aceite comestible,15,3,"BQM,FAR","BQM-430,FMC-415"
+Monohibridismo,15,1,BQM,BIO-109
 Analisis toxicologico,15,2,"BQM,FAR","BQM-435,FMC-405"
-La celula,15,3,"BQM,FAR","BIO-207,BIO-209,BIO-217"
+Determinacion de densidad,15,2,"BQM,FAR","FMC-400,QMC-103,QMC-105"
+Tejido oseo,15,1,"BQM,FAR","BIO-117,BIO-118"
+Estudio de harina de trigo,15,1,"BQM,FAR","BQM-430,FMC-415"
 Lipidos: obtencion e identificacion,15,3,BQM,"BQM-101,BQM-201"
+La celula,15,3,"BQM,FAR","BIO-207,BIO-209,BIO-217"
+Plantas medicinales,15,1,FAR,BIO-217
 Obtencion de acido benzoico,15,3,"BQM,FAR","QMC-205,QMC-207"
-Observacion de celulas sexuales,14,2,FAR,BIO-107
-Verificacion de la ley de charles,14,4,"BQM,FAR","QMC-206,QMC-208"
+Osteologia,15,1,"BQM,FAR","BIO-117,BIO-118"
+Determinacion del calor de fusion del hielo,15,1,"BQM,FAR","QMC-206,QMC-209"
 Secrecion salival,14,2,"BQM,FAR","BIO-207,BIO-209"
-Obtencion de enzimas,14,2,BQM,BQM-200
-Reaccion de saponificacion de acetato de etilo,14,2,"BQM,FAR","QMC-206,QMC-208"
-Marcha fitoquimica - extracto etanolico acuoso,14,2,FAR,FMC-305
+Verificacion de la ley de gay lussac,14,1,"BQM,FAR","QMC-206,QMC-208"
+Verificacion de la ley de charles,14,4,"BQM,FAR","QMC-206,QMC-208"
+Formula leucocitaria,14,1,"BQM,FAR","BIO-207,BQM-314"
+Alelos multiples,14,1,BQM,BIO-109
 Inestabilidades e incompatibilidades farmaceuticas,14,3,FAR,FMC-304
-Obtencion y propiedades del hidrogeno,13,3,"BQM,FAR","QMC-100,QMC-102"
-Normas de bioseguridad,13,2,"BQM,FAR","BIO-107,QMC-100,QMC-207,QMC-306"
-Influencia del ph y la t en las reacciones catalizadas por enzimas,13,2,BQM,BQM-200
-"Diferencia entre mitosis y meiosis, estructura del adn, nucleosoma",13,2,FAR,BIO-107
+Alquinos,14,1,FAR,QMC-103
+Marcha fitoquimica - extracto etanolico acuoso,14,2,FAR,FMC-305
+Reaccion de saponificacion de acetato de etilo,14,2,"BQM,FAR","QMC-206,QMC-208"
+Placas,14,1,FAR,BIO-117
+Obtencion de enzimas,14,2,BQM,BQM-200
+Observacion de celulas sexuales,14,2,FAR,BIO-107
+Extraccion de adn,14,1,"BQM,FAR","BIO-107,BIO-308,BQM-440"
+Aines parte 1,14,1,FAR,FMC-302
+Tecnicas de separacion,13,2,"BQM,FAR","QMC-100,QMC-101"
 Coliformes totales y termotolerantes,13,3,"BQM,FAR","BQM-430,FMC-415"
 Extraccion solido-liquido,13,2,FAR,QMC-103
+Farmacocinetica,13,1,"BQM,FAR","FMC-200,FMC-302"
+Influencia del ph y la t en las reacciones catalizadas por enzimas,13,2,BQM,BQM-200
+Interferencia y enmascaramiento,13,1,"BQM,FAR","QMC-201,QMC-202"
+Tejido conectivo,13,1,"BQM,FAR","BIO-117,BIO-118"
+Verificacion de la ley de boyle y mariotte,13,1,"BQM,FAR","QMC-206,QMC-208"
+Obtencion y propiedades del hidrogeno,13,3,"BQM,FAR","QMC-100,QMC-102"
+Determinacion del calor especifico de un solido,13,2,"BQM,FAR","QMC-206,QMC-209"
 Toma de muestra fraccionamiento celular,13,2,BQM,BQM-101
-Tecnicas de separacion,13,2,"BQM,FAR","QMC-100,QMC-101"
+Normas de bioseguridad,13,2,"BQM,FAR","BIO-107,QMC-100,QMC-207,QMC-306"
 Marcha analitica i,13,2,"BQM,FAR","QMC-201,QMC-202"
 Medicion de masa y volumen,13,3,"BQM,FAR","QMC-100,QMC-101,QMC-102"
-Determinacion del calor especifico de un solido,13,2,"BQM,FAR","QMC-206,QMC-209"
-Cultivo e identificacion del genero sthaphylococcus,12,2,"BQM,FAR",BQM-308
-Cristalizacion,12,2,FAR,QMC-103
+"Diferencia entre mitosis y meiosis, estructura del adn, nucleosoma",13,2,FAR,BIO-107
+Carbonatos,12,1,"BQM,FAR","QMC-201,QMC-203"
+Accion hidrolitica de la amilasa,12,1,BQM,BQM-200
 Acidos grasos saturados e insaturados,12,2,BQM,BQM-201
+Ciclo celular,12,1,FAR,BIO-107
+Cristalizacion,12,2,FAR,QMC-103
+Cultivo e identificacion del genero sthaphylococcus,12,2,"BQM,FAR",BQM-308
+Destilacion por arrastre con vapor de agua,12,1,FAR,QMC-103
+Enmascaramiento de formulaciones liquidos y semisolidas,12,1,FAR,FMC-304
+Extraccion de dna plasmidico,12,1,"BQM,FAR","BIO-308,BQM-440,FMC-420"
 Trabajo expansion y compresion,12,5,"BQM,FAR","BQM-209,QMC-206,QMC-209"
-Determinacion de la constante termica de un calorimetro,11,2,"BQM,FAR","QMC-206,QMC-209"
+Interferencia y enmascaramiento y redox,12,1,"BQM,FAR","QMC-201,QMC-202"
+Alcalimetria,11,1,"BQM,FAR","QMC-201,QMC-203"
 Aparato digestivo,11,2,"BQM,FAR","BIO-117,BIO-118"
-Diferencia entre calor y temperatura,11,2,"BQM,FAR","QMC-204,QMC-206,QMC-209"
-Medicion de volumenes liquidos,11,3,"BQM,FAR","QMC-100,QMC-101"
-Obtencion del salicilaldehido,11,3,FAR,QMC-205
+Toma de muestra sanguinea y fraccionamiento celular,11,1,BQM,BQM-101
 Toma de muestra sanguinea,11,3,"BQM,FAR","BIO-207,BQM-305"
+Hongos,11,1,"BQM,FAR","BIO-107,BIO-108,BIO-217"
+Division celular-mitosis,11,2,"BQM,FAR","BIO-107,BIO-108"
+Medicion de volumenes liquidos,11,3,"BQM,FAR","QMC-100,QMC-101"
 Calculo de provision de energia,11,2,BQM,BQM-201
 Claves analiticas,11,3,FAR,BIO-217
-Calor de solucion - calor de neutralizacion,11,2,"BQM,FAR","QMC-206,QMC-209"
-Proteinas plasmaticas,11,2,BQM,BQM-101
-Reconocimiento de parasitos tisulares,11,3,FAR,FMC-205
+Saponificacion de una grasa,11,1,"BQM,FAR","QMC-205,QMC-210"
+Preparacion de yodoformo,11,1,"BQM,FAR","QMC-205,QMC-207"
+Diferencia entre calor y temperatura,11,2,"BQM,FAR","QMC-204,QMC-206,QMC-209"
+Determinacion del rendimiento de una reaccion,11,1,"BQM,FAR","QMC-100,QMC-101"
+Determinacion de rotacion optica,11,1,"BQM,FAR","QMC-103,QMC-105"
+Obtencion del salicilaldehido,11,3,FAR,QMC-205
 Estudio de aceite,11,4,"BQM,FAR","BQM-430,FMC-415"
-Division celular-mitosis,11,2,"BQM,FAR","BIO-107,BIO-108"
-Acidimetria-alcalimetria,10,2,"BQM,FAR","QMC-201,QMC-203"
-Tecnicas de trabajo en el laboratorio,10,3,FAR,QMC-103
-Uso y control de la micripipeta,10,3,BQM,QMC-306
-Bioseguridad en laboratorio,10,2,"BQM,FAR","BIO-118,BQM-200,BQM-305,FMC-205,QMC-103"
-Preparacion de medios de cultivos,10,3,"BQM,FAR","BQM-308,BQM-440,FMC-205,FMC-420"
-Reaccion redox,10,2,"BQM,FAR","QMC-201,QMC-202"
+Determinacion de la constante termica de un calorimetro,11,2,"BQM,FAR","QMC-206,QMC-209"
+Proteinas plasmaticas,11,2,BQM,BQM-101
+Proyecto,11,1,FAR,QMC-205
+Reconocimiento de parasitos tisulares,11,3,FAR,FMC-205
+Colorantes artificiales,11,1,FAR,FMC-415
+Control de calidad fisico en suspenciones,11,1,FAR,FMC-400
+Calor de solucion - calor de neutralizacion,11,2,"BQM,FAR","QMC-206,QMC-209"
+Sintesis de anilina parte 1,11,1,"BQM,FAR","QMC-205,QMC-210"
+Estudio de harina,10,1,"BQM,FAR","BQM-430,FMC-415"
 Obtencion y propiedades del cloruro de hidrogeno,10,2,BQM,QMC-102
-Diferencia de angiosperma y gimnospermas,10,3,FAR,BIO-217
-Determinacion de bilirrubina,10,2,BQM,"BQM-315,BQM-415"
-Exposiciones,10,2,BQM,"BIO-209,BQM-305,BQM-435"
+Reaccion redox,10,2,"BQM,FAR","QMC-201,QMC-202"
+Tecnicas de trabajo en el laboratorio,10,3,FAR,QMC-103
+Acidimetria-alcalimetria,10,2,"BQM,FAR","QMC-201,QMC-203"
+Sistema respiratorio,10,1,"BQM,FAR","BIO-117,BIO-118"
+Propiedades de los alcanos,10,1,BQM,QMC-207
+Preparacion de medios de cultivos,10,3,"BQM,FAR","BQM-308,BQM-440,FMC-205,FMC-420"
 Iodometria,10,2,BQM,"QMC-202,QMC-203"
+Uso y control de la micripipeta,10,3,BQM,QMC-306
 Normas de trabajo y medidas de seguridad en el laboratorio,10,2,FAR,QMC-103
+Diferencia de angiosperma y gimnospermas,10,3,FAR,BIO-217
+Determinacion de carbonatos,10,1,BQM,QMC-203
+Determinacion de bilirrubina,10,2,BQM,"BQM-315,BQM-415"
+Preparacion y propiedades de los alquenos,10,1,"BQM,FAR","QMC-103,QMC-207"
+Bioseguridad en laboratorio,10,2,"BQM,FAR","BIO-118,BQM-200,BQM-305,FMC-205,QMC-103"
+Introduccion al laboratorio,10,1,"BQM,FAR","BIO-207,BQM-201,FMC-412,QMC-210,QMC-303"
+Exposiciones,10,2,BQM,"BIO-209,BQM-305,BQM-435"
 Digestion intestinal,9,2,FAR,BIO-207
-Hoja morfologia,9,2,FAR,BIO-217
-Celulas animales,9,2,"BQM,FAR","BIO-107,BIO-108,BIO-117"
-Destilacion por arrastre de vapor,9,2,FAR,QMC-103
-Determinacion de glucosa,9,2,BQM,BQM-315
-Observacion de celulas sanguineas,9,2,BQM,BIO-109
 Nucleosoma,9,2,FAR,BIO-107
-Material de laboratorio y reactivos,9,2,BQM,QMC-306
-La semilla,9,2,FAR,BIO-217
+Diluciones,9,1,BQM,"BQM-305,QMC-101"
+Aparato circulatorio,9,1,"BQM,FAR","BIO-109,BIO-117,BIO-118"
 Identificacion del genero haemophilus,9,2,BQM,BQM-309
+Almidon: determinacion de su degradacion,9,1,BQM,BQM-201
+Acidez total,9,1,"BQM,FAR","BQM-420,FMC-415"
+Tecnicas de separacion solido-solido,9,1,"BQM,FAR","QMC-100,QMC-101"
+Cariotipo humano,9,1,"BQM,FAR","BIO-107,BIO-109"
+Celulas animales,9,2,"BQM,FAR","BIO-107,BIO-108,BIO-117"
+Proteinas generalidades,9,1,BQM,BQM-101
+Determinacion de glucosa,9,2,BQM,BQM-315
+Determinacion del grado de solubilidad,9,1,FAR,FMC-400
+Destilacion por arrastre de vapor,9,2,FAR,QMC-103
 Determinacion de urea y creatina,9,2,"BQM,FAR","BQM-300,BQM-315"
 Determinacion del coeficiente gama por el metodo de clement y desormes,9,3,"BQM,FAR","QMC-206,QMC-209"
-Control de calidad quimico en comprimidos,8,2,FAR,FMC-400
-Colesterol identificacion,8,2,"BQM,FAR","BQM-101,BQM-300"
-Determinacion de cenizas en materias primas de uso farmaceutico,8,2,FAR,FMC-400
-Examen general de orina (microscopia),8,3,BQM,BQM-415
-Lipidos : obtencion e identificacion/acidos grasos: saturados e insaturados,8,2,BQM,BQM-201
-Glucidos totales 2da parte,8,2,FAR,FMC-415
-Infeccion del tracto urinario,8,2,BQM,BQM-407
-Genero bacillos,8,2,"BQM,FAR","BQM-308,BQM-309"
-Identificacion de enterobacterias,8,2,"BQM,FAR",BQM-308
-Introduccion a la farmacologia,8,3,BQM,FMC-200
-Determinacion de vitaminas,8,2,BQM,BQM-300
-Modelos matematicos de fenomenos fisicos,8,2,FAR,FIS-101
-Preparacion de reactivo,8,2,BQM,"BIO-308,BQM-311,BQM-440"
-Observacion de eucariontes unicelulares,8,4,"BQM,FAR","BIO-107,BIO-108"
-Observacion de plastidios,8,2,"BQM,FAR","BIO-107,BIO-108"
-Obtencion de colorantes vegetales y teñido de fibras,8,2,"BQM,FAR","QMC-205,QMC-210"
-Presencia de la enzima catalasa en presencia t.a.y.t.v,8,2,BQM,BQM-200
-Tecnicas de separacion solido-liquido,8,2,BQM,QMC-101
+Material de laboratorio y reactivos,9,2,BQM,QMC-306
+Extraccion de acidos nucleicos,9,1,FAR,BIO-107
+Exploracion de los reflejos en el hombre,9,1,"BQM,FAR","BIO-207,BIO-209"
+Permanganometria,9,1,BQM,"QMC-202,QMC-203"
+Obtencion de materias primas por aplicación de operaciones farmaceuticas,9,1,FAR,FMC-304
+Enterobacterias,9,1,"BQM,FAR",BQM-308
+La semilla,9,2,FAR,BIO-217
+Hoja morfologia,9,2,FAR,BIO-217
+Flor,9,1,FAR,"BIO-207,BIO-217"
+Farmacodinamia,9,1,BQM,FMC-200
+Observacion de celulas sanguineas,9,2,BQM,BIO-109
+Microcultivo,9,1,BQM,BQM-303
+Evaluacion de la actividad antimicrobiana,9,1,FAR,FMC-305
+Examen coproparasitologico,9,1,"BQM,FAR","BQM-311,FMC-205"
 Uso de la micropipeta,8,2,"BQM,FAR","BQM-300,FMC-420"
 Variacion de la viscosidad con la temperatura,8,2,"BQM,FAR","QMC-206,QMC-208"
+Lipidos : obtencion e identificacion/acidos grasos: saturados e insaturados,8,2,BQM,BQM-201
+Formacion de iones complejos,8,1,"BQM,FAR","QMC-201,QMC-202"
+Identificacion de enterobacterias,8,2,"BQM,FAR",BQM-308
+Infeccion del tracto urinario,8,2,BQM,BQM-407
+Interpretacion del hemograma,8,1,BQM,"BIO-209,BQM-314,BQM-414"
+Introduccion a la farmacologia,8,3,BQM,FMC-200
+Energia libre de gibbs,8,1,BQM,QMC-209
+Elaboracion de unguento analgesico,8,1,FAR,FMC-412
+Elaboracion de soluciones,8,1,FAR,FMC-304
+Disolucion de precipitados,8,1,"BQM,FAR","QMC-201,QMC-202"
+Observacion de eucariontes unicelulares,8,4,"BQM,FAR","BIO-107,BIO-108"
+Modelos matematicos de fenomenos fisicos,8,2,FAR,FIS-101
+Examen general de orina (microscopia),8,3,BQM,BQM-415
+Examen general de orina,8,1,BQM,BQM-415
+Glucidos totales 2da parte,8,2,FAR,FMC-415
+Genero bacillos,8,2,"BQM,FAR","BQM-308,BQM-309"
+Energia libre y equilibrio,8,1,"BQM,FAR","QMC-206,QMC-209"
+Espermograma,8,1,BQM,BQM-415
+Obtencion de colorantes vegetales y teñido de fibras,8,2,"BQM,FAR","QMC-205,QMC-210"
+Observacion de plastidios,8,2,"BQM,FAR","BIO-107,BIO-108"
+Determinacion del peso molecular,8,1,BQM,QMC-208
+Determinacion de vitaminas,8,2,BQM,BQM-300
+Determinacion de actividad enzimatica por desaparicion de sustrato,8,1,BQM,BQM-200
+Determinacion de aminoacidos y proteinas,8,1,BQM,BQM-300
+Presencia de la enzima catalasa en presencia t.a.y.t.v,8,2,BQM,BQM-200
+Preparacion de reactivo,8,2,BQM,"BIO-308,BQM-311,BQM-440"
+Diagnostico de malaria,8,1,FAR,FMC-205
+Determinacion espectrofotometrica de la constante de disociacion de un indicador de acido base,8,1,FAR,QMC-303
+Reflejos en el hombre,8,1,"BQM,FAR","BIO-207,BIO-209"
+Determinacion de cenizas en materias primas de uso farmaceutico,8,2,FAR,FMC-400
+Cultivo e identificacion del genero streptococcus,8,1,"BQM,FAR",BQM-308
+Cultivo de enterobacterias,8,1,FAR,BQM-308
+Control de calidad quimico en comprimidos,8,2,FAR,FMC-400
+Repaso,8,1,BQM,"BQM-201,BQM-309,BQM-315,QMC-306"
+Colesterol identificacion,8,2,"BQM,FAR","BQM-101,BQM-300"
+Calor de solucion,8,1,"BQM,FAR","QMC-206,QMC-209"
+Tecnicas de separacion solido-liquido,8,2,BQM,QMC-101
+#16 hidrogeno #17 acido clorhidrico #18 amonio,8,1,FAR,QMC-100

@@ -31,7 +31,7 @@ SALIDA = RAIZ / "models"
 MODELOS = ["logistica", "complement_nb", "multinomial_nb"]
 MODOS = ["stem", "lemma"]
 GRILLAS = {
-    "logistica": {"modelo__C": [1, 5, 10, 30, 100]},
+    "logistica": {"modelo__C": [0.3, 1, 3, 10, 30, 100]},
     "complement_nb": {"modelo__alpha": [0.01, 0.05, 0.1, 0.3, 1.0]},
 }
 

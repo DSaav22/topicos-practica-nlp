@@ -33,7 +33,9 @@ PALABRAS_EXACTAS = {
     "colorimetria", "calorimetria", "disolucion", "disoluciones", "dilucion", "diluciones",
 }
 MIN_FILAS_CLASE = 8
-MIN_VARIANTES_CLASE = 2
+# Una práctica escrita siempre igual también es del catálogo: entra al entrenamiento
+# aunque no aporte escrituras alternativas a la prueba.
+MIN_VARIANTES_CLASE = 1
 UMBRAL_MAYORIA_REACTIVO = 0.5
 CLAVES_EXCLUIDAS = {"", "nombre"}  # "sin nombre" queda en "nombre"
 

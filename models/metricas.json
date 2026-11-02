@@ -1,11 +1,11 @@
 {
-  "fecha": "2026-11-02T11:54:25",
+  "fecha": "2026-11-02T12:01:13",
   "semilla": 42,
   "modelo_produccion": "logistica",
   "datos": {
-    "filas": 2992,
-    "practicas": 154,
-    "entrenamiento": 2628,
+    "filas": 4565,
+    "practicas": 266,
+    "entrenamiento": 4201,
     "prueba": 364,
     "escrituras_prueba": 135,
     "practicas_en_prueba": 105,
@@ -17,57 +17,58 @@
     "max_features": 5000,
     "sublinear_tf": true,
     "ngramas": "uni+bi+car",
-    "vocabulario": 4009
+    "vocabulario": 5920
   },
   "modelos": {
     "logistica": {
-      "modo": "stem",
+      "modo": "lemma",
       "ngramas": "uni+bi+car",
       "hiperparametros": {
-        "C": 1
+        "C": 0.3
       },
-      "f1_macro_cv": 0.9074,
+      "f1_macro_cv": 0.8871,
       "grilla": {
-        "{'modelo__C': 1}": 0.9074,
-        "{'modelo__C': 5}": 0.9074,
-        "{'modelo__C': 10}": 0.9074,
-        "{'modelo__C': 30}": 0.9074,
-        "{'modelo__C': 100}": 0.9074
+        "{'modelo__C': 0.3}": 0.8871,
+        "{'modelo__C': 1}": 0.8727,
+        "{'modelo__C': 3}": 0.8594,
+        "{'modelo__C': 10}": 0.847,
+        "{'modelo__C': 30}": 0.847,
+        "{'modelo__C': 100}": 0.8603
       },
       "prueba": {
-        "f1_macro": 0.9937,
-        "f1_ponderado": 0.9945,
-        "exactitud": 0.9945
+        "f1_macro": 0.9264,
+        "f1_ponderado": 0.966,
+        "exactitud": 0.9698
       },
       "prueba_manual": {
-        "f1_macro": 0.9903,
-        "f1_ponderado": 0.9866,
-        "exactitud": 0.9878
+        "f1_macro": 0.8374,
+        "f1_ponderado": 0.916,
+        "exactitud": 0.9024
       }
     },
     "complement_nb": {
       "modo": "stem",
       "ngramas": "uni+bi+car",
       "hiperparametros": {
-        "alpha": 0.01
+        "alpha": 0.1
       },
-      "f1_macro_cv": 0.7733,
+      "f1_macro_cv": 0.6889,
       "grilla": {
-        "{'modelo__alpha': 0.01}": 0.7733,
-        "{'modelo__alpha': 0.05}": 0.7733,
-        "{'modelo__alpha': 0.1}": 0.7452,
-        "{'modelo__alpha': 0.3}": 0.73,
-        "{'modelo__alpha': 1.0}": 0.73
+        "{'modelo__alpha': 0.01}": 0.6839,
+        "{'modelo__alpha': 0.05}": 0.6839,
+        "{'modelo__alpha': 0.1}": 0.6889,
+        "{'modelo__alpha': 0.3}": 0.678,
+        "{'modelo__alpha': 1.0}": 0.6547
       },
       "prueba": {
-        "f1_macro": 0.7974,
-        "f1_ponderado": 0.8769,
-        "exactitud": 0.8929
+        "f1_macro": 0.7413,
+        "f1_ponderado": 0.8568,
+        "exactitud": 0.8709
       },
       "prueba_manual": {
-        "f1_macro": 0.8936,
-        "f1_ponderado": 0.9382,
-        "exactitud": 0.939
+        "f1_macro": 0.7887,
+        "f1_ponderado": 0.8733,
+        "exactitud": 0.878
       }
     },
     "linea_base": {
@@ -89,138 +90,138 @@
         "exactitud": 1.0
       },
       "prueba_manual": {
-        "f1_macro": 0.6802,
-        "f1_ponderado": 0.8374,
-        "exactitud": 0.8293
+        "f1_macro": 0.5528,
+        "f1_ponderado": 0.7715,
+        "exactitud": 0.7561
       }
     }
   },
   "experimentos": [
     {
-      "modo": "stem",
-      "ngramas": "uni+bi+car",
-      "modelo": "logistica",
-      "f1_macro_cv": 0.9074,
-      "desvio": 0.0535
-    },
-    {
       "modo": "lemma",
       "ngramas": "uni+bi+car",
       "modelo": "logistica",
-      "f1_macro_cv": 0.8993,
-      "desvio": 0.0328
+      "f1_macro_cv": 0.8727,
+      "desvio": 0.0316
+    },
+    {
+      "modo": "stem",
+      "ngramas": "uni+bi+car",
+      "modelo": "logistica",
+      "f1_macro_cv": 0.8415,
+      "desvio": 0.0236
     },
     {
       "modo": "stem",
       "ngramas": "uni",
       "modelo": "logistica",
-      "f1_macro_cv": 0.7962,
-      "desvio": 0.0668
+      "f1_macro_cv": 0.7439,
+      "desvio": 0.0809
     },
     {
       "modo": "lemma",
       "ngramas": "uni",
       "modelo": "logistica",
-      "f1_macro_cv": 0.7723,
-      "desvio": 0.0926
+      "f1_macro_cv": 0.7127,
+      "desvio": 0.0916
     },
     {
       "modo": "stem",
       "ngramas": "uni+bi",
       "modelo": "logistica",
-      "f1_macro_cv": 0.7693,
-      "desvio": 0.0422
+      "f1_macro_cv": 0.691,
+      "desvio": 0.0696
     },
     {
       "modo": "stem",
       "ngramas": "uni+bi+car",
       "modelo": "complement_nb",
-      "f1_macro_cv": 0.73,
-      "desvio": 0.0666
+      "f1_macro_cv": 0.6547,
+      "desvio": 0.0627
     },
     {
       "modo": "lemma",
       "ngramas": "uni+bi",
       "modelo": "logistica",
-      "f1_macro_cv": 0.7268,
-      "desvio": 0.0764
-    },
-    {
-      "modo": "stem",
-      "ngramas": "uni+bi",
-      "modelo": "complement_nb",
-      "f1_macro_cv": 0.7119,
-      "desvio": 0.0346
+      "f1_macro_cv": 0.653,
+      "desvio": 0.1009
     },
     {
       "modo": "lemma",
       "ngramas": "uni+bi+car",
       "modelo": "complement_nb",
-      "f1_macro_cv": 0.7092,
-      "desvio": 0.0276
+      "f1_macro_cv": 0.6452,
+      "desvio": 0.0517
     },
     {
-      "modo": "lemma",
+      "modo": "stem",
       "ngramas": "uni+bi",
       "modelo": "complement_nb",
-      "f1_macro_cv": 0.6551,
-      "desvio": 0.035
-    },
-    {
-      "modo": "lemma",
-      "ngramas": "uni+bi+car",
-      "modelo": "multinomial_nb",
-      "f1_macro_cv": 0.643,
-      "desvio": 0.0753
+      "f1_macro_cv": 0.5969,
+      "desvio": 0.0456
     },
     {
       "modo": "stem",
       "ngramas": "uni+bi+car",
       "modelo": "multinomial_nb",
-      "f1_macro_cv": 0.6282,
-      "desvio": 0.0567
+      "f1_macro_cv": 0.5846,
+      "desvio": 0.0464
+    },
+    {
+      "modo": "lemma",
+      "ngramas": "uni+bi+car",
+      "modelo": "multinomial_nb",
+      "f1_macro_cv": 0.5767,
+      "desvio": 0.0533
+    },
+    {
+      "modo": "lemma",
+      "ngramas": "uni+bi",
+      "modelo": "complement_nb",
+      "f1_macro_cv": 0.5634,
+      "desvio": 0.0536
     },
     {
       "modo": "stem",
       "ngramas": "uni",
       "modelo": "complement_nb",
-      "f1_macro_cv": 0.6119,
-      "desvio": 0.0295
+      "f1_macro_cv": 0.5278,
+      "desvio": 0.0411
     },
     {
       "modo": "lemma",
       "ngramas": "uni",
       "modelo": "complement_nb",
-      "f1_macro_cv": 0.5977,
-      "desvio": 0.0393
-    },
-    {
-      "modo": "stem",
-      "ngramas": "uni+bi",
-      "modelo": "multinomial_nb",
-      "f1_macro_cv": 0.5333,
-      "desvio": 0.0994
+      "f1_macro_cv": 0.5152,
+      "desvio": 0.0465
     },
     {
       "modo": "stem",
       "ngramas": "uni",
       "modelo": "multinomial_nb",
-      "f1_macro_cv": 0.5205,
-      "desvio": 0.0772
+      "f1_macro_cv": 0.4919,
+      "desvio": 0.0651
+    },
+    {
+      "modo": "stem",
+      "ngramas": "uni+bi",
+      "modelo": "multinomial_nb",
+      "f1_macro_cv": 0.4874,
+      "desvio": 0.0961
     },
     {
       "modo": "lemma",
       "ngramas": "uni+bi",
       "modelo": "multinomial_nb",
-      "f1_macro_cv": 0.4982,
-      "desvio": 0.1002
+      "f1_macro_cv": 0.4545,
+      "desvio": 0.0974
     },
     {
       "modo": "lemma",
       "ngramas": "uni",
       "modelo": "multinomial_nb",
-      "f1_macro_cv": 0.4756,
-      "desvio": 0.073
+      "f1_macro_cv": 0.4469,
+      "desvio": 0.0387
     }
   ],
   "por_clase": {
@@ -249,15 +250,15 @@
       "support": 2.0
     },
     "Bioseguridad": {
-      "precision": 1.0,
+      "precision": 0.333,
       "recall": 1.0,
-      "f1-score": 1.0,
+      "f1-score": 0.5,
       "support": 1.0
     },
     "Bioseguridad y microscopia": {
-      "precision": 1.0,
-      "recall": 0.5,
-      "f1-score": 0.667,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
       "support": 4.0
     },
     "Celulas animales": {
@@ -381,9 +382,9 @@
       "support": 1.0
     },
     "Division celular-mitosis": {
-      "precision": 1.0,
-      "recall": 1.0,
-      "f1-score": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
       "support": 1.0
     },
     "Estandarizacion de soluciones": {
@@ -411,9 +412,9 @@
       "support": 1.0
     },
     "Examen de microscopia": {
-      "precision": 1.0,
+      "precision": 0.5,
       "recall": 1.0,
-      "f1-score": 1.0,
+      "f1-score": 0.667,
       "support": 4.0
     },
     "Examen general de orina (microscopia)": {
@@ -573,9 +574,9 @@
       "support": 1.0
     },
     "Microscopia": {
-      "precision": 0.5,
-      "recall": 1.0,
-      "f1-score": 0.667,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
       "support": 2.0
     },
     "Mitocondria y metabolismo celular": {
@@ -583,6 +584,12 @@
       "recall": 1.0,
       "f1-score": 1.0,
       "support": 2.0
+    },
+    "Mitosis": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 0.0
     },
     "Modelos matematicos de fenomenos fisicos": {
       "precision": 1.0,
@@ -698,6 +705,12 @@
       "f1-score": 1.0,
       "support": 3.0
     },
+    "Preparacion de soluciones": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 0.0
+    },
     "Preparacion de soluciones a un ph determinado": {
       "precision": 1.0,
       "recall": 1.0,
@@ -736,8 +749,8 @@
     },
     "Preparacion de soluciones unidades quimicas": {
       "precision": 1.0,
-      "recall": 1.0,
-      "f1-score": 1.0,
+      "recall": 0.8,
+      "f1-score": 0.889,
       "support": 5.0
     },
     "Presencia de la enzima catalasa en presencia t.a.y.t.v": {
@@ -842,10 +855,16 @@
       "f1-score": 1.0,
       "support": 4.0
     },
+    "Uso de la micropipeta": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 0.0
+    },
     "Uso y control de la micripipeta": {
-      "precision": 1.0,
-      "recall": 1.0,
-      "f1-score": 1.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
       "support": 3.0
     },
     "Verificacion de la ley de charles": {
@@ -860,42 +879,175 @@
       {
         "texto": "BIOSEFURIDAD Y MICROSCOPIA",
         "practica": "Bioseguridad y microscopia",
-        "prediccion": "Microscopia",
-        "probabilidad": 0.608
+        "prediccion": "Examen de microscopia",
+        "probabilidad": 0.023
+      },
+      {
+        "texto": "USO Y CONTROL DE LA MICROPIPETA",
+        "practica": "Uso y control de la micripipeta",
+        "prediccion": "Uso de la micropipeta",
+        "probabilidad": 0.192
+      },
+      {
+        "texto": "USO DE CONTROL DE LA MICROPIPETA",
+        "practica": "Uso y control de la micripipeta",
+        "prediccion": "Uso de la micropipeta",
+        "probabilidad": 0.192
+      },
+      {
+        "texto": "PREPARACION DE SOLUCIONES UNUDADES QUIMICAS",
+        "practica": "Preparacion de soluciones unidades quimicas",
+        "prediccion": "Preparacion de soluciones",
+        "probabilidad": 0.109
+      },
+      {
+        "texto": "MITOSIS(DIVICION CELULAR)",
+        "practica": "Division celular-mitosis",
+        "prediccion": "Mitosis",
+        "probabilidad": 0.12
+      },
+      {
+        "texto": "MICROSCOPIO",
+        "practica": "Microscopia",
+        "prediccion": "Examen de microscopia",
+        "probabilidad": 0.033
+      },
+      {
+        "texto": "BIOSEGURIDAD Y MICROSCOPIO",
+        "practica": "Bioseguridad y microscopia",
+        "prediccion": "Bioseguridad",
+        "probabilidad": 0.057
       }
     ],
     "confusiones_frecuentes": [
       {
+        "real": "Uso y control de la micripipeta",
+        "predicha": "Uso de la micropipeta",
+        "veces": 2
+      },
+      {
         "real": "Bioseguridad y microscopia",
-        "predicha": "Microscopia",
+        "predicha": "Bioseguridad",
+        "veces": 1
+      },
+      {
+        "real": "Bioseguridad y microscopia",
+        "predicha": "Examen de microscopia",
+        "veces": 1
+      },
+      {
+        "real": "Division celular-mitosis",
+        "predicha": "Mitosis",
+        "veces": 1
+      },
+      {
+        "real": "Microscopia",
+        "predicha": "Examen de microscopia",
+        "veces": 1
+      },
+      {
+        "real": "Preparacion de soluciones unidades quimicas",
+        "predicha": "Preparacion de soluciones",
         "veces": 1
       }
     ],
-    "exactitud_una_palabra": 1.0,
-    "exactitud_varias_palabras": 0.9943,
-    "probabilidad_media_aciertos": 0.59,
-    "probabilidad_media_errores": 0.608
+    "exactitud_una_palabra": 0.8571,
+    "exactitud_varias_palabras": 0.9743,
+    "probabilidad_media_aciertos": 0.234,
+    "probabilidad_media_errores": 0.104
   },
   "errores_prueba_manual": {
     "ejemplos": [
       {
+        "texto": "TOMA DE MUESTRA DE SANGRE",
+        "practica": "Toma de muestra sanguinea",
+        "prediccion": "Toma de muestra",
+        "probabilidad": 0.303
+      },
+      {
+        "texto": "PREPARACION DE SOLUCIONES DE UN PHDETERMINADO",
+        "practica": "Preparacion de soluciones a un ph determinado",
+        "prediccion": "Preparacion de soluciones",
+        "probabilidad": 0.16
+      },
+      {
+        "texto": "TECNICAS USUALES DE SEPARACION EXPERIENCIA #2: SEPARACION SOLIDO-SOLIDO",
+        "practica": "Tecnicas usuales de separacion",
+        "prediccion": "Tecnicas de separacion solido-solido",
+        "probabilidad": 0.156
+      },
+      {
         "texto": "PREPARACION DE SOLUCIONES BUFFER",
         "practica": "Preparacion de soluciones tampon",
-        "prediccion": "Preparacion de soluciones stock",
-        "probabilidad": 0.109
+        "prediccion": "Preparacion de soluciones",
+        "probabilidad": 0.169
+      },
+      {
+        "texto": "PREPARACION DE UNA DILUCION",
+        "practica": "Preparacion de soluciones por dilucion",
+        "prediccion": "Diluciones",
+        "probabilidad": 0.144
+      },
+      {
+        "texto": "PREPARACION DE SOLUCIONES - DILUSION",
+        "practica": "Preparacion de soluciones por dilucion",
+        "prediccion": "Preparacion de soluciones",
+        "probabilidad": 0.177
+      },
+      {
+        "texto": "EXAMEN GENERAL DE ORINA, HCG",
+        "practica": "Examen general de orina (microscopia)",
+        "prediccion": "Examen general de orina",
+        "probabilidad": 0.106
+      },
+      {
+        "texto": "1 HCG 2 EXAMEN GENERAL DE ORINA",
+        "practica": "Examen general de orina (microscopia)",
+        "prediccion": "Examen general de orina",
+        "probabilidad": 0.357
       }
     ],
     "confusiones_frecuentes": [
       {
+        "real": "Examen general de orina (microscopia)",
+        "predicha": "Examen general de orina",
+        "veces": 2
+      },
+      {
+        "real": "Preparacion de soluciones a un ph determinado",
+        "predicha": "Preparacion de soluciones",
+        "veces": 1
+      },
+      {
+        "real": "Preparacion de soluciones por dilucion",
+        "predicha": "Diluciones",
+        "veces": 1
+      },
+      {
+        "real": "Preparacion de soluciones por dilucion",
+        "predicha": "Preparacion de soluciones",
+        "veces": 1
+      },
+      {
         "real": "Preparacion de soluciones tampon",
-        "predicha": "Preparacion de soluciones stock",
+        "predicha": "Preparacion de soluciones",
+        "veces": 1
+      },
+      {
+        "real": "Tecnicas usuales de separacion",
+        "predicha": "Tecnicas de separacion solido-solido",
+        "veces": 1
+      },
+      {
+        "real": "Toma de muestra sanguinea",
+        "predicha": "Toma de muestra",
         "veces": 1
       }
     ],
     "exactitud_una_palabra": 1.0,
-    "exactitud_varias_palabras": 0.9875,
-    "probabilidad_media_aciertos": 0.588,
-    "probabilidad_media_errores": 0.109
+    "exactitud_varias_palabras": 0.9,
+    "probabilidad_media_aciertos": 0.239,
+    "probabilidad_media_errores": 0.197
   },
   "versiones": {
     "python": "3.12.10",
