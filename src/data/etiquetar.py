@@ -36,7 +36,13 @@ MIN_FILAS_CLASE = 8
 # Una práctica escrita siempre igual también es del catálogo: entra al entrenamiento
 # aunque no aporte escrituras alternativas a la prueba.
 MIN_VARIANTES_CLASE = 1
-UMBRAL_MAYORIA_REACTIVO = 0.5
+MIN_PROPORCION_REACTIVO = 0.25
+MAX_REACTIVOS = 12
+# Respaldo para prácticas sin salidas propias: lo más usado en sus asignaturas.
+MIN_SESIONES_ASIGNATURA = 5
+MIN_PROPORCION_ASIGNATURA = 0.10
+MAX_REACTIVOS_ASIGNATURA = 8
+TIPO_POR_FUENTE = {"kardex": "reactivo", "microbiologia": "medio de cultivo"}
 CLAVES_EXCLUIDAS = {"", "nombre"}  # "sin nombre" queda en "nombre"
 
 
@@ -157,26 +163,69 @@ def main() -> None:
     ).sort_values("filas", ascending=False)
     catalogo.to_csv(PROCESADOS / "catalogo.csv", encoding="utf-8")
 
-    reactivos = reactivos_por_practica(kardex, tabla)
+    microbiologia = pd.read_csv(PROCESADOS / "microbiologia.csv")
+    nombre_atencion = atenciones.drop_duplicates("formulario").set_index("formulario")["nombre"]
+    kardex["nombre_atencion"] = kardex["formulario"].str.upper().map(nombre_atencion)
+    salidas = pd.concat([kardex, microbiologia], ignore_index=True)
+    por_practica = reactivos_por_practica(salidas, tabla)
+    siglas = datos.dropna(subset=["sigla"]).groupby("practica")["sigla"].agg(lambda s: sorted(set(s)))
+    por_asignatura = reactivos_por_asignatura(salidas, siglas[~siglas.index.isin(por_practica["practica"])])
+    reactivos = pd.concat([por_practica.assign(base="practica", siglas=""), por_asignatura], ignore_index=True)
     reactivos.to_csv(PROCESADOS / "reactivos_por_practica.csv", index=False, encoding="utf-8")
 
     asignadas = tabla["clave_oficial"].notna()
     print(f"claves: {len(tabla)} | asignadas: {asignadas.sum()} | sin asignar: {(~asignadas).sum()}")
     print(f"dataset: {len(datos)} filas, {datos['practica'].nunique()} prácticas, {datos['clave'].nunique()} variantes")
-    print(f"reactivos sugeridos para {reactivos['practica'].nunique()} prácticas")
+    base = reactivos[reactivos["practica"].isin(catalogo.index)].drop_duplicates("practica")["base"].value_counts()
+    print(f"reactivos sugeridos para {base.sum()} de {len(catalogo)} prácticas del catálogo "
+          f"({base.get('practica', 0)} por su propio registro, {base.get('asignatura', 0)} por su asignatura)")
 
 
-def reactivos_por_practica(kardex: pd.DataFrame, tabla: pd.DataFrame) -> pd.DataFrame:
-    """Lista por conteo: reactivos presentes en la mayoría de formularios de la práctica."""
-    k = kardex.dropna(subset=["formulario"]).copy()
-    k["clave"] = k["nombre"].map(clave)
-    k = k.merge(tabla[["clave", "practica"]], on="clave").dropna(subset=["practica"])
-    sesiones = k.groupby("practica")["formulario"].nunique().rename("sesiones")
-    uso = k.groupby(["practica", "reactivo"])["formulario"].nunique().rename("sesiones_con_reactivo").reset_index()
-    uso = uso.merge(sesiones, on="practica")
+def reactivos_por_practica(salidas: pd.DataFrame, tabla: pd.DataFrame) -> pd.DataFrame:
+    """Por conteo: en qué proporción de las sesiones registradas de la práctica salió cada reactivo.
+
+    La proporción se calcula dentro de cada planilla, porque el kardex de reactivos y el de
+    microbiología no registran las mismas sesiones. Si el nombre escrito en el kardex no llega
+    a una práctica del catálogo, se usa el de la atención con el mismo número de formulario.
+    """
+    k = salidas.dropna(subset=["formulario", "nombre"]).copy()
+    k["tipo"] = k["fuente"].map(TIPO_POR_FUENTE)
+    practica_de = tabla.dropna(subset=["practica"]).set_index("clave")["practica"]
+    k["practica"] = k["nombre"].map(clave).map(practica_de)
+    if "nombre_atencion" in k:
+        respaldo = k["nombre_atencion"].dropna().map(clave).map(practica_de)
+        k["practica"] = k["practica"].fillna(respaldo)
+    k = k.dropna(subset=["practica"])
+    sesiones = k.groupby(["practica", "tipo"])["formulario"].nunique().rename("sesiones")
+    uso = (k.groupby(["practica", "tipo", "reactivo"])["formulario"].nunique()
+           .rename("sesiones_con_reactivo").reset_index().merge(sesiones, on=["practica", "tipo"]))
     uso["proporcion"] = (uso["sesiones_con_reactivo"] / uso["sesiones"]).round(3)
-    uso = uso[(uso["sesiones"] >= 2) & (uso["proporcion"] >= UMBRAL_MAYORIA_REACTIVO)]
-    return uso.sort_values(["practica", "proporcion"], ascending=[True, False])
+    uso = uso[uso["proporcion"] >= MIN_PROPORCION_REACTIVO]
+    uso = uso.sort_values(["practica", "tipo", "proporcion", "sesiones_con_reactivo"], ascending=[True, False, False, False])
+    return uso.groupby(["practica", "tipo"]).head(MAX_REACTIVOS).reset_index(drop=True)
+
+
+def reactivos_por_asignatura(salidas: pd.DataFrame, siglas_por_practica: pd.Series) -> pd.DataFrame:
+    """Para prácticas sin salidas propias: reactivos más frecuentes en las sesiones de sus asignaturas."""
+    k = salidas.dropna(subset=["formulario", "sigla"]).copy()
+    k["tipo"] = k["fuente"].map(TIPO_POR_FUENTE)
+    partes = []
+    for practica, siglas in siglas_por_practica.items():
+        s = k[k["sigla"].isin(siglas)]
+        sesiones = s.groupby("tipo")["formulario"].nunique().rename("sesiones")
+        sesiones = sesiones[sesiones >= MIN_SESIONES_ASIGNATURA]
+        if sesiones.empty:
+            continue
+        uso = (s[s["tipo"].isin(sesiones.index)].groupby(["tipo", "reactivo"])["formulario"].nunique()
+               .rename("sesiones_con_reactivo").reset_index().merge(sesiones, on="tipo"))
+        uso["proporcion"] = (uso["sesiones_con_reactivo"] / uso["sesiones"]).round(3)
+        uso = uso[uso["proporcion"] >= MIN_PROPORCION_ASIGNATURA]
+        uso = uso.sort_values(["tipo", "proporcion"], ascending=[False, False]).groupby("tipo").head(MAX_REACTIVOS_ASIGNATURA)
+        presentes = sorted(set(s["sigla"]))
+        partes.append(uso.assign(practica=practica, base="asignatura", siglas=",".join(presentes)))
+    if not partes:
+        return pd.DataFrame()
+    return pd.concat(partes, ignore_index=True)
 
 
 if __name__ == "__main__":

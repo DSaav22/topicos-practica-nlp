@@ -1,864 +1,1525 @@
-practica,reactivo,sesiones_con_reactivo,sesiones,proporcion
-#16 hidrogeno #17 acido clorhidrico #18 amonio,CLORURO DE SODIO TEC,4,4,1.0
-#16 hidrogeno #17 acido clorhidrico #18 amonio,COBRE EN VIRUTAS,4,4,1.0
-#16 hidrogeno #17 acido clorhidrico #18 amonio,ETANOL AL 96%,4,4,1.0
-#16 hidrogeno #17 acido clorhidrico #18 amonio,MAGNESIO EN VIRUTAS,4,4,1.0
-#16 hidrogeno #17 acido clorhidrico #18 amonio,NIQUEL EL POLVO,4,4,1.0
-#16 hidrogeno #17 acido clorhidrico #18 amonio,SODIO METALICO,4,4,1.0
-#16 hidrogeno #17 acido clorhidrico #18 amonio,ZINC EN GRANALLA,4,4,1.0
-#16 hidrogeno #17 acido clorhidrico #18 amonio,CLORURO DE AMONIO,3,4,0.75
-#16 hidrogeno #17 acido clorhidrico #18 amonio,SULFURO FERROSO,2,4,0.5
--recuento de eritrocitos -recuento leucocitario -recuento plaquetas -tinciones hematologicas -formula leucocitaria,ACEITE DE INMERSION,2,2,1.0
--recuento de eritrocitos -recuento leucocitario -recuento plaquetas -tinciones hematologicas -formula leucocitaria,ETANOL AL 96%,2,2,1.0
--recuento de eritrocitos -recuento leucocitario -recuento plaquetas -tinciones hematologicas -formula leucocitaria,PANOPTICO RAPIDO,1,2,0.5
--toxicologia de la cocaina y derivados(pasta base) -toxicologia de plagucidos(organo fosforado y carbonatos),ETANOL AL 96%,3,3,1.0
--toxicologia de la cocaina y derivados(pasta base) -toxicologia de plagucidos(organo fosforado y carbonatos),ACIDO CLORIHIDRICO,2,3,0.667
--toxicologia de la cocaina y derivados(pasta base) -toxicologia de plagucidos(organo fosforado y carbonatos),CLOROFORMO,2,3,0.667
--toxicologia de metales pesados(plomo-saturnismo) -toxicologia raticidas -toxicologia de metales pesados(mercurio-hidrargismo,ACEITE DE INMERSION,2,2,1.0
--toxicologia de metales pesados(plomo-saturnismo) -toxicologia raticidas -toxicologia de metales pesados(mercurio-hidrargismo,ACIDO NITRICO,2,2,1.0
--toxicologia de metales pesados(plomo-saturnismo) -toxicologia raticidas -toxicologia de metales pesados(mercurio-hidrargismo,AZUL DE CRESIL BRILLANTE,2,2,1.0
--toxicologia de metales pesados(plomo-saturnismo) -toxicologia raticidas -toxicologia de metales pesados(mercurio-hidrargismo,ETANOL AL 96%,2,2,1.0
--toxicologia de metales pesados(plomo-saturnismo) -toxicologia raticidas -toxicologia de metales pesados(mercurio-hidrargismo,ACIDO ACETICO GLACIAL,1,2,0.5
-1 estudio forense de pelos y fibras 2 balistica forense e identificacion de armas de fuego,ETER DE PETROLEO,2,2,1.0
-1 estudio forense de pelos y fibras 2 balistica forense e identificacion de armas de fuego,ACIDO SULFURICO,1,2,0.5
-1. pruebas preliminares 2. analisis de toxicos gaseosos o liquidos volatilizables 3. toxicologia de los aies,ALMIDON,2,2,1.0
-1. pruebas preliminares 2. analisis de toxicos gaseosos o liquidos volatilizables 3. toxicologia de los aies,ANHIDRIDO ACETICO,2,2,1.0
-1. pruebas preliminares 2. analisis de toxicos gaseosos o liquidos volatilizables 3. toxicologia de los aies,CLOROFORMO,2,2,1.0
-1. pruebas preliminares 2. analisis de toxicos gaseosos o liquidos volatilizables 3. toxicologia de los aies,YODURO DE POTASIO,2,2,1.0
-1. recuento de eritrocitos 2.recuento de leucocitos 3.recuento de plaquetas y determinacion hb,ETANOL AL 96%,2,2,1.0
-Accion hidrolitica de la amilasa,ETANOL AL 96%,3,3,1.0
-Acidimetria,HIDROXIDO DE SODIO,4,5,0.8
-Acidimetria,LECHE DE MAGNESIA,4,5,0.8
-Acidimetria-alcalimetria,ETANOL AL 96%,2,3,0.667
-Acidimetria-alcalimetria,HIDROXIDO DE SODIO,2,3,0.667
-Acidos grasos saturados e insaturados,CLOROFORMO,6,6,1.0
-Aislamiento e identificacion de la e coli,ACIDO CLORIHIDRICO,2,2,1.0
-Aislamiento e identificacion de la e coli,HIDROXIDO DE SODIO,2,2,1.0
-Aislamiento e identificacion de la e coli,ACETATO DE POTASIO,1,2,0.5
-Aislamiento e identificacion de la e coli,ETANOL AL 96%,1,2,0.5
-Aislamiento e identificacion de la e coli,SDS,1,2,0.5
-Ajuste de datos por minimos cuadrados,ETANOL AL 96%,3,3,1.0
-Alcanos,HEXANO,14,17,0.824
-Alcanos,ACIDO ACETICO GLACIAL,13,17,0.765
-Alcanos,ETER DIETILICO,13,17,0.765
-Alcanos,ACETATO DE ETILO,12,17,0.706
-Alcanos,ACETONA,12,17,0.706
-Alcanos,ETER DE PETROLEO,12,17,0.706
-Alcanos,GLICERINA,11,17,0.647
-Alcanos,PARAFINA SOLIDA,11,17,0.647
-Alcanos,ACIDO NITRICO,10,17,0.588
-Alcanos,ACIDO SULFURICO,10,17,0.588
-Alcanos,ACEITE COMESTIBLE,9,17,0.529
-Alcanos,SACAROSA,9,17,0.529
-Alquenos,ACIDO SULFURICO,8,8,1.0
-Alquenos,ETANOL ABS,4,8,0.5
-Alquenos,ETANOL AL 96%,4,8,0.5
-Alquenos-alquinos,ACIDO NITRICO,2,2,1.0
-Alquenos-alquinos,ACIDO SULFURICO,2,2,1.0
-Alquenos-alquinos,CARBURO DE CALCIO,2,2,1.0
-Alquenos-alquinos,ETANOL AL 96%,1,2,0.5
-Alquinos,CARBURO DE CALCIO,5,5,1.0
-Alquinos,ACIDO NITRICO,3,5,0.6
-Alteraciones eritrocitarias,ACEITE DE INMERSION,2,2,1.0
-Alteraciones leucocitarias,ACEITE DE INMERSION,2,2,1.0
-Analisis elemental cualitativo,AZUL DE METILENO,2,2,1.0
-Analisis elemental cualitativo,SODIO METALICO,2,2,1.0
-Analisis elemental cualitativo,SULFATO FERROSO,2,2,1.0
-Analisis por solubilidad,ACIDO FOSFORICO,6,6,1.0
-Analisis por solubilidad,ETANOL AL 96%,5,6,0.833
-Analisis por solubilidad,ACIDO SULFURICO,4,6,0.667
-Analisis por solubilidad,ETER DE PETROLEO,4,6,0.667
-Analisis por solubilidad,ETER DIETILICO,4,6,0.667
-Analisis toxicologico,ETANOL AL 96%,5,5,1.0
-Aparato circulatorio,ACEITE DE INMERSION,2,2,1.0
-Aparato digestivo,ACEITE DE INMERSION,2,2,1.0
-Aparato respiratorio,ACEITE DE INMERSION,2,2,1.0
-Aplicación de conservantes,ACIDO BENZOICO,2,2,1.0
-Aplicación de conservantes,ACIDO CITRICO,2,2,1.0
-Aplicación de conservantes,BENZOATO DE SODIO,2,2,1.0
-Aplicación de conservantes,ETANOL AL 96%,2,2,1.0
-Aplicación de conservantes,GLICERINA,2,2,1.0
-Aplicación de conservantes,METILPARABENO BASE,2,2,1.0
-Aplicación de conservantes,PROPELINGLICOL,2,2,1.0
-Aplicación de conservantes,PROPILPARABENO BASE,2,2,1.0
-Autopsia,ETANOL AL 96%,1,2,0.5
-Autopsia,FORMOL,1,2,0.5
-Bacteria aerobicas mesofilas/ mohos y levaduras,ETANOL AL 96%,2,2,1.0
-Bioseguridad,ACEITE DE INMERSION,2,2,1.0
-Bioseguridad y microscopia,ACEITE DE INMERSION,11,11,1.0
-Bioseguridad y toma de muestra,ETANOL AL 96%,2,2,1.0
-Calor de dilucion,ACIDO SULFURICO,7,7,1.0
-Calor de dilucion calor de solucion,ACIDO SULFURICO,2,2,1.0
-Calor de solucion,HIDROXIDO DE SODIO,3,3,1.0
-Calor de solucion - calor de neutralizacion,HIDROXIDO DE SODIO,5,5,1.0
-Calor de solucion - calor de neutralizacion,ETANOL AL 96%,3,5,0.6
-Carbohidratos - propiedades quimicas,ALMIDON,5,5,1.0
-Carbohidratos - propiedades quimicas,FRUCTOSA,5,5,1.0
-Carbohidratos - propiedades quimicas,GLUCOSA,5,5,1.0
-Carbohidratos - propiedades quimicas,MALTOSA,5,5,1.0
-Carbohidratos - propiedades quimicas,SACAROSA,5,5,1.0
-Carbohidratos generalidades,ALMIDON,9,9,1.0
-Carbohidratos generalidades,FRUCTOSA,9,9,1.0
-Carbohidratos generalidades,GLUCOSA,9,9,1.0
-Carbohidratos generalidades,MALTOSA,9,9,1.0
-Carbohidratos generalidades,SACAROSA,9,9,1.0
-Carbohidratos generalidades,ACIDO SULFURICO,6,9,0.667
-Carbonatos,CARBONATO DE SODIO,5,5,1.0
-Cariotipo humano,ACEITE DE INMERSION,2,2,1.0
-Ciclo celular,ACEITE DE INMERSION,3,3,1.0
-Cinetica enzimatica,ETANOL AL 96%,4,4,1.0
-Colesterol identificacion,ACIDO SULFURICO,3,3,1.0
-Colesterol identificacion,ANHIDRIDO ACETICO,3,3,1.0
-Colesterol identificacion,CLOROFORMO,3,3,1.0
-Coliformes totales y termotolerantes,ETANOL AL 96%,3,3,1.0
-Colorantes artificiales,ETANOL AL 96%,4,4,1.0
-Componentes de espinaca cromatografia,ACETONA,3,3,1.0
-Comportamiento de hidroxido en funcion al ph disilucion de precipitados,ACIDO NITRICO,2,2,1.0
-Comportamiento de hidroxido en funcion al ph disilucion de precipitados,ACIDO CLORIHIDRICO,1,2,0.5
-Comportamiento de hidroxidos en funcion a su ph,ETANOL AL 96%,2,2,1.0
-Continuacion de obtencion de acido benzoico,ACEITE COMESTIBLE,2,2,1.0
-Continuacion de obtencion de acido benzoico,ACIDO CLORIHIDRICO,2,2,1.0
-Continuacion de obtencion de acido benzoico,ANILINA,2,2,1.0
-Continuacion de obtencion de acido benzoico,ACIDO BENZOICO,1,2,0.5
-Continuacion de obtencion de acido benzoico,VASELINA SOLIDA,1,2,0.5
-Continuacion furfural,ACIDO CLORIHIDRICO,2,2,1.0
-Continuacion furfural,ANILINA,2,2,1.0
-Continuacion furfural,VASELINA SOLIDA,2,2,1.0
-Control de calidad fisico en comprimidos,AEROSIL,3,4,0.75
-Control de calidad fisico en comprimidos,PROPILPARABENO BASE,3,4,0.75
-Control de calidad fisico en comprimidos,METILPARABENO BASE,2,4,0.5
-Corpusculo de barr,ACEITE DE INMERSION,7,7,1.0
-Cristalizacion,ETANOL AL 96%,2,2,1.0
-Cristalizacion y sublimacion,AMONIACO O -H AMONIO,8,10,0.8
-Cristalizacion y sublimacion,ACIDO NITRICO,7,10,0.7
-Cromatina sexual,ACEITE DE INMERSION,11,11,1.0
-Cromatina sexual,PANOPTICO RAPIDO,10,11,0.909
-Cromatografia,ACETATO DE ETILO,8,12,0.667
-Cromatografia,1-BUTANOL,7,12,0.583
-Cromatografia,ACIDO ACETICO GLACIAL,7,12,0.583
-Cromatografia,ETANOL ABS,6,12,0.5
-Cromatografia,ETANOL AL 96%,6,12,0.5
-Cromatografia alcanos,1-BUTANOL,2,2,1.0
-Cromatografia alcanos,ACEITE COMESTIBLE,2,2,1.0
-Cromatografia alcanos,ACETATO DE ETILO,2,2,1.0
-Cromatografia alcanos,ACETONA,2,2,1.0
-Cromatografia alcanos,ACIDO ACETICO GLACIAL,2,2,1.0
-Cromatografia alcanos,ACIDO NITRICO,2,2,1.0
-Cromatografia alcanos,ACIDO SULFURICO,2,2,1.0
-Cromatografia alcanos,CLORURO DE SODIO TEC,2,2,1.0
-Cromatografia alcanos,ETANOL AL 96%,2,2,1.0
-Cromatografia alcanos,ETER DE PETROLEO,2,2,1.0
-Cromatografia alcanos,ETER DIETILICO,2,2,1.0
-Cromatografia alcanos,GLICERINA,2,2,1.0
-Cromatografia alcanos,HEXANO,2,2,1.0
-Cromatografia alcanos,PARAFINA SOLIDA,2,2,1.0
-Cromatografia alcanos,SACAROSA,2,2,1.0
-Cromatografia alcanos,TETRACLORURO DE C,2,2,1.0
-Cromatografia en papel,1-BUTANOL,2,2,1.0
-Cromatografia en papel,ACETATO DE ETILO,2,2,1.0
-Cromatografia en papel,ACETONA,2,2,1.0
-Cromatografia en papel,ACIDO ACETICO GLACIAL,2,2,1.0
-Cromatografia en papel,ETER DE PETROLEO,2,2,1.0
-Cromatografia en papel,ETER DIETILICO,2,2,1.0
-Cromatografia en papel,AMONIACO O -H AMONIO,1,2,0.5
-Cromatografia en papel,ETANOL ABS,1,2,0.5
-Cromatografia en papel,ETANOL AL 96%,1,2,0.5
-Cultivo de bacterias no fermentadores,ACEITE DE INMERSION,2,2,1.0
-Cultivo de enterobacterias,ACEITE DE INMERSION,4,4,1.0
-Cultivo e identificacion de genero bacillus,ACEITE DE INMERSION,2,2,1.0
-Cultivo e identificacion del genero sthaphylococcus,ACEITE DE INMERSION,4,4,1.0
-Curva de calibracion,ETANOL AL 96%,2,3,0.667
-Curvas de valoracion,ACIDO CLORIHIDRICO,2,4,0.5
-Densidad aparente de solidos,AEROSIL,3,3,1.0
-Desarrollo de polvo efervescente,ACIDO CITRICO,2,2,1.0
-Desarrollo de polvo efervescente,AEROSIL,2,2,1.0
-Desarrollo de polvo efervescente,ASPARTAME,2,2,1.0
-Desarrollo de polvo efervescente,BICARBONATO DE SODIO,2,2,1.0
-Desarrollo de polvo efervescente,ETANOL AL 96%,2,2,1.0
-Desarrollo de polvo efervescente,METILPARABENO BASE,2,2,1.0
-Desarrollo de polvo efervescente,PROPILPARABENO BASE,2,2,1.0
-Desarrollo de polvo efervescente,SACARINA SODICA,2,2,1.0
-Descenso del punto de congelacion,ALCANFOR,7,7,1.0
-Descenso del punto de congelacion,ACEITE COMESTIBLE,6,7,0.857
-Destilacion por arrastre con vapor de agua,VASELINA SOLIDA,2,4,0.5
-Destilacion por arrastre de vapor,VASELINA SOLIDA,3,3,1.0
-Destilacion simple,VASELINA SOLIDA,8,9,0.889
-Determinacion de actividad enzimatica en funsion de la concentracion de sustrato y determinacion de parametro cinetico,ETANOL AL 96%,3,3,1.0
-Determinacion de aminoacidos y proteinas,ACIDO SULFURICO,4,4,1.0
-Determinacion de aminoacidos y proteinas,ACIDO NITRICO,3,4,0.75
-Determinacion de carbonatos,CARBONATO DE SODIO,3,4,0.75
-Determinacion de carbonatos,BICARBONATO DE SODIO,2,4,0.5
-Determinacion de densidad,ACETONA,2,2,1.0
-Determinacion de densidad,ETANOL ABS,2,2,1.0
-Determinacion de la concentracion de un solo componente,DICROMATO DE POTASIO,2,2,1.0
-Determinacion de la concentracion de un solo componente,ETANOL AL 96%,2,2,1.0
-Determinacion de la concentracion de un solo componente por medio de la espectronometria,DICROMATO DE POTASIO,2,2,1.0
-Determinacion de la concentracion de un solo componente por medio de la espectronometria,ETANOL AL 96%,2,2,1.0
-Determinacion de la concentracion de una mezcla binaria por metodo espectrofotometro,DICROMATO DE POTASIO,2,2,1.0
-Determinacion de la concentracion de una mezcla binaria por metodo espectrofotometro,ETANOL AL 96%,2,2,1.0
-Determinacion de la energia libre estandar de una reaccion quimica,ACIDO ACETICO GLACIAL,3,3,1.0
-Determinacion de la energia libre estandar de una reaccion quimica,ETANOL AL 96%,2,3,0.667
-Determinacion de los componentes de la espinaca,ACETONA,2,2,1.0
-Determinacion de punto de ebullicion,ACEITE COMESTIBLE,6,6,1.0
-Determinacion de punto de ebullicion,ACETONA,4,6,0.667
-Determinacion de punto de ebullicion,ALCOHOL ISOPROPILICO,4,6,0.667
-Determinacion de punto de ebullicion,CLOROFORMO,4,6,0.667
-Determinacion de punto de ebullicion,HEXANO,4,6,0.667
-Determinacion de punto de ebullicion,METANOL,4,6,0.667
-Determinacion de punto de ebullicion,TETRACLORURO DE C,4,6,0.667
-Determinacion de punto de ebullicion,1-BUTANOL,3,6,0.5
-Determinacion de punto de ebullicion,ETANOL ABS,3,6,0.5
-Determinacion de punto de fusion,ACEITE COMESTIBLE,8,8,1.0
-Determinacion de punto de fusion,1-NAFTOL,4,8,0.5
-Determinacion de punto de fusion,ACIDO OXALICO,4,8,0.5
-Determinacion de punto de fusion,ALCOHOL CETILICO,4,8,0.5
-Determinacion de punto de fusion,NAFTALENO,4,8,0.5
-Determinacion de punto de fusion,VAINILLINA,4,8,0.5
-Determinacion de solubilidad,ACIDO FOSFORICO,2,2,1.0
-Determinacion de solubilidad,ETANOL AL 96%,2,2,1.0
-Determinacion de solubilidad,1-BUTANOL,1,2,0.5
-Determinacion de solubilidad,2-BUTANONA,1,2,0.5
-Determinacion de solubilidad,ACIDO BENZOICO,1,2,0.5
-Determinacion de solubilidad,ACIDO SALICILICO,1,2,0.5
-Determinacion de solubilidad,SACAROSA,1,2,0.5
-Determinacion del agua de hidratacion,CUSO4 5H2O,2,3,0.667
-Determinacion del calor de fusion del hielo,ETANOL AL 96%,2,2,1.0
-Determinacion del calor especifico de un solido,ETANOL AL 96%,2,2,1.0
-Determinacion del indice de refraccion,ETANOL ABS,2,2,1.0
-Determinacion del peso molecular,ACETONA,4,4,1.0
-Determinacion del peso molecular,ETANOL AL 96%,4,4,1.0
-Determinacion del rendimiento de una reaccion,ZINC EN GRANALLA,4,4,1.0
-Determinacion espectrofotometrica de la constante de disociacion de un indicador de acido base,ETANOL AL 96%,4,4,1.0
-Determinacion espectrofotometrica de la constante de disociacion de un indicador de acido base,ROJO DE METILO,4,4,1.0
-Determinacion punto de ebullicion y indice de refraccion,ACEITE COMESTIBLE,3,3,1.0
-Determinacion punto de ebullicion y indice de refraccion,ETANOL AL 96%,3,3,1.0
-Determinacion viscocidad,ACEITE COMESTIBLE,3,3,1.0
-Determinacion viscocidad,GLICERINA,3,3,1.0
-Determinacion viscocidad,VASELINA LIQUIDA,3,3,1.0
-Diagnostico de malaria,ACEITE DE INMERSION,2,3,0.667
-Diagnostico de malaria,PANOPTICO RAPIDO,2,3,0.667
-Diferencia de angiosperma y gimnospermas,ACEITE DE INMERSION,4,4,1.0
-Diferencia entre calor y temperatura,ACEITE COMESTIBLE,3,3,1.0
-Diferencia entre calor y temperatura,ETANOL AL 96%,2,3,0.667
-"Diferencia entre mitosis y meiosis, estructura del adn, nucleosoma",ACEITE DE INMERSION,6,6,1.0
-Digestion intestinal,ACEITE COMESTIBLE,3,3,1.0
-Digestion intestinal,DETERGENTE,2,3,0.667
-Diluciones,ACIDO CLORIHIDRICO,3,3,1.0
-Division celular - meiosis,ACEITE DE INMERSION,2,2,1.0
-Elaboracion de crema base,ALCOHOL CETILICO,2,2,1.0
-Elaboracion de crema base,CERA LANETTE,2,2,1.0
-Elaboracion de crema base,METILPARABENO BASE,2,2,1.0
-Elaboracion de crema base,PROPELINGLICOL,2,2,1.0
-Elaboracion de crema base,PROPILPARABENO BASE,2,2,1.0
-Elaboracion de crema base,VASELINA LIQUIDA,2,2,1.0
-Elaboracion de crema nutritiva de noche y crema para manchas,ACIDO GLICOLICO,2,2,1.0
-Elaboracion de crema nutritiva de noche y crema para manchas,ACIDO HIALURONICO,2,2,1.0
-Elaboracion de crema nutritiva de noche y crema para manchas,COLAGENO HIDROLIZADO,2,2,1.0
-Elaboracion de crema nutritiva de noche y crema para manchas,HIDROQUINONA,2,2,1.0
-Elaboracion de crema nutritiva de noche y crema para manchas,HIDROXIDO DE SODIO,2,2,1.0
-Elaboracion de crema nutritiva de noche y crema para manchas,METABISULFITO DE SODIO,2,2,1.0
-Elaboracion de crema nutritiva de noche y crema para manchas,ROSA MOSQUETA,2,2,1.0
-Elaboracion de emulcion repelente,ALCOHOL CETOESTEARILICO,2,2,1.0
-Elaboracion de emulcion repelente,ESENCIA DE CEDRON,2,2,1.0
-Elaboracion de emulcion repelente,LAURIL SULFATO DE SODIO,2,2,1.0
-Elaboracion de emulcion repelente,METILPARABENO BASE,2,2,1.0
-Elaboracion de emulcion repelente,PROPELINGLICOL,2,2,1.0
-Elaboracion de emulcion repelente,PROPILPARABENO BASE,2,2,1.0
-Elaboracion de emulcion repelente,VASELINA SOLIDA,2,2,1.0
-Elaboracion de emulcion repelente,ETANOL AL 96%,1,2,0.5
-Elaboracion de emulcion repelente,GLICERINA,1,2,0.5
-Elaboracion de gel antiseptico y criogenico,ALCANFOR,2,2,1.0
-Elaboracion de gel antiseptico y criogenico,CARBAPOL,2,2,1.0
-Elaboracion de gel antiseptico y criogenico,ETANOL AL 96%,2,2,1.0
-Elaboracion de gel antiseptico y criogenico,GLICERINA,2,2,1.0
-Elaboracion de gel antiseptico y criogenico,MENTOL,2,2,1.0
-Elaboracion de gel antiseptico y criogenico,METILPARABENO BASE,2,2,1.0
-Elaboracion de gel antiseptico y criogenico,PROPELINGLICOL,2,2,1.0
-Elaboracion de gel antiseptico y criogenico,PROPILPARABENO BASE,2,2,1.0
-Elaboracion de gel antiseptico y criogenico,TRIETANOLAMINA,2,2,1.0
-Elaboracion de gel antiseptico y criogenico,AROMA CITRONELLA,1,2,0.5
-Elaboracion de gel antiseptico y criogenico,COLORANTE AZUL,1,2,0.5
-Elaboracion de gel antiseptico y criogenico,COLORANTE CAFE,1,2,0.5
-Elaboracion de gel antiseptico y criogenico,COLORANTE ROJO,1,2,0.5
-Elaboracion de gel antiseptico y criogenico,COLORANTE VERDE PISTACHO,1,2,0.5
-Elaboracion de gel antiseptico y criogenico,FRAGANCIA BABY JEANS,1,2,0.5
-Elaboracion de gel antiseptico y criogenico,FRAGANCIA LAVANDA,1,2,0.5
-Elaboracion de gel antiseptico y criogenico,FRAGANCIA TUTTY FRUTTY,1,2,0.5
-Elaboracion de jarabe,ACIDO ASCORBICO,2,2,1.0
-Elaboracion de jarabe,ACIDO CITRICO,2,2,1.0
-Elaboracion de jarabe,ASPARTAME,2,2,1.0
-Elaboracion de jarabe,BENZOATO DE SODIO,2,2,1.0
-Elaboracion de jarabe,CITRATO DE SODIO,2,2,1.0
-Elaboracion de jarabe,COLORANTE AMARILLO,2,2,1.0
-Elaboracion de jarabe,COLORANTE ROJO BORDEUS,2,2,1.0
-Elaboracion de jarabe,COLORANTE ROSA,2,2,1.0
-Elaboracion de jarabe,ESENCIA  PLATANO,2,2,1.0
-Elaboracion de jarabe,ESENCIA DE FRUTILLA,2,2,1.0
-Elaboracion de jarabe,GLICERINA,2,2,1.0
-Elaboracion de jarabe,PARACETAMOL,2,2,1.0
-Elaboracion de jarabe,POLIETILENGLICOL,2,2,1.0
-Elaboracion de jarabe,SACAROSA,1,2,0.5
-Elaboracion de jarabe de bioglicinato ferroso para diabetes,ACIDO ASCORBICO,2,2,1.0
-Elaboracion de jarabe de bioglicinato ferroso para diabetes,ACIDO CITRICO,2,2,1.0
-Elaboracion de jarabe de bioglicinato ferroso para diabetes,BENZOATO DE SODIO,2,2,1.0
-Elaboracion de jarabe de bioglicinato ferroso para diabetes,BISGLICINATO DE HIERRO,2,2,1.0
-Elaboracion de jarabe de bioglicinato ferroso para diabetes,COLORANTE AMARILLO,2,2,1.0
-Elaboracion de jarabe de bioglicinato ferroso para diabetes,ESENCIA  PLATANO,2,2,1.0
-Elaboracion de jarabe de bioglicinato ferroso para diabetes,ESENCIA DE VAINILLA,2,2,1.0
-Elaboracion de jarabe de bioglicinato ferroso para diabetes,GLICERINA,2,2,1.0
-Elaboracion de jarabe de bioglicinato ferroso para diabetes,SORBITOL 70%,2,2,1.0
-Elaboracion de jarabe simple,ACIDO ASCORBICO,3,3,1.0
-Elaboracion de jarabe simple,ACIDO CITRICO,3,3,1.0
-Elaboracion de jarabe simple,BENZOATO DE SODIO,3,3,1.0
-Elaboracion de jarabe simple,BISGLICINATO DE HIERRO,3,3,1.0
-Elaboracion de jarabe simple,GLICERINA,3,3,1.0
-Elaboracion de jarabe simple,SACAROSA,3,3,1.0
-Elaboracion de jarabe simple,ESENCIA  PLATANO,2,3,0.667
-Elaboracion de ovulos de povidona,GELATINA BLOOM 280,2,2,1.0
-Elaboracion de ovulos de povidona,GLICERINA,2,2,1.0
-Elaboracion de ovulos de povidona,POVIDONA YODADA,2,2,1.0
-Elaboracion de ovulos de povidona,VASELINA LIQUIDA,2,2,1.0
-Elaboracion de producto innovador,AEROSIL,2,2,1.0
-Elaboracion de producto innovador,BENZOATO DE SODIO,2,2,1.0
-Elaboracion de producto innovador,ETANOL AL 96%,2,2,1.0
-Elaboracion de producto innovador,METILPARABENO BASE,2,2,1.0
-Elaboracion de producto innovador,PROPELINGLICOL,2,2,1.0
-Elaboracion de producto innovador,PROPILPARABENO BASE,2,2,1.0
-Elaboracion de producto innovador,ALCOHOL CETOESTEARILICO,1,2,0.5
-Elaboracion de producto innovador,CLORURO DE SODIO,1,2,0.5
-Elaboracion de producto innovador,CLORURO DE SODIO TEC,1,2,0.5
-Elaboracion de producto innovador,GLICERINA,1,2,0.5
-Elaboracion de producto innovador,LANOLINA,1,2,0.5
-Elaboracion de producto innovador,LAURIL SULFATO DE SODIO,1,2,0.5
-Elaboracion de producto innovador,OXIDO DE ZINC,1,2,0.5
-Elaboracion de producto innovador,VASELINA SOLIDA,1,2,0.5
-Elaboracion de soluciones,ASPARTAME,4,4,1.0
-Elaboracion de soluciones,BENZOATO DE SODIO,4,4,1.0
-Elaboracion de soluciones,CITRATO DE SODIO,4,4,1.0
-Elaboracion de soluciones,GLICERINA,4,4,1.0
-Elaboracion de soluciones,PARACETAMOL,4,4,1.0
-Elaboracion de soluciones,POVIDONA YODADA,4,4,1.0
-Elaboracion de soluciones,ACIDO CITRICO,3,4,0.75
-Elaboracion de soluciones,COLORANTE ROSA,3,4,0.75
-Elaboracion de soluciones,ESENCIA DE FRUTILLA,3,4,0.75
-Elaboracion de soluciones,POLIETILENGLICOL,3,4,0.75
-Elaboracion de unguento analgesico,MENTOL,4,4,1.0
-Elaboracion de unguento analgesico,METILPARABENO BASE,4,4,1.0
-Elaboracion de unguento analgesico,PARAFINA SOLIDA,4,4,1.0
-Elaboracion de unguento analgesico,PROPILPARABENO BASE,4,4,1.0
-Elaboracion de unguento analgesico,SALICILATO DE METILO,4,4,1.0
-Elaboracion de unguento analgesico,ETANOL AL 96%,3,4,0.75
-Elaboracion de unguento analgesico,EUCALIPTOL,3,4,0.75
-Elaboracion de unguento analgesico,VASELINA SOLIDA,3,4,0.75
-Energia libre y equilibrio,ACIDO ACETICO GLACIAL,3,3,1.0
-Energia libre y equilibrio,ETANOL AL 96%,2,3,0.667
-Enmascaramiento de formulaciones liquidos y semisolidas,COLORANTE ROSA,2,2,1.0
-Enmascaramiento de formulaciones liquidos y semisolidas,ESENCIA  PLATANO,2,2,1.0
-Enmascaramiento de formulaciones liquidos y semisolidas,ESENCIA  TUTTY FRUTTY,2,2,1.0
-Enmascaramiento de formulaciones liquidos y semisolidas,ESENCIA DE CHOCOLATE,2,2,1.0
-Enmascaramiento de formulaciones liquidos y semisolidas,ESENCIA DE COCO,2,2,1.0
-Enmascaramiento de formulaciones liquidos y semisolidas,ESENCIA DE FRUTILLA,2,2,1.0
-Enmascaramiento de formulaciones liquidos y semisolidas,ESENCIA DE LIMON,2,2,1.0
-Enmascaramiento de formulaciones liquidos y semisolidas,ESENCIA DE VAINILLA,2,2,1.0
-Enmascaramiento de formulaciones liquidos y semisolidas,ETANOL AL 96%,2,2,1.0
-Enmascaramiento de formulaciones liquidos y semisolidas,FRAGANCIA BABY JEANS,2,2,1.0
-Enmascaramiento de formulaciones liquidos y semisolidas,FRAGANCIA DE MANZANA,2,2,1.0
-Enmascaramiento de formulaciones liquidos y semisolidas,FRAGANCIA JASMIN,2,2,1.0
-Enmascaramiento de formulaciones liquidos y semisolidas,FRAGANCIA LAVANDA,2,2,1.0
-Enmascaramiento de formulaciones liquidos y semisolidas,FRAGANCIA PARIS,2,2,1.0
-Enmascaramiento de formulaciones liquidos y semisolidas,GLICERINA,2,2,1.0
-Enmascaramiento de formulaciones liquidos y semisolidas,PROPELINGLICOL,2,2,1.0
-Enmascaramiento de formulaciones liquidos y semisolidas,COLORANTE AMARILLO HUEVO,1,2,0.5
-Enmascaramiento de formulaciones liquidos y semisolidas,COLORANTE ROJO FRUTILLA,1,2,0.5
-Espermograma,ACEITE DE INMERSION,4,4,1.0
-Estandarizacion de soluciones,CARBONATO DE SODIO,14,14,1.0
-Estandarizacion de soluciones,ACIDO CLORIHIDRICO,8,14,0.571
-Estequiometria de soluciones,VINAGRE,3,4,0.75
-Estudio de aceite,ACIDO CLORIHIDRICO,4,4,1.0
-Estudio de aceite comestible,ACIDO CLORIHIDRICO,7,7,1.0
-Estudio de harina,BROMATO DE POTASIO,4,5,0.8
-Estudio de harina,BICARBONATO DE SODIO,3,5,0.6
-Estudio de harina de trigo,BROMATO DE POTASIO,6,6,1.0
-Estudio de la leche,ACIDO ACETICO GLACIAL,2,3,0.667
-Estudio de la miel de abeja,ACIDO CLORIHIDRICO,1,2,0.5
-Estudio de la miel de abeja,ETER DE PETROLEO,1,2,0.5
-Estudio de la miel de abeja,ETER DIETILICO,1,2,0.5
-Estudio de vino,ACIDO CLORIHIDRICO,10,11,0.909
-Estudio de vino,VASELINA SOLIDA,7,11,0.636
-Evaluacion de la actividad antimicrobiana,DIMETILSULFOXIDO,2,2,1.0
-Evaluacion espectrometria de la estabilidad de los colorantes y potenciometria,CLORURO DE SODIO TEC,2,3,0.667
-Examen de microscopia,ACEITE DE INMERSION,7,7,1.0
-Examen fisico y quimico de orina,ACETONA,3,3,1.0
-Examen fisico y quimico de orina,ACIDO NITRICO,3,3,1.0
-Examen fisico y quimico de orina,AMONIACO O -H AMONIO,3,3,1.0
-Examen fisico y quimico de orina,GLUCOSA,3,3,1.0
-Examen fisico y quimico de orina,FLOR DE AZUFRE,2,3,0.667
-Examen preliminar,ETANOL AL 96%,5,8,0.625
-Examen preliminar,METANOL,5,8,0.625
-Examen preliminar,NAFTALENO,5,8,0.625
-Examen preliminar,VAINILLINA,5,8,0.625
-Examen preliminar,ACETATO DE ETILO,4,8,0.5
-Examen preliminar,ACIDO CLORIHIDRICO,4,8,0.5
-Examen preliminar,ACIDO OXALICO,4,8,0.5
-Examen preliminar,GLICERINA,4,8,0.5
-Examen preliminar,HEXANO,4,8,0.5
-Examen preliminar,SACAROSA,4,8,0.5
-Extension de una muestra sanguinea/tincion del extendido sanguineo,PANOPTICO RAPIDO,2,2,1.0
-Extraccion de acido acetil salicilico,ETANOL AL 96%,2,2,1.0
-Extraccion de acidos nucleicos,ALCOHOL AMILICO,3,4,0.75
-Extraccion de acidos nucleicos,ETANOL AL 96%,3,4,0.75
-Extraccion de acidos nucleicos,ALCOHOL ISOAMILICO,2,4,0.5
-Extraccion de acidos nucleicos,ALCOHOL ISOPROPILICO,2,4,0.5
-Extraccion de adn,ALCOHOL AMILICO,4,5,0.8
-Extraccion de adn,ETANOL AL 96%,4,5,0.8
-"Extraccion de adn vegetal, animal y levadura",ALCOHOL ISOPROPILICO,2,2,1.0
-"Extraccion de adn vegetal, animal y levadura",ETANOL AL 96%,2,2,1.0
-Extraccion de adn ¨vegetal¨,ALCOHOL AMILICO,2,2,1.0
-Extraccion de adn ¨vegetal¨,ALCOHOL ISOAMILICO,1,2,0.5
-Extraccion de adn ¨vegetal¨,BICARBONATO DE SODIO,1,2,0.5
-Extraccion de dna plasmidico,ACIDO ACETICO GLACIAL,3,3,1.0
-Extraccion de dna plasmidico,ACIDO CLORIHIDRICO,2,3,0.667
-Extraccion liquido liquido de adn plasmidico,ETANOL ABS,2,2,1.0
-Extraccion liquido-liquido,ETANOL AL 96%,5,6,0.833
-Extraccion por soxhlet,VASELINA SOLIDA,2,2,1.0
-Extraccion por soxhlet-extracto acuoso,VASELINA SOLIDA,2,2,1.0
-Extraccion solido liquido y extraccion liquido liquido,ACIDO CLORIHIDRICO,4,4,1.0
-Extraccion solido liquido y extraccion liquido liquido,ETER DE PETROLEO,3,4,0.75
-Extraccion solido liquido y extraccion liquido liquido,ETANOL AL 96%,2,4,0.5
-Flor,ETANOL AL 96%,2,2,1.0
-Formula leucocitaria,ACEITE DE INMERSION,5,5,1.0
-Formula leucocitaria,PANOPTICO RAPIDO,3,5,0.6
-Frotis sanguineo,PANOPTICO RAPIDO,10,10,1.0
-Frotis sanguineo,ACEITE DE INMERSION,9,10,0.9
-Genero bacillos,ACEITE DE INMERSION,3,3,1.0
-Genero garnerella y lactobacillus,ACEITE DE INMERSION,2,2,1.0
-Genero neisseriacceae,ACEITE DE INMERSION,2,2,1.0
-Gotas opticas y nasales,ACIDO BORICO,2,2,1.0
-Gotas opticas y nasales,CLORURO DE SODIO PA,2,2,1.0
-Gravimetria,CLORURO DE BARIO,16,16,1.0
-Gravimetria,SULFATO DE SODIO,15,16,0.938
-Grupo sanguineo,ANTI-A,6,10,0.6
-Grupo sanguineo,ANTI-B,6,10,0.6
-Grupo sanguineo,ANTI-D,6,10,0.6
-Grupo sanguineo directo e indirecto,KIT GRUPO SANGUINEO,2,2,1.0
-Grupo sanguineo directo e indirecto,SOL. FISIOLOGICA ESTERIL,1,2,0.5
-Grupo sanguineo en tubo,ANTI-A,3,3,1.0
-Grupo sanguineo en tubo,ANTI-B,3,3,1.0
-Grupo sanguineo en tubo,ANTI-D,3,3,1.0
-Grupo sanguineo en tubo,SOL. FISIOLOGICA ESTERIL,3,3,1.0
-Grupo sanguineo y ves,KIT GRUPO SANGUINEO,2,2,1.0
-Helicobacter pylori-disbacteriosis,ACEITE DE INMERSION,2,2,1.0
-Hemocultivo/infeccion torrente sanguineo,ACEITE DE INMERSION,2,2,1.0
-Hemograma completo,ACEITE DE INMERSION,3,4,0.75
-Hemograma completo,PANOPTICO RAPIDO,3,4,0.75
-Hemograma completo,ETANOL AL 96%,2,4,0.5
-Hemograma completo,LIQUIDO DE REES,2,4,0.5
-Hoja morfologia,ACEITE DE INMERSION,4,4,1.0
-Identificacion de biomoleculas,ACIDO SULFURICO,2,2,1.0
-Identificacion de biomoleculas con muestras conocidas,ACIDO SULFURICO,8,8,1.0
-Identificacion de corpusculo de barr,ACEITE DE INMERSION,3,3,1.0
-Identificacion de enterobacterias,ACEITE DE INMERSION,3,3,1.0
-Identificacion de neisseria,ACEITE DE INMERSION,2,2,1.0
-Identificacion de semen y espermatoscopia 2:identificacion de saliva ( amilasografia),ACEITE DE INMERSION,2,2,1.0
-Identificacion de semen y espermatoscopia 2:identificacion de saliva ( amilasografia),COLORANTE ROJO,2,2,1.0
-Identificacion de semen y espermatoscopia 2:identificacion de saliva ( amilasografia),ETANOL AL 96%,2,2,1.0
-Identificacion del genero haemophilus,ACEITE DE INMERSION,4,4,1.0
-Identificacion del genero staphyloccocus,ACEITE DE INMERSION,2,2,1.0
-Incompatibilidades farmaceuticas,ACEITE DE HIGADO DE BACALAO,2,2,1.0
-Incompatibilidades farmaceuticas,ACETATO DE PLOMO,2,2,1.0
-Incompatibilidades farmaceuticas,ACIDO ASCORBICO,2,2,1.0
-Incompatibilidades farmaceuticas,ACIDO BENZOICO,2,2,1.0
-Incompatibilidades farmaceuticas,ACIDO CITRICO,2,2,1.0
-Incompatibilidades farmaceuticas,ACIDO FENICO,2,2,1.0
-Incompatibilidades farmaceuticas,ACIDO GLICOLICO,2,2,1.0
-Incompatibilidades farmaceuticas,ACIDO SALICILICO,2,2,1.0
-Incompatibilidades farmaceuticas,ACIDO TARTARICO,2,2,1.0
-Incompatibilidades farmaceuticas,ALCANFOR,2,2,1.0
-Incompatibilidades farmaceuticas,AZUFRE,2,2,1.0
-Incompatibilidades farmaceuticas,BICARBONATO DE SODIO,2,2,1.0
-Incompatibilidades farmaceuticas,CARBOXIMETILCELULOSA,2,2,1.0
-Incompatibilidades farmaceuticas,ETANOL AL 96%,2,2,1.0
-Incompatibilidades farmaceuticas,FOSFATO DE SODIO NAH2PO4,2,2,1.0
-Incompatibilidades farmaceuticas,GLICERINA,2,2,1.0
-Incompatibilidades farmaceuticas,GOMA XANTANA,2,2,1.0
-Incompatibilidades farmaceuticas,MENTOL,2,2,1.0
-Incompatibilidades farmaceuticas,NITRATO DE PLATA,2,2,1.0
-Incompatibilidades farmaceuticas,OXIDO DE ZINC,2,2,1.0
-Incompatibilidades farmaceuticas,TIMOL,2,2,1.0
-Incompatibilidades farmaceuticas,UREA,2,2,1.0
-Incompatibilidades farmaceuticas,VASELINA SOLIDA,2,2,1.0
-Incompatibilidades farmaceuticas,ACIDO FOSFORICO,1,2,0.5
-Incompatibilidades farmaceuticas,METILPARABENO BASE,1,2,0.5
-Incompatibilidades farmaceuticas,PROPILPARABENO BASE,1,2,0.5
-Inestabilidades e incompatibilidades farmaceuticas,ACIDO GLICOLICO,6,7,0.857
-Inestabilidades e incompatibilidades farmaceuticas,CARBOXIMETILCELULOSA,6,7,0.857
-Inestabilidades e incompatibilidades farmaceuticas,ETANOL AL 96%,6,7,0.857
-Inestabilidades e incompatibilidades farmaceuticas,GLICERINA,6,7,0.857
-Inestabilidades e incompatibilidades farmaceuticas,TIMOL,6,7,0.857
-Inestabilidades e incompatibilidades farmaceuticas,ACIDO FENICO,5,7,0.714
-Inestabilidades e incompatibilidades farmaceuticas,ALCANFOR,5,7,0.714
-Inestabilidades e incompatibilidades farmaceuticas,HIDROXIDO DE SODIO,5,7,0.714
-Inestabilidades e incompatibilidades farmaceuticas,MENTOL,5,7,0.714
-Inestabilidades e incompatibilidades farmaceuticas,ACETATO DE PLOMO,4,7,0.571
-Inestabilidades e incompatibilidades farmaceuticas,ACIDO FOSFORICO,4,7,0.571
-Inestabilidades e incompatibilidades farmaceuticas,ACIDO SALICILICO,4,7,0.571
-Inestabilidades e incompatibilidades farmaceuticas,CLORURO DE AMONIO,4,7,0.571
-Inestabilidades e incompatibilidades farmaceuticas,CLORURO DE CALCIO,4,7,0.571
-Inestabilidades e incompatibilidades farmaceuticas,CLORURO DE MAGNESIO 6H20,4,7,0.571
-Inestabilidades e incompatibilidades farmaceuticas,FOSFATO DE SODIO NAH2PO4,4,7,0.571
-Inestabilidades e incompatibilidades farmaceuticas,HIDRATO DE CORAL,4,7,0.571
-Inestabilidades e incompatibilidades farmaceuticas,HIDROQUINONA,4,7,0.571
-Inestabilidades e incompatibilidades farmaceuticas,NITRATO DE PLATA,4,7,0.571
-Inestabilidades e incompatibilidades farmaceuticas,UREA,4,7,0.571
-Inestabilidades e incompatibilidades farmaceuticas,VASELINA SOLIDA,4,7,0.571
-Infeccion del tracto urinario,ACEITE DE INMERSION,3,3,1.0
-Infeccion del tracto urinario,RVO DE KOBAC,3,3,1.0
-Infecciones de vias respiratorias bajas,ACEITE DE INMERSION,2,2,1.0
-Infecciones de vias respiratorias bajas,ETANOL AL 96%,2,2,1.0
-Infecciones del snc,ACEITE DE INMERSION,3,3,1.0
-Infecciones del tracto respiratorio superior,ACEITE DE INMERSION,2,2,1.0
-Influencia del ph y la t en las reacciones catalizadas por enzimas,ACIDO CLORIHIDRICO,4,4,1.0
-Interferencia y enmascaramiento,ACETONA,5,5,1.0
-Interferencia y enmascaramiento,ETANOL AL 96%,3,5,0.6
-Interferencia y enmascaramiento,SODIO METALICO,3,5,0.6
-Interferencia y enmascaramiento y redox,SODIO METALICO,3,3,1.0
-Interferencia y enmascaramiento y redox,ZINC EN GRANALLA,3,3,1.0
-Investigacion de lupus entematoso-formula,ACEITE DE INMERSION,2,2,1.0
-Iodometria,ALMIDON,2,2,1.0
-Iodometria,YODATO DE POTASIO,2,2,1.0
-Iodometria,YODURO DE POTASIO,2,2,1.0
-La semilla,ETANOL AL 96%,2,2,1.0
-Lab: preparacion de bromuro n-butilo 3ra parte,ACIDO CLORIHIDRICO,2,2,1.0
-Lab: preparacion de bromuro n-butilo 3ra parte,VASELINA SOLIDA,2,2,1.0
-Ley de hess en un proceso de neutralizacion,HIDROXIDO DE SODIO,8,8,1.0
-Lipidos generalidades,ACEITE DE OLIVA,6,6,1.0
-Lipidos generalidades,TINTA CHINA,6,6,1.0
-Lipidos generalidades,CLOROFORMO,5,6,0.833
-Lipidos generalidades,ACEITE COMESTIBLE,4,6,0.667
-Lipidos generalidades,ACETONA,3,6,0.5
-"Lipidos generalidades, obtencion de fosfolipidos",ACEITE COMESTIBLE,3,3,1.0
-"Lipidos generalidades, obtencion de fosfolipidos",ACEITE DE OLIVA,3,3,1.0
-"Lipidos generalidades, obtencion de fosfolipidos",ACETONA,3,3,1.0
-"Lipidos generalidades, obtencion de fosfolipidos",CLOROFORMO,3,3,1.0
-"Lipidos generalidades, obtencion de fosfolipidos",TINTA CHINA,3,3,1.0
-Lipidos: obtencion e identificacion,CLOROFORMO,6,7,0.857
-Marcha analitica i,AMONIACO O -H AMONIO,3,3,1.0
-Marcha fitoquimica - extracto etanolico acuoso,ACETONA,4,6,0.667
-Marcha fitoquimica - extracto etanolico acuoso,VASELINA SOLIDA,4,6,0.667
-Marcha fitoquimica- extracto etereo,MAGNESIO EN LIMADURAS,4,4,1.0
-Material de laboratorio y reactivos,ACIDO SULFURICO,3,3,1.0
-Materiales de laboratorio,CLORURO DE SODIO TEC,9,13,0.692
-Medicion de masa,CLORURO DE SODIO TEC,2,2,1.0
-Medicion del ph de diferentes soluciones,ETANOL AL 96%,2,2,1.0
-Medicion del trompon de caida de una esfera en un vaso en medio viscoso,ACEITE COMESTIBLE,2,2,1.0
-Medios de cultivo utilizados en bacteriologia,RVO DE KOBAC,2,2,1.0
-Micobacterias,ACEITE DE INMERSION,2,2,1.0
-Microscopia,ACEITE DE INMERSION,8,8,1.0
-Mitocondria y metabolismo celular,ACEITE DE INMERSION,5,5,1.0
-Mitocondria y metabolismo celular,ETANOL AL 96%,3,5,0.6
-Mitosis,ACEITE DE INMERSION,4,4,1.0
-No disyunciones,PANOPTICO RAPIDO,2,2,1.0
-No disyunciones,ACEITE DE INMERSION,1,2,0.5
-Nucleosoma,ACEITE DE INMERSION,3,3,1.0
-Obs de celulas animales,ACEITE DE INMERSION,2,2,1.0
-Obs de celulas animales,PANOPTICO RAPIDO,2,2,1.0
-Observacion de bacterias,ACEITE DE INMERSION,10,11,0.909
-Observacion de celulas animales,ACEITE DE INMERSION,4,4,1.0
-Observacion de celulas animales,PANOPTICO RAPIDO,3,4,0.75
-Observacion de celulas sanguineas,ACEITE DE INMERSION,3,3,1.0
-Observacion de celulas sanguineas,PANOPTICO RAPIDO,3,3,1.0
-Observacion de celulas sexuales,TINTA CHINA,2,2,1.0
-Observacion de celulas sexuales,ACEITE DE INMERSION,1,2,0.5
-Observacion de organos linfoides,ACEITE DE INMERSION,2,2,1.0
-Observacion de organos linfoides,PANOPTICO RAPIDO,2,2,1.0
-Observacion de organos linfoides,CAL,1,2,0.5
-Observacion de organos linfoides y celulas sanguineas,ACEITE DE INMERSION,2,2,1.0
-Observacion de organos linfoides y celulas sanguineas,PANOPTICO RAPIDO,2,2,1.0
-Observacion de organos linfoides y celulas sanguineas,CAL,1,2,0.5
-Observacion de organos linfoides y celulas sanguineas,CLOROFORMO,1,2,0.5
-Observacion de organos linfoides y celulas sanguineas,ETANOL AL 96%,1,2,0.5
-Obtencion de acido benzoico,CARBONATO DE SODIO,2,3,0.667
-Obtencion de acido benzoico,PERMANGANATO DE POTASIO,2,3,0.667
-Obtencion de acido benzoico,TOLUENO,2,3,0.667
-Obtencion de alquinos,CARBURO DE CALCIO,3,3,1.0
-Obtencion de colorantes vegetales y teñido de fibras,ACEITE COMESTIBLE,2,2,1.0
-Obtencion de colorantes vegetales y teñido de fibras,ACETONA,2,2,1.0
-Obtencion de colorantes vegetales y teñido de fibras,ETANOL AL 96%,2,2,1.0
-Obtencion de colorantes vegetales y teñido de fibras,ETER DE PETROLEO,2,2,1.0
-Obtencion de derivados de la celulaso,ACETATO DE ETILO,2,2,1.0
-Obtencion de derivados de la celulaso,ACETONA,2,2,1.0
-Obtencion de derivados de la celulaso,ACIDO NITRICO,2,2,1.0
-Obtencion de derivados de la celulaso,ACIDO SULFURICO,2,2,1.0
-Obtencion de derivados de la celulaso,ETANOL AL 96%,2,2,1.0
-Obtencion de derivados de la celulaso,ETER DE PETROLEO,2,2,1.0
-Obtencion de derivados de la celulosa,ACIDO NITRICO,3,3,1.0
-Obtencion de derivados de la celulosa,ETANOL AL 96%,3,3,1.0
-Obtencion de enzimas,CAL,4,4,1.0
-Obtencion de enzimas,ETANOL AL 96%,4,4,1.0
-Obtencion de furfural,ACIDO CLORIHIDRICO,4,4,1.0
-Obtencion de furfural,ANILINA,2,4,0.5
-Obtencion de materias primas por aplicación de operaciones farmaceuticas,ETANOL AL 96%,5,5,1.0
-Obtencion de materias primas por aplicación de operaciones farmaceuticas,GLICERINA,5,5,1.0
-Obtencion de materias primas por aplicación de operaciones farmaceuticas,PROPELINGLICOL,4,5,0.8
-Obtencion de materias primas por aplicación de operaciones farmaceuticas parte ii,ETANOL AL 96%,2,2,1.0
-Obtencion de materias primas por aplicación de operaciones farmaceuticas parte ii,GLICERINA,2,2,1.0
-Obtencion de materias primas por aplicación de operaciones farmaceuticas parte ii,PROPELINGLICOL,2,2,1.0
-Obtencion de materias primas por aplicación de operaciones farmaceuticas parte ii,ACIDO OXALICO,1,2,0.5
-Obtencion de yodo,CLOROFORMO,2,2,1.0
-Obtencion del salicilaldehido,ACIDO FENICO,5,6,0.833
-Obtencion del salicilaldehido,CLORURO DE CALCIO,5,6,0.833
-Obtencion del salicilaldehido,HIDROXIDO DE SODIO,5,6,0.833
-Obtencion del salicilaldehido,CLOROFORMO,3,6,0.5
-Obtencion del salicilaldehido,VASELINA SOLIDA,3,6,0.5
-"Obtencion del salicilaldeido, saponificacion de una grasa y obtencion de acido carboxilicos",CLORURO DE CALCIO,2,2,1.0
-"Obtencion del salicilaldeido, saponificacion de una grasa y obtencion de acido carboxilicos",ETANOL AL 96%,2,2,1.0
-"Obtencion del salicilaldeido, saponificacion de una grasa y obtencion de acido carboxilicos",ETER DIETILICO,2,2,1.0
-"Obtencion del salicilaldeido, saponificacion de una grasa y obtencion de acido carboxilicos",VASELINA SOLIDA,2,2,1.0
-Obtencion e identificacion de fosfolipidos,ACIDO ACETICO GLACIAL,8,8,1.0
-Obtencion e identificacion de fosfolipidos,ACIDO SULFURICO,6,8,0.75
-Obtencion e identificacion de fosfolipidos,ANHIDRIDO ACETICO,6,8,0.75
-Obtencion e identificacion de fosfolipidos,CLOROFORMO,6,8,0.75
-Obtencion e identificacion de fosfolipidos,ETANOL AL 96%,5,8,0.625
-Obtencion y preparacion de cloruro de hidrogeno,AMONIACO O -H AMONIO,2,2,1.0
-Obtencion y propiedades de los alquenos eteno,ACIDO SULFURICO,2,2,1.0
-Obtencion y propiedades de los alquenos eteno,ETANOL AL 96%,2,2,1.0
-Obtencion y propiedades del cloruro de hidrogeno,AMONIACO O -H AMONIO,3,3,1.0
-Obtencion y propiedades del cloruro de hidrogeno,CLORURO DE SODIO TEC,2,3,0.667
-Obtencion y propiedades del cloruro de hidrogeno,ETANOL AL 96%,2,3,0.667
-Obtencion y propiedades del hidrogeno,COBRE EN VIRUTAS,3,3,1.0
-Obtencion y propiedades del hidrogeno,MAGNESIO EN VIRUTAS,3,3,1.0
-Obtencion y propiedades del hidrogeno,NIQUEL EL POLVO,3,3,1.0
-Obtencion y propiedades del hidrogeno,SODIO METALICO,3,3,1.0
-Obtencion y propiedades del hidrogeno,ZINC EN GRANALLA,3,3,1.0
-Obtencion y propiedades del hidrogeno,ETANOL AL 96%,2,3,0.667
-Obtencion y propiedades del nh3,CAL,2,2,1.0
-Obtencion y propiedades del nh3,CLORURO DE AMONIO,2,2,1.0
-Obtencion y propiedades del nh3,ETANOL AL 96%,2,2,1.0
-Obtencion y propiedades del yodo,CLOROFORMO,4,4,1.0
-Optica,GLICERINA,2,2,1.0
-Optica,ACEITE COMESTIBLE,1,2,0.5
-Optica,ACEITE DE INMERSION,1,2,0.5
-Permanganometria,AMONIACO O -H AMONIO,2,2,1.0
-Permanganometria,PERMANGANATO DE POTASIO,1,2,0.5
-Ph de diferentes solucion,ACIDO CLORIHIDRICO,2,2,1.0
-Ph de diferentes solucion,CUSO4 5H2O,1,2,0.5
-Ph de diferentes solucion,CUSO5 5H2O,1,2,0.5
-Polisacaridos,ETANOL AL 96%,5,6,0.833
-Polvo efervecente,AEROSIL,2,2,1.0
-Preparacion de ac. benzoico,VASELINA SOLIDA,2,2,1.0
-Preparacion de ac. benzoico,ACEITE COMESTIBLE,1,2,0.5
-Preparacion de ac. benzoico,ACIDO BENZOICO,1,2,0.5
-Preparacion de ac. benzoico,CARBONATO DE SODIO 10H2O,1,2,0.5
-Preparacion de ac. benzoico,PERMANGANATO DE POTASIO,1,2,0.5
-Preparacion de ac. benzoico,TOLUENO,1,2,0.5
-Preparacion de acido benzoico,VASELINA SOLIDA,2,2,1.0
-Preparacion de acido benzoico,ACEITE COMESTIBLE,1,2,0.5
-Preparacion de acido benzoico,ACIDO BENZOICO,1,2,0.5
-Preparacion de acido benzoico,CARBONATO DE SODIO 10H2O,1,2,0.5
-Preparacion de acido benzoico,PERMANGANATO DE POTASIO,1,2,0.5
-Preparacion de acido benzoico,TOLUENO,1,2,0.5
-Preparacion de acido picrico,ACIDO CLORIHIDRICO,5,5,1.0
-Preparacion de acido picrico,ACIDO FENICO,5,5,1.0
-Preparacion de acido picrico,ACIDO NITRICO,5,5,1.0
-Preparacion de acido picrico,ACIDO SULFURICO,5,5,1.0
-Preparacion de m-dinitrobenceno,ACIDO SULFURICO,5,5,1.0
-Preparacion de m-dinitrobenceno,ACIDO NITRICO,4,5,0.8
-Preparacion de m-dinitrobenceno,ETANOL AL 96%,4,5,0.8
-Preparacion de m-dinitrobenceno,NITROBENCENO,4,5,0.8
-Preparacion de m-dinitrobenceno,ACEITE COMESTIBLE,3,5,0.6
-Preparacion de reactivos micromolares para diseño de curva de calibrado,ACIDO SULFURICO,2,2,1.0
-Preparacion de sol stock,BICARBONATO DE SODIO,3,3,1.0
-Preparacion de soluciones,CLORURO DE SODIO TEC,5,6,0.833
-Preparacion de soluciones,ACIDO CLORIHIDRICO,3,6,0.5
-Preparacion de soluciones,ETANOL AL 96%,3,6,0.5
-Preparacion de soluciones,HIDROXIDO DE SODIO,3,6,0.5
-Preparacion de soluciones,SDS,3,6,0.5
-Preparacion de soluciones a un ph determinado,ETANOL AL 96%,21,33,0.636
-Preparacion de soluciones a un ph determinado (bases),CIANURO DE SODIO,2,2,1.0
-Preparacion de soluciones a un ph determinado (bases),ETANOL AL 96%,2,2,1.0
-Preparacion de soluciones a un ph determinado (bases),HIDROXIDO DE SODIO,2,2,1.0
-Preparacion de soluciones por dilucion,ETANOL AL 96%,2,2,1.0
-Preparacion de soluciones por disolucion n6,ACIDO CLORIHIDRICO,3,3,1.0
-Preparacion de soluciones por disolucion n6,ACIDO SULFURICO,3,3,1.0
-Preparacion de soluciones simples,ACETATO DE POTASIO,7,8,0.875
-Preparacion de soluciones simples,ETANOL AL 96%,7,8,0.875
-Preparacion de soluciones simples,SDS,7,8,0.875
-Preparacion de soluciones simples,HIDROXIDO DE SODIO,6,8,0.75
-Preparacion de soluciones simples,CLORURO DE SODIO TEC,5,8,0.625
-Preparacion de soluciones stock,BICARBONATO DE SODIO,10,11,0.909
-Preparacion de soluciones stock,CLORURO DE AMONIO,8,11,0.727
-Preparacion de soluciones stock,CLORURO DE MAGNESIO 6H20,8,11,0.727
-Preparacion de soluciones stock,EDTA 2H2O,8,11,0.727
-Preparacion de soluciones stock,ETANOL AL 96%,8,11,0.727
-Preparacion de soluciones stock,ACETATO DE POTASIO,6,11,0.545
-Preparacion de soluciones stock,SDS,6,11,0.545
-Preparacion de soluciones stock tampon y mezclas,BICARBONATO DE SODIO,2,3,0.667
-Preparacion de soluciones stock tampon y mezclas,HIDROXIDO DE SODIO,2,3,0.667
-Preparacion de soluciones tampon,ETANOL AL 96%,4,5,0.8
-Preparacion de soluciones unidades fisicas,CLORURO DE SODIO TEC,8,8,1.0
-Preparacion de soluciones unidades quimicas,CLORURO DE SODIO TEC,10,10,1.0
-Preparacion de soluciones unidades quimicas,CUSO4 5H2O,9,10,0.9
-Preparacion de yodoformo,ACETONA,2,2,1.0
-Preparacion de yodoformo,YODURO DE POTASIO,2,2,1.0
-Preparacion de yodoformo,LAVANDINA,1,2,0.5
-Preparacion de yodoformo,TWENN 80,1,2,0.5
-Preparacion y propiedades de los alquenos,ACIDO SULFURICO,2,3,0.667
-Presencia de la enzima catalasa en presencia t.a.y.t.v,ETANOL AL 96%,4,4,1.0
-Propiedades de los alcanos,ACEITE COMESTIBLE,3,3,1.0
-Propiedades de los alcanos,ACETATO DE ETILO,3,3,1.0
-Propiedades de los alcanos,ACETONA,3,3,1.0
-Propiedades de los alcanos,ACIDO ACETICO GLACIAL,3,3,1.0
-Propiedades de los alcanos,ACIDO NITRICO,3,3,1.0
-Propiedades de los alcanos,ACIDO SULFURICO,3,3,1.0
-Propiedades de los alcanos,CLORURO DE SODIO TEC,3,3,1.0
-Propiedades de los alcanos,ETER DE PETROLEO,3,3,1.0
-Propiedades de los alcanos,ETER DIETILICO,3,3,1.0
-Propiedades de los alcanos,GLICERINA,3,3,1.0
-Propiedades de los alcanos,PARAFINA SOLIDA,3,3,1.0
-Propiedades de los alcanos,SACAROSA,3,3,1.0
-Propiedades de los alcanos,TETRACLORURO DE C,3,3,1.0
-Propiedades de los alcanos,ETANOL AL 96%,2,3,0.667
-Propiedades de los alcanos,HEXANO,2,3,0.667
-Propiedades de los alcoholes,1-BUTANOL,2,2,1.0
-Propiedades de los alcoholes,ACIDO ACETICO GLACIAL,2,2,1.0
-Propiedades de los alcoholes,ACIDO SALICILICO,2,2,1.0
-Propiedades de los alcoholes,ACIDO SULFURICO,2,2,1.0
-Propiedades de los alcoholes,ALCOHOL AMILICO,2,2,1.0
-Propiedades de los alcoholes,ALCOHOL ISOPROPILICO,2,2,1.0
-Propiedades de los alcoholes,ALCOHOL TERBUTILICO,2,2,1.0
-Propiedades de los alcoholes,METANOL,2,2,1.0
-Propiedades de los alcoholes,SODIO METALICO,2,2,1.0
-Propiedades de los alcoholes,ALCOHOL ISOAMILICO,1,2,0.5
-Propiedades quimicas de alcoholes,ACIDO ACETICO GLACIAL,4,4,1.0
-Propiedades quimicas de alcoholes,ACIDO SALICILICO,4,4,1.0
-Propiedades quimicas de alcoholes,ACIDO SULFURICO,4,4,1.0
-Propiedades quimicas de alcoholes,SODIO METALICO,4,4,1.0
-Propiedades quimicas de alcoholes,1-BUTANOL,3,4,0.75
-Propiedades quimicas de alcoholes,ALCOHOL AMILICO,3,4,0.75
-Propiedades quimicas de alcoholes,ALCOHOL ISOPROPILICO,3,4,0.75
-Propiedades quimicas de alcoholes,CLORURO DE SODIO TEC,3,4,0.75
-Propiedades quimicas de alcoholes,ETANOL AL 96%,3,4,0.75
-Propiedades quimicas de alcoholes,METANOL,3,4,0.75
-Propiedades quimicas de alcoholes,ALCOHOL ISOAMILICO,2,4,0.5
-Propiedades quimicas de alcoholes,ALCOHOL TERBUTILICO,2,4,0.5
-Propiedades quimicas de aldehidos y cetonas,ACETONA,6,6,1.0
-Propiedades quimicas de aldehidos y cetonas,METANOL,4,6,0.667
-Propiedades quimicas de fenoles,1-NAFTOL,4,4,1.0
-Propiedades quimicas de fenoles,ACIDO FENICO,4,4,1.0
-Propiedades quimicas de fenoles,ACIDO SALICILICO,4,4,1.0
-Propiedades quimicas de fenoles,2-NAFTOL,3,4,0.75
-Propiedades quimicas de los hidratos de carbono,ALMIDON,2,2,1.0
-Propiedades quimicas de los hidratos de carbono,FRUCTOSA,2,2,1.0
-Propiedades quimicas de los hidratos de carbono,GLUCOSA,2,2,1.0
-Propiedades quimicas de los hidratos de carbono,MALTOSA,2,2,1.0
-Propiedades quimicas de los hidratos de carbono,SACAROSA,2,2,1.0
-Proteina con lig. organicos,ACIDO NITRICO,2,2,1.0
-Proteinas en liquidos organicos,ACIDO NITRICO,2,2,1.0
-Proteinas plasmaticas,ETANOL AL 96%,3,3,1.0
-Purificacion de acido acetil salicilico,ACIDO ESTEARICO,3,3,1.0
-Purificacion de acido acetil salicilico,ETANOL AL 96%,3,3,1.0
-Purificacion de acido acetil salicilico,GLICERINA,3,3,1.0
-Purificacion de acido acetil salicilico,1-BUTANOL,2,3,0.667
-Purificacion de acido acetil salicilico,ACIDO FOSFORICO,2,3,0.667
-Purificacion de acido acetil salicilico,ALCOHOL CETLICO,2,3,0.667
-Purificacion de acido acetil salicilico,ALMIDON,2,3,0.667
-Purificacion de acido acetil salicilico,NAFTALENO,2,3,0.667
-Purificacion de acido acetil salicilico,VAINILLINA,2,3,0.667
-Reaccion de saponificacion de acetato de etilo,ACETATO DE ETILO,2,2,1.0
-Reaccion de saponificacion de acetato de etilo,ACIDO CLORIHIDRICO,2,2,1.0
-Reaccion de widal,ETANOL AL 96%,2,2,1.0
-Reaccion redox,ACIDO NITRICO,4,4,1.0
-Reaccion redox,SODIO METALICO,4,4,1.0
-Reactivos de grupo y especificos,ACETONA,5,5,1.0
-Reconocimiento de parasitos tisulares,ACEITE DE INMERSION,4,4,1.0
-"Recuento de leucocitos, eritrocitos, plaquetas y tincion hematologica",ACEITE DE INMERSION,2,2,1.0
-"Recuento de leucocitos, eritrocitos, plaquetas y tincion hematologica",ETANOL AL 96%,2,2,1.0
-"Recuento de leucocitos, eritrocitos, plaquetas y tincion hematologica",PANOPTICO RAPIDO,1,2,0.5
-Rendimiento de una reaccion,ETANOL AL 96%,5,5,1.0
-Rendimiento de una reaccion,ZINC EN GRANALLA,5,5,1.0
-Rendimiento de una reaccion,ACIDO CLORIHIDRICO,3,5,0.6
-"Repaso de preparacion de soluciones en concentraciones fisicas, quimica y dilusion",ACIDO CLORIHIDRICO,2,2,1.0
-"Repaso de preparacion de soluciones en concentraciones fisicas, quimica y dilusion",CLORURO DE SODIO TEC,2,2,1.0
-"Repaso de preparacion de soluciones en concentraciones fisicas, quimica y dilusion",CUSO4 5H2O,1,2,0.5
-"Repaso de preparacion de soluciones en concentraciones fisicas, quimica y dilusion",CUSO5 5H2O,1,2,0.5
-Rotacion optica y analisis elemental cualitativo,FRUCTOSA,2,2,1.0
-Rotacion optica y analisis elemental cualitativo,GLUCOSA,2,2,1.0
-Rotacion optica y analisis elemental cualitativo,SULFATO FERROSO,2,2,1.0
-Rotacion optica y analisis elemental cualitativo,AZUL DE METILENO,1,2,0.5
-Saponificacion continuacion preparacion del salicilaldehido,CLORURO DE CALCIO,2,2,1.0
-Saponificacion continuacion preparacion del salicilaldehido,CLORURO DE SODIO TEC,2,2,1.0
-Saponificacion continuacion preparacion del salicilaldehido,ETANOL AL 96%,2,2,1.0
-Saponificacion continuacion preparacion del salicilaldehido,ETER DIETILICO,2,2,1.0
-Saponificacion continuacion preparacion del salicilaldehido,VASELINA SOLIDA,2,2,1.0
-Saponificacion continuacion preparacion del salicilaldehido,ACIDO CLORIHIDRICO,1,2,0.5
-Saponificacion de una grasa,ACIDO CLORIHIDRICO,2,4,0.5
-Saponificacion de una grasa,ACIDO DODECIL BENCENOSULFANILICO,2,4,0.5
-Saponificacion de una grasa,ETANOL AL 96%,2,4,0.5
-Saponificacion de una grasa y obtencion de acidos grasos,ACIDO CLORIHIDRICO,4,6,0.667
-Secrecion salival,CLORURO DE SODIO TEC,6,6,1.0
-Sensacion fisiologica diferencia de temperatura,ACEITE COMESTIBLE,2,2,1.0
-Sintesis de anilina parte 1,ACIDO CLORIHIDRICO,2,4,0.5
-Sintesis de anilina parte 1,CLORURO DE SODIO TEC,2,4,0.5
-Sintesis de anilina parte 1,DICLOROMETANO,2,4,0.5
-Sintesis de anilina parte 1,HIDROXIDO DE SODIO,2,4,0.5
-Sintesis de anilina parte 1,HIERRO EN POLVO,2,4,0.5
-Sintesis de anilina parte 1,NITROBENCENO,2,4,0.5
-Sintesis de cetona,ACETATO DE CALCIO,7,7,1.0
-Sintesis de cetona,ACETONA,6,7,0.857
-Sintesis de cetona,ACIDO ACETICO GLACIAL,6,7,0.857
-Sintesis de cetona,ACETATO DE SODIO,5,7,0.714
-Staphylococcus coagulasa positivo,ETANOL AL 96%,3,3,1.0
-Sublimacion,ACIDO NITRICO,8,9,0.889
-Supositorio para adelgazamiento,METILPARABENO BASE,2,2,1.0
-Supositorio para adelgazamiento,PARAFINA SOLIDA,2,2,1.0
-Supositorio para adelgazamiento,PROPILPARABENO BASE,2,2,1.0
-Supositorio para adelgazamiento,VASELINA LIQUIDA,2,2,1.0
-Supositorio para adelgazamiento,ETANOL AL 96%,1,2,0.5
-Tecnicas usuales de separacion,CARBONATO DE CALCIO,12,13,0.923
-Tecnicas usuales de separacion,CLORURO DE SODIO TEC,11,13,0.846
-Tecnicas usuales de separacion,NAFTALENO,11,13,0.846
-Tecnicas usuales de separacion,ETER DE PETROLEO,9,13,0.692
-Tejido conectivo,ACEITE DE INMERSION,3,3,1.0
-Tejido epitelial,ACEITE DE INMERSION,7,7,1.0
-Tejido vegetal,ETANOL AL 96%,2,2,1.0
-Tejido vegetal,GASOLINA,1,2,0.5
-Tincion de gram y zhiel neelsen,ACEITE DE INMERSION,2,2,1.0
-Tincion de zielh neelsen,ACEITE DE INMERSION,2,2,1.0
-Tipos de reacciones,ZINC EN GRANALLA,9,10,0.9
-Tipos de reacciones,ACIDO NITRICO,7,10,0.7
-Tipos de reacciones,DIOXIDO DE MANGANESO,6,10,0.6
-Tipos de reacciones,MAGNESIO EN LIMADURAS,6,10,0.6
-Tipos de reacciones - experiencia #2,ACIDO NITRICO,2,2,1.0
-Tipos de reacciones - experiencia #2,ACIDO CLORIHIDRICO,1,2,0.5
-Tipos de reacciones - experiencia #2,AMONIACO O -H AMONIO,1,2,0.5
-Titulacion acido - base,ACIDO CLORIHIDRICO,2,2,1.0
-Toma de muestra,CAL,1,2,0.5
-Toma de muestra,ETANOL AL 96%,1,2,0.5
-Toma de muestra fraccionamiento celular,ACIDO SULFURICO,3,3,1.0
-Toma de muestra sanguinea,CAL,2,2,1.0
-Toma de muestra sanguinea,ACEITE DE INMERSION,1,2,0.5
-Toma de muestra sanguinea,PANOPTICO RAPIDO,1,2,0.5
-Toma de muestra sanguinea y fraccionamiento celular,ACIDO NITRICO,5,5,1.0
-Toma de muestra sanguinea y fraccionamiento celular,ACIDO SULFURICO,5,5,1.0
-Toma de muestras y frotis sanguineo,PANOPTICO RAPIDO,3,3,1.0
-Toxicologia de la cocaina y derivados (pasta base) toxicologia de plaguicidas (organofosforados y carbamatos),ETANOL AL 96%,2,2,1.0
-Toxicologia de la cocaina y derivados (pasta base) toxicologia de plaguicidas (organofosforados y carbamatos),ACIDO CLORIHIDRICO,1,2,0.5
-Toxicologia de la cocaina y derivados (pasta base) toxicologia de plaguicidas (organofosforados y carbamatos),CLOROFORMO,1,2,0.5
-Toxicologia de la marihuana determinacion de alcoholemia,ETANOL AL 96%,2,3,0.667
-Toxicologia de los aies pruebas preliminares toxicologicos analisis de toxicos gaseosos o liquidos volatilizables toxicologia de las quinolonas,ACIDO SULFURICO,3,3,1.0
-Toxicologia de los aies pruebas preliminares toxicologicos analisis de toxicos gaseosos o liquidos volatilizables toxicologia de las quinolonas,CLOROFORMO,3,3,1.0
-Toxicologia de los aies pruebas preliminares toxicologicos analisis de toxicos gaseosos o liquidos volatilizables toxicologia de las quinolonas,ACIDO ACETICO GLACIAL,2,3,0.667
-Toxicologia de los aies pruebas preliminares toxicologicos analisis de toxicos gaseosos o liquidos volatilizables toxicologia de las quinolonas,ANHIDRIDO ACETICO,2,3,0.667
-Toxicologia de metales pesados(plomo-saturnismo) toxicologia de metales pesados(mercurio-hidrasgismo,ETANOL AL 96%,3,3,1.0
-Toxicologia de metales pesados(plomo-saturnismo) toxicologia de metales pesados(mercurio-hidrasgismo,ACEITE DE INMERSION,2,3,0.667
-Toxicologia de metales pesados(plomo-saturnismo) toxicologia de metales pesados(mercurio-hidrasgismo,ACIDO NITRICO,2,3,0.667
-Toxicologia de metales pesados(plomo-saturnismo) toxicologia de metales pesados(mercurio-hidrasgismo,AZUL DE CRESIL BRILLANTE,2,3,0.667
-Toxicologia del cianuro - hematologia forence - toxicologia del monoxido de carbono,ACEITE DE INMERSION,3,3,1.0
-Toxicologia del cianuro - hematologia forence - toxicologia del monoxido de carbono,ETANOL AL 96%,3,3,1.0
-Toxicologia del cianuro - hematologia forence - toxicologia del monoxido de carbono,PANOPTICO RAPIDO,3,3,1.0
-Toxicologia del cianuro - hematologia forence - toxicologia del monoxido de carbono,ACIDO ACETICO GLACIAL,2,3,0.667
-Toxicologia del cianuro - hematologia forence - toxicologia del monoxido de carbono,ACIDO CLORIHIDRICO,2,3,0.667
-Toxicologia del cianuro - hematologia forence - toxicologia del monoxido de carbono,CIANURO DE SODIO,2,3,0.667
-Toxicologia del cianuro - hematologia forence - toxicologia del monoxido de carbono,CLORURO DE SODIO TEC,2,3,0.667
-Uso y control de la micripipeta,ACIDO SULFURICO,2,2,1.0
-Velocidad de reaccion,ETANOL AL 96%,2,3,0.667
+practica,tipo,reactivo,sesiones_con_reactivo,sesiones,proporcion,base,siglas
+#16 hidrogeno #17 acido clorhidrico #18 amonio,reactivo,CLORURO DE SODIO TEC,4,4,1.0,practica,
+#16 hidrogeno #17 acido clorhidrico #18 amonio,reactivo,COBRE EN VIRUTAS,4,4,1.0,practica,
+#16 hidrogeno #17 acido clorhidrico #18 amonio,reactivo,ETANOL AL 96%,4,4,1.0,practica,
+#16 hidrogeno #17 acido clorhidrico #18 amonio,reactivo,MAGNESIO EN VIRUTAS,4,4,1.0,practica,
+#16 hidrogeno #17 acido clorhidrico #18 amonio,reactivo,NIQUEL EL POLVO,4,4,1.0,practica,
+#16 hidrogeno #17 acido clorhidrico #18 amonio,reactivo,SODIO METALICO,4,4,1.0,practica,
+#16 hidrogeno #17 acido clorhidrico #18 amonio,reactivo,ZINC EN GRANALLA,4,4,1.0,practica,
+#16 hidrogeno #17 acido clorhidrico #18 amonio,reactivo,CLORURO DE AMONIO,3,4,0.75,practica,
+#16 hidrogeno #17 acido clorhidrico #18 amonio,reactivo,SULFURO FERROSO,2,4,0.5,practica,
+#16 hidrogeno #17 acido clorhidrico #18 amonio,reactivo,ACIDO CLORIHIDRICO,1,4,0.25,practica,
+#16 hidrogeno #17 acido clorhidrico #18 amonio,reactivo,CAL,1,4,0.25,practica,
+-recuento de eritrocitos -recuento leucocitario -recuento plaquetas -tinciones hematologicas -formula leucocitaria,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+-recuento de eritrocitos -recuento leucocitario -recuento plaquetas -tinciones hematologicas -formula leucocitaria,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+-recuento de eritrocitos -recuento leucocitario -recuento plaquetas -tinciones hematologicas -formula leucocitaria,reactivo,PANOPTICO RAPIDO,1,2,0.5,practica,
+-toxicologia de la cocaina y derivados(pasta base) -toxicologia de plagucidos(organo fosforado y carbonatos),reactivo,ETANOL AL 96%,3,3,1.0,practica,
+-toxicologia de la cocaina y derivados(pasta base) -toxicologia de plagucidos(organo fosforado y carbonatos),reactivo,ACIDO CLORIHIDRICO,2,3,0.667,practica,
+-toxicologia de la cocaina y derivados(pasta base) -toxicologia de plagucidos(organo fosforado y carbonatos),reactivo,CLOROFORMO,2,3,0.667,practica,
+-toxicologia de metales pesados(plomo-saturnismo) -toxicologia raticidas -toxicologia de metales pesados(mercurio-hidrargismo,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+-toxicologia de metales pesados(plomo-saturnismo) -toxicologia raticidas -toxicologia de metales pesados(mercurio-hidrargismo,reactivo,ACIDO NITRICO,2,2,1.0,practica,
+-toxicologia de metales pesados(plomo-saturnismo) -toxicologia raticidas -toxicologia de metales pesados(mercurio-hidrargismo,reactivo,AZUL DE CRESIL BRILLANTE,2,2,1.0,practica,
+-toxicologia de metales pesados(plomo-saturnismo) -toxicologia raticidas -toxicologia de metales pesados(mercurio-hidrargismo,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+-toxicologia de metales pesados(plomo-saturnismo) -toxicologia raticidas -toxicologia de metales pesados(mercurio-hidrargismo,reactivo,ACIDO ACETICO GLACIAL,1,2,0.5,practica,
+1 estudio forense de pelos y fibras 2 balistica forense e identificacion de armas de fuego,reactivo,ETER DE PETROLEO,2,2,1.0,practica,
+1 estudio forense de pelos y fibras 2 balistica forense e identificacion de armas de fuego,reactivo,ACIDO SULFURICO,1,2,0.5,practica,
+1. pruebas preliminares 2. analisis de toxicos gaseosos o liquidos volatilizables 3. toxicologia de los aies,reactivo,ALMIDON,2,2,1.0,practica,
+1. pruebas preliminares 2. analisis de toxicos gaseosos o liquidos volatilizables 3. toxicologia de los aies,reactivo,ANHIDRIDO ACETICO,2,2,1.0,practica,
+1. pruebas preliminares 2. analisis de toxicos gaseosos o liquidos volatilizables 3. toxicologia de los aies,reactivo,CLOROFORMO,2,2,1.0,practica,
+1. pruebas preliminares 2. analisis de toxicos gaseosos o liquidos volatilizables 3. toxicologia de los aies,reactivo,YODURO DE POTASIO,2,2,1.0,practica,
+1. pruebas preliminares 2. analisis de toxicos gaseosos o liquidos volatilizables 3. toxicologia de los aies,reactivo,HIDROXIDO DE POTASIO,1,2,0.5,practica,
+1. recuento de eritrocitos 2.recuento de leucocitos 3.recuento de plaquetas y determinacion hb,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Accion hidrolitica de la amilasa,reactivo,ETANOL AL 96%,3,3,1.0,practica,
+Acidimetria,reactivo,HIDROXIDO DE SODIO,4,5,0.8,practica,
+Acidimetria,reactivo,LECHE DE MAGNESIA,4,5,0.8,practica,
+Acidimetria-alcalimetria,reactivo,ETANOL AL 96%,2,3,0.667,practica,
+Acidimetria-alcalimetria,reactivo,HIDROXIDO DE SODIO,2,3,0.667,practica,
+Acidimetria-alcalimetria,reactivo,ACIDO ACETIL SALICILICO,1,3,0.333,practica,
+Acidimetria-alcalimetria,reactivo,BICARBONATO DE SODIO,1,3,0.333,practica,
+Acidimetria-alcalimetria,reactivo,LECHE DE MAGNESIA,1,3,0.333,practica,
+Acidimetria-alcalimetria,reactivo,VINAGRE,1,3,0.333,practica,
+Acidos carboxilicos: saponificacion de una grasa y obtencion de acidos grasos,reactivo,ACIDO CLORIHIDRICO,1,1,1.0,practica,
+Acidos grasos saturados e insaturados,reactivo,CLOROFORMO,6,6,1.0,practica,
+Aguas de uso farmaceutico,reactivo,ACEITE DE INMERSION,1,1,1.0,practica,
+Aguas de uso farmaceutico,reactivo,AZUL DE CRESIL BRILLANTE,1,1,1.0,practica,
+Aislamiento e identificacion de la e coli,reactivo,ACIDO CLORIHIDRICO,2,2,1.0,practica,
+Aislamiento e identificacion de la e coli,reactivo,HIDROXIDO DE SODIO,2,2,1.0,practica,
+Aislamiento e identificacion de la e coli,reactivo,ACETATO DE POTASIO,1,2,0.5,practica,
+Aislamiento e identificacion de la e coli,reactivo,ETANOL AL 96%,1,2,0.5,practica,
+Aislamiento e identificacion de la e coli,reactivo,SDS,1,2,0.5,practica,
+Ajuste de datos por minimos cuadrados,reactivo,ETANOL AL 96%,3,3,1.0,practica,
+Alcalimetria,reactivo,ACIDO CLORIHIDRICO,1,1,1.0,practica,
+Alcalimetria,reactivo,CARBONATO DE SODIO,1,1,1.0,practica,
+Alcalimetria,reactivo,ETANOL AL 96%,1,1,1.0,practica,
+Alcanos,reactivo,HEXANO,14,17,0.824,practica,
+Alcanos,reactivo,ACIDO ACETICO GLACIAL,13,17,0.765,practica,
+Alcanos,reactivo,ETER DIETILICO,13,17,0.765,practica,
+Alcanos,reactivo,ACETATO DE ETILO,12,17,0.706,practica,
+Alcanos,reactivo,ACETONA,12,17,0.706,practica,
+Alcanos,reactivo,ETER DE PETROLEO,12,17,0.706,practica,
+Alcanos,reactivo,GLICERINA,11,17,0.647,practica,
+Alcanos,reactivo,PARAFINA SOLIDA,11,17,0.647,practica,
+Alcanos,reactivo,ACIDO NITRICO,10,17,0.588,practica,
+Alcanos,reactivo,ACIDO SULFURICO,10,17,0.588,practica,
+Alcanos,reactivo,ACEITE COMESTIBLE,9,17,0.529,practica,
+Alcanos,reactivo,SACAROSA,9,17,0.529,practica,
+Almidon: determinacion de su degradacion,reactivo,ACIDO CLORIHIDRICO,1,1,1.0,practica,
+Alquenos,reactivo,ACIDO SULFURICO,8,8,1.0,practica,
+Alquenos,reactivo,ETANOL ABS,4,8,0.5,practica,
+Alquenos,reactivo,ETANOL AL 96%,4,8,0.5,practica,
+Alquenos-alquinos,reactivo,ACIDO NITRICO,2,2,1.0,practica,
+Alquenos-alquinos,reactivo,ACIDO SULFURICO,2,2,1.0,practica,
+Alquenos-alquinos,reactivo,CARBURO DE CALCIO,2,2,1.0,practica,
+Alquenos-alquinos,reactivo,ETANOL AL 96%,1,2,0.5,practica,
+Alquinos,reactivo,CARBURO DE CALCIO,5,5,1.0,practica,
+Alquinos,reactivo,ACIDO NITRICO,3,5,0.6,practica,
+Alteraciones eritrocitarias,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+Alteraciones leucocitarias,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+Ambiente (introduccion),reactivo,ETANOL AL 96%,1,1,1.0,practica,
+Analisis elemental cualitativo,reactivo,AZUL DE METILENO,2,2,1.0,practica,
+Analisis elemental cualitativo,reactivo,SODIO METALICO,2,2,1.0,practica,
+Analisis elemental cualitativo,reactivo,SULFATO FERROSO,2,2,1.0,practica,
+Analisis por solubilidad,reactivo,ACIDO FOSFORICO,6,6,1.0,practica,
+Analisis por solubilidad,reactivo,ETANOL AL 96%,5,6,0.833,practica,
+Analisis por solubilidad,reactivo,ACIDO SULFURICO,4,6,0.667,practica,
+Analisis por solubilidad,reactivo,ETER DE PETROLEO,4,6,0.667,practica,
+Analisis por solubilidad,reactivo,ETER DIETILICO,4,6,0.667,practica,
+Analisis toxicologico,reactivo,ETANOL AL 96%,5,5,1.0,practica,
+Antibiograma,medio de cultivo,MAC CONKEY,6,6,1.0,practica,
+Antibiograma,medio de cultivo,MUELLER HINTON,6,6,1.0,practica,
+Antibiograma,medio de cultivo,MANNITOL SALT AGAR BASE,4,6,0.667,practica,
+Antibiograma,medio de cultivo,BLOOD AGAR BASE,3,6,0.5,practica,
+Aparato circulatorio,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+Aparato digestivo,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+Aparato respiratorio,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+Aplicación de conservantes,reactivo,ACIDO BENZOICO,2,2,1.0,practica,
+Aplicación de conservantes,reactivo,ACIDO CITRICO,2,2,1.0,practica,
+Aplicación de conservantes,reactivo,BENZOATO DE SODIO,2,2,1.0,practica,
+Aplicación de conservantes,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Aplicación de conservantes,reactivo,GLICERINA,2,2,1.0,practica,
+Aplicación de conservantes,reactivo,METILPARABENO BASE,2,2,1.0,practica,
+Aplicación de conservantes,reactivo,PROPELINGLICOL,2,2,1.0,practica,
+Aplicación de conservantes,reactivo,PROPILPARABENO BASE,2,2,1.0,practica,
+Autopsia,reactivo,ETANOL AL 96%,1,2,0.5,practica,
+Autopsia,reactivo,FORMOL,1,2,0.5,practica,
+Bacteria aerobicas mesofilas/ mohos y levaduras,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Bioseguridad,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+Bioseguridad en laboratorio,reactivo,DETERGENTE,1,1,1.0,practica,
+Bioseguridad en laboratorio,reactivo,LAVANDINA,1,1,1.0,practica,
+Bioseguridad y microscopia,reactivo,ACEITE DE INMERSION,11,11,1.0,practica,
+Bioseguridad y toma de muestra,reactivo,ETANOL AL 96%,2,3,0.667,practica,
+Bioseguridad y toma de muestra,reactivo,HIDROXIDO DE POTASIO,1,3,0.333,practica,
+Calor de dilucion,reactivo,ACIDO SULFURICO,7,7,1.0,practica,
+Calor de dilucion,reactivo,ETANOL AL 96%,2,7,0.286,practica,
+Calor de dilucion calor de solucion,reactivo,ACIDO SULFURICO,2,2,1.0,practica,
+Calor de neutralizacion,reactivo,ACIDO CLORIHIDRICO,1,1,1.0,practica,
+Calor de neutralizacion,reactivo,ETANOL AL 96%,1,1,1.0,practica,
+Calor de solucion,reactivo,HIDROXIDO DE SODIO,3,3,1.0,practica,
+Calor de solucion,reactivo,ETANOL AL 96%,1,3,0.333,practica,
+Calor de solucion - calor de neutralizacion,reactivo,HIDROXIDO DE SODIO,5,5,1.0,practica,
+Calor de solucion - calor de neutralizacion,reactivo,ACIDO CLORIHIDRICO,4,5,0.8,practica,
+Calor de solucion - calor de neutralizacion,reactivo,ETANOL AL 96%,3,5,0.6,practica,
+Carbohidratos - propiedades quimicas,reactivo,ALMIDON,5,5,1.0,practica,
+Carbohidratos - propiedades quimicas,reactivo,FRUCTOSA,5,5,1.0,practica,
+Carbohidratos - propiedades quimicas,reactivo,GLUCOSA,5,5,1.0,practica,
+Carbohidratos - propiedades quimicas,reactivo,MALTOSA,5,5,1.0,practica,
+Carbohidratos - propiedades quimicas,reactivo,SACAROSA,5,5,1.0,practica,
+Carbohidratos generalidades,reactivo,ALMIDON,9,9,1.0,practica,
+Carbohidratos generalidades,reactivo,FRUCTOSA,9,9,1.0,practica,
+Carbohidratos generalidades,reactivo,GLUCOSA,9,9,1.0,practica,
+Carbohidratos generalidades,reactivo,MALTOSA,9,9,1.0,practica,
+Carbohidratos generalidades,reactivo,SACAROSA,9,9,1.0,practica,
+Carbohidratos generalidades,reactivo,ACIDO SULFURICO,6,9,0.667,practica,
+Carbonatos,reactivo,CARBONATO DE SODIO,5,5,1.0,practica,
+Carbonatos,reactivo,BICARBONATO DE SODIO,2,5,0.4,practica,
+Cariotipo humano,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+Ciclo celular,reactivo,ACEITE DE INMERSION,3,3,1.0,practica,
+Cinetica enzimatica,reactivo,ETANOL AL 96%,4,5,0.8,practica,
+Cinetica enzimatica,reactivo,ACIDO SULFURICO,2,5,0.4,practica,
+Cinetica enzimatica,reactivo,PERMANGANATO DE POTASIO,2,5,0.4,practica,
+Cinetica quimica,reactivo,ACETATO DE ETILO,1,1,1.0,practica,
+Colesterol identificacion,reactivo,ACIDO SULFURICO,3,3,1.0,practica,
+Colesterol identificacion,reactivo,ANHIDRIDO ACETICO,3,3,1.0,practica,
+Colesterol identificacion,reactivo,CLOROFORMO,3,3,1.0,practica,
+Coliformes totales y termotolerantes,reactivo,ETANOL AL 96%,3,3,1.0,practica,
+Coliformes totales y termotolerantes,medio de cultivo,LAURYL TRIPTOSE BROTH,2,2,1.0,practica,
+Coliformes totales y termotolerantes,medio de cultivo,AGUA PEPTONADA,1,2,0.5,practica,
+Coliformes totales y termotolerantes,medio de cultivo,VERDE BRILLANTE,1,2,0.5,practica,
+Colorantes artificiales,reactivo,ETANOL AL 96%,4,4,1.0,practica,
+Componentes de espinaca cromatografia,reactivo,ACETONA,3,3,1.0,practica,
+Comportamiento de hidroxido en funcion al ph disilucion de precipitados,reactivo,ACIDO NITRICO,2,2,1.0,practica,
+Comportamiento de hidroxido en funcion al ph disilucion de precipitados,reactivo,ACIDO CLORIHIDRICO,1,2,0.5,practica,
+Comportamiento de hidroxidos en funcion a su ph,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Continuacion de obtencion de acido benzoico,reactivo,ACEITE COMESTIBLE,2,2,1.0,practica,
+Continuacion de obtencion de acido benzoico,reactivo,ACIDO CLORIHIDRICO,2,2,1.0,practica,
+Continuacion de obtencion de acido benzoico,reactivo,ANILINA,2,2,1.0,practica,
+Continuacion de obtencion de acido benzoico,reactivo,ACIDO BENZOICO,1,2,0.5,practica,
+Continuacion de obtencion de acido benzoico,reactivo,ACIDO SULFURICO,1,2,0.5,practica,
+Continuacion de obtencion de acido benzoico,reactivo,VASELINA SOLIDA,1,2,0.5,practica,
+Continuacion furfural,reactivo,ACIDO CLORIHIDRICO,2,2,1.0,practica,
+Continuacion furfural,reactivo,ANILINA,2,2,1.0,practica,
+Continuacion furfural,reactivo,VASELINA SOLIDA,2,2,1.0,practica,
+Continuacion furfural,reactivo,ACIDO SULFURICO,1,2,0.5,practica,
+Control de calidad,medio de cultivo,MAC CONKEY,2,2,1.0,practica,
+Control de calidad,medio de cultivo,BLOOD AGAR BASE,1,2,0.5,practica,
+Control de calidad,medio de cultivo,CLED,1,2,0.5,practica,
+Control de calidad,medio de cultivo,MANNITOL SALT AGAR BASE,1,2,0.5,practica,
+Control de calidad fisico en comprimidos,reactivo,AEROSIL,3,4,0.75,practica,
+Control de calidad fisico en comprimidos,reactivo,PROPILPARABENO BASE,3,4,0.75,practica,
+Control de calidad fisico en comprimidos,reactivo,METILPARABENO BASE,2,4,0.5,practica,
+Control de calidad fisico en comprimidos,reactivo,ACIDO LACTICO,1,4,0.25,practica,
+Control de calidad fisico en comprimidos,reactivo,ALCOHOL ESTEARILICO,1,4,0.25,practica,
+Control de calidad fisico en comprimidos,reactivo,CARBON ACTIVADO,1,4,0.25,practica,
+Control de calidad fisico en comprimidos,reactivo,GLICERINA,1,4,0.25,practica,
+Control de calidad fisico en comprimidos,reactivo,GLUCOSA,1,4,0.25,practica,
+Control de calidad fisico en comprimidos,reactivo,HIDROXIDO DE SODIO,1,4,0.25,practica,
+Control de calidad fisico en comprimidos,reactivo,LAURIL SULFATO DE SODIO,1,4,0.25,practica,
+Control de calidad fisico en comprimidos,reactivo,METILPAARABENO BASE,1,4,0.25,practica,
+Control de calidad fisico en comprimidos,reactivo,OXIDO DE ZINC,1,4,0.25,practica,
+Control de calidad fisico en suspenciones,reactivo,ALCOHOL CETOESTEARILICO,1,1,1.0,practica,
+Control de calidad fisico en suspenciones,reactivo,GLICERINA,1,1,1.0,practica,
+Control de calidad fisico en suspenciones,reactivo,VASELINA LIQUIDA,1,1,1.0,practica,
+Corpusculo de barr,reactivo,ACEITE DE INMERSION,7,7,1.0,practica,
+Corpusculo de barr,reactivo,PANOPTICO RAPIDO,2,7,0.286,practica,
+Cristalizacion,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Cristalizacion y sublimacion,reactivo,AMONIACO O -H AMONIO,8,10,0.8,practica,
+Cristalizacion y sublimacion,reactivo,ACIDO NITRICO,7,10,0.7,practica,
+Cristalizacion y sublimacion,reactivo,CARBON ACTIVADO,3,10,0.3,practica,
+Cristalizacion y sublimacion,reactivo,ETANOL AL 96%,3,10,0.3,practica,
+Cromatina,reactivo,ACEITE DE INMERSION,1,1,1.0,practica,
+Cromatina sexual,reactivo,ACEITE DE INMERSION,11,11,1.0,practica,
+Cromatina sexual,reactivo,PANOPTICO RAPIDO,10,11,0.909,practica,
+Cromatografia,reactivo,ACETATO DE ETILO,8,12,0.667,practica,
+Cromatografia,reactivo,1-BUTANOL,7,12,0.583,practica,
+Cromatografia,reactivo,ACIDO ACETICO GLACIAL,7,12,0.583,practica,
+Cromatografia,reactivo,ETANOL ABS,6,12,0.5,practica,
+Cromatografia,reactivo,ETANOL AL 96%,6,12,0.5,practica,
+Cromatografia,reactivo,2-BUTANOL,3,12,0.25,practica,
+Cromatografia alcanos,reactivo,1-BUTANOL,2,2,1.0,practica,
+Cromatografia alcanos,reactivo,ACEITE COMESTIBLE,2,2,1.0,practica,
+Cromatografia alcanos,reactivo,ACETATO DE ETILO,2,2,1.0,practica,
+Cromatografia alcanos,reactivo,ACETONA,2,2,1.0,practica,
+Cromatografia alcanos,reactivo,ACIDO ACETICO GLACIAL,2,2,1.0,practica,
+Cromatografia alcanos,reactivo,ACIDO NITRICO,2,2,1.0,practica,
+Cromatografia alcanos,reactivo,ACIDO SULFURICO,2,2,1.0,practica,
+Cromatografia alcanos,reactivo,CLORURO DE SODIO TEC,2,2,1.0,practica,
+Cromatografia alcanos,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Cromatografia alcanos,reactivo,ETER DE PETROLEO,2,2,1.0,practica,
+Cromatografia alcanos,reactivo,ETER DIETILICO,2,2,1.0,practica,
+Cromatografia alcanos,reactivo,GLICERINA,2,2,1.0,practica,
+Cromatografia en papel,reactivo,1-BUTANOL,2,2,1.0,practica,
+Cromatografia en papel,reactivo,ACETATO DE ETILO,2,2,1.0,practica,
+Cromatografia en papel,reactivo,ACETONA,2,2,1.0,practica,
+Cromatografia en papel,reactivo,ACIDO ACETICO GLACIAL,2,2,1.0,practica,
+Cromatografia en papel,reactivo,ETER DE PETROLEO,2,2,1.0,practica,
+Cromatografia en papel,reactivo,ETER DIETILICO,2,2,1.0,practica,
+Cromatografia en papel,reactivo,AMONIACO O -H AMONIO,1,2,0.5,practica,
+Cromatografia en papel,reactivo,ETANOL ABS,1,2,0.5,practica,
+Cromatografia en papel,reactivo,ETANOL AL 96%,1,2,0.5,practica,
+Cultivo de bacterias no fermentadores,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+Cultivo de enterobacterias,reactivo,ACEITE DE INMERSION,4,4,1.0,practica,
+Cultivo de enterobacterias,reactivo,RVO DE KOBAC,1,4,0.25,practica,
+Cultivo e identificacion de genero bacillus,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+Cultivo e identificacion de genero bacillus,medio de cultivo,SIM,1,1,1.0,practica,
+Cultivo e identificacion del genero sthaphylococcus,reactivo,ACEITE DE INMERSION,4,4,1.0,practica,
+Cultivo e identificacion del genero sthaphylococcus,medio de cultivo,BLOOD AGAR BASE,2,2,1.0,practica,
+Cultivo e identificacion del genero sthaphylococcus,medio de cultivo,MANNITOL SALT AGAR BASE,2,2,1.0,practica,
+Cultivo e identificacion del genero streptococcus,reactivo,ACEITE DE INMERSION,1,1,1.0,practica,
+Cultivo e identificacion del genero streptococcus,medio de cultivo,CEREBRO CORAZÓN INFUSIÓN,3,3,1.0,practica,
+Cultivo e identificacion del genero streptococcus,medio de cultivo,BILE AESCULIN AGAR,2,3,0.667,practica,
+Cultivo e identificacion del genero streptococcus,medio de cultivo,MAC CONKEY,2,3,0.667,practica,
+Cultivo e identificacion del genero streptococcus,medio de cultivo,BLOOD AGAR BASE,1,3,0.333,practica,
+Curva de calibracion,reactivo,ETANOL AL 96%,2,3,0.667,practica,
+Curva de calibracion,reactivo,ACIDO ACETICO GLACIAL,1,3,0.333,practica,
+Curva de calibracion,reactivo,ACIDO CLORIHIDRICO,1,3,0.333,practica,
+Curva de calibracion,reactivo,CARBONATO DE SODIO,1,3,0.333,practica,
+Curva de calibracion,reactivo,DICROMATO DE POTASIO,1,3,0.333,practica,
+Curva de crecimiento bacteriano,reactivo,DICROMATO DE POTASIO,1,1,1.0,practica,
+Curva de crecimiento bacteriano,medio de cultivo,MAC CONKEY,2,2,1.0,practica,
+Curva de crecimiento bacteriano,medio de cultivo,CALDO NUTRITIVO,1,2,0.5,practica,
+Curvas de valoracion,reactivo,ACIDO CLORIHIDRICO,2,4,0.5,practica,
+Curvas de valoracion,reactivo,BICARBONATO DE SODIO,1,4,0.25,practica,
+Curvas de valoracion,reactivo,CARBONATO DE SODIO,1,4,0.25,practica,
+Curvas de valoracion,reactivo,ETANOL AL 96%,1,4,0.25,practica,
+Curvas de valoracion,reactivo,HIDROXIDO DE SODIO,1,4,0.25,practica,
+Densidad aparente de solidos,reactivo,AEROSIL,3,3,1.0,practica,
+Desarrollo de polvo efervescente,reactivo,ACIDO CITRICO,2,2,1.0,practica,
+Desarrollo de polvo efervescente,reactivo,AEROSIL,2,2,1.0,practica,
+Desarrollo de polvo efervescente,reactivo,ASPARTAME,2,2,1.0,practica,
+Desarrollo de polvo efervescente,reactivo,BICARBONATO DE SODIO,2,2,1.0,practica,
+Desarrollo de polvo efervescente,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Desarrollo de polvo efervescente,reactivo,METILPARABENO BASE,2,2,1.0,practica,
+Desarrollo de polvo efervescente,reactivo,PROPILPARABENO BASE,2,2,1.0,practica,
+Desarrollo de polvo efervescente,reactivo,SACARINA SODICA,2,2,1.0,practica,
+Descenso del punto de congelacion,reactivo,ALCANFOR,7,7,1.0,practica,
+Descenso del punto de congelacion,reactivo,ACEITE COMESTIBLE,6,7,0.857,practica,
+Descenso del punto de congelacion,reactivo,ACIDO ACETIL SALICILICO,3,7,0.429,practica,
+Descenso del punto de congelacion,reactivo,ETANOL AL 96%,3,7,0.429,practica,
+Destilacion de eter de petroleo y extraccion soxhlet,reactivo,VASELINA SOLIDA,1,1,1.0,practica,
+Destilacion por arrastre con vapor de agua,reactivo,VASELINA SOLIDA,2,4,0.5,practica,
+Destilacion por arrastre con vapor de agua,reactivo,ACIDO ACETICO GLACIAL,1,4,0.25,practica,
+Destilacion por arrastre con vapor de agua,reactivo,ETANOL AL 96%,1,4,0.25,practica,
+Destilacion por arrastre de vapor,reactivo,VASELINA SOLIDA,3,3,1.0,practica,
+Destilacion por arrastre de vapor,reactivo,ETANOL AL 96%,1,3,0.333,practica,
+Destilacion simple,reactivo,VASELINA SOLIDA,8,9,0.889,practica,
+Determinacion de actividad enzimatica en funsion de la concentracion de sustrato y determinacion de parametro cinetico,reactivo,ETANOL AL 96%,3,3,1.0,practica,
+Determinacion de aminoacidos y proteinas,reactivo,ACIDO SULFURICO,4,4,1.0,practica,
+Determinacion de aminoacidos y proteinas,reactivo,ACIDO NITRICO,3,4,0.75,practica,
+Determinacion de carbonatos,reactivo,CARBONATO DE SODIO,3,4,0.75,practica,
+Determinacion de carbonatos,reactivo,BICARBONATO DE SODIO,2,4,0.5,practica,
+Determinacion de densidad,reactivo,ACETONA,2,2,1.0,practica,
+Determinacion de densidad,reactivo,ETANOL ABS,2,2,1.0,practica,
+Determinacion de glucidos totales,reactivo,ACIDO CLORIHIDRICO,1,1,1.0,practica,
+Determinacion de glucidos totales,reactivo,VASELINA SOLIDA,1,1,1.0,practica,
+Determinacion de grupo sanguineo,reactivo,KIT GRUPO SANGUINEO,1,1,1.0,practica,
+Determinacion de la concentracion de un solo componente,reactivo,DICROMATO DE POTASIO,2,2,1.0,practica,
+Determinacion de la concentracion de un solo componente,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Determinacion de la concentracion de un solo componente por medio de la espectronometria,reactivo,DICROMATO DE POTASIO,2,2,1.0,practica,
+Determinacion de la concentracion de un solo componente por medio de la espectronometria,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Determinacion de la concentracion de una mezcla binaria por metodo espectrofotometro,reactivo,DICROMATO DE POTASIO,2,2,1.0,practica,
+Determinacion de la concentracion de una mezcla binaria por metodo espectrofotometro,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Determinacion de la constante termica de un calorimetro,reactivo,ETANOL AL 96%,1,1,1.0,practica,
+Determinacion de la energia libre estandar de una reaccion quimica,reactivo,ACIDO ACETICO GLACIAL,3,3,1.0,practica,
+Determinacion de la energia libre estandar de una reaccion quimica,reactivo,ETANOL AL 96%,2,3,0.667,practica,
+Determinacion de los componentes de la espinaca,reactivo,ACETONA,2,2,1.0,practica,
+Determinacion de punto de ebullicion,reactivo,ACEITE COMESTIBLE,6,6,1.0,practica,
+Determinacion de punto de ebullicion,reactivo,ACETONA,4,6,0.667,practica,
+Determinacion de punto de ebullicion,reactivo,ALCOHOL ISOPROPILICO,4,6,0.667,practica,
+Determinacion de punto de ebullicion,reactivo,CLOROFORMO,4,6,0.667,practica,
+Determinacion de punto de ebullicion,reactivo,HEXANO,4,6,0.667,practica,
+Determinacion de punto de ebullicion,reactivo,METANOL,4,6,0.667,practica,
+Determinacion de punto de ebullicion,reactivo,TETRACLORURO DE C,4,6,0.667,practica,
+Determinacion de punto de ebullicion,reactivo,1-BUTANOL,3,6,0.5,practica,
+Determinacion de punto de ebullicion,reactivo,ETANOL ABS,3,6,0.5,practica,
+Determinacion de punto de ebullicion,reactivo,ACETATO DE ETILO,2,6,0.333,practica,
+Determinacion de punto de ebullicion,reactivo,ETANOL AL 96%,2,6,0.333,practica,
+Determinacion de punto de ebullicion,reactivo,ETER DE PETROLEO,2,6,0.333,practica,
+Determinacion de punto de fusion,reactivo,ACEITE COMESTIBLE,8,8,1.0,practica,
+Determinacion de punto de fusion,reactivo,1-NAFTOL,4,8,0.5,practica,
+Determinacion de punto de fusion,reactivo,ACIDO OXALICO,4,8,0.5,practica,
+Determinacion de punto de fusion,reactivo,ALCOHOL CETILICO,4,8,0.5,practica,
+Determinacion de punto de fusion,reactivo,NAFTALENO,4,8,0.5,practica,
+Determinacion de punto de fusion,reactivo,VAINILLINA,4,8,0.5,practica,
+Determinacion de punto de fusion,reactivo,ACIDO ESTEARICO,3,8,0.375,practica,
+Determinacion de punto de fusion,reactivo,2-NAFTOL,2,8,0.25,practica,
+Determinacion de punto de fusion,reactivo,ACIDO FENICO,2,8,0.25,practica,
+Determinacion de punto de fusion,reactivo,PARAFINA SOLIDA,2,8,0.25,practica,
+Determinacion de punto de fusion,reactivo,TIMOL,2,8,0.25,practica,
+Determinacion de rotacion optica,reactivo,FRUCTOSA,1,1,1.0,practica,
+Determinacion de rotacion optica,reactivo,GLUCOSA,1,1,1.0,practica,
+Determinacion de solubilidad,reactivo,ACIDO FOSFORICO,2,2,1.0,practica,
+Determinacion de solubilidad,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Determinacion de solubilidad,reactivo,1-BUTANOL,1,2,0.5,practica,
+Determinacion de solubilidad,reactivo,2-BUTANONA,1,2,0.5,practica,
+Determinacion de solubilidad,reactivo,ACIDO BENZOICO,1,2,0.5,practica,
+Determinacion de solubilidad,reactivo,ACIDO SALICILICO,1,2,0.5,practica,
+Determinacion de solubilidad,reactivo,SACAROSA,1,2,0.5,practica,
+Determinacion del agua de hidratacion,reactivo,CUSO4 5H2O,2,3,0.667,practica,
+Determinacion del agua de hidratacion,reactivo,CUSO5 5H2O,1,3,0.333,practica,
+Determinacion del agua de hidratacion,reactivo,ETANOL AL 96%,1,3,0.333,practica,
+Determinacion del calor de fusion del hielo,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Determinacion del calor especifico de un solido,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Determinacion del indice de refraccion,reactivo,ETANOL ABS,2,2,1.0,practica,
+Determinacion del peso molecular,reactivo,ACETONA,4,4,1.0,practica,
+Determinacion del peso molecular,reactivo,ETANOL AL 96%,4,4,1.0,practica,
+Determinacion del peso molecular por el metodo de dumas,reactivo,ACETONA,1,1,1.0,practica,
+Determinacion del rendimiento de una reaccion,reactivo,ZINC EN GRANALLA,4,4,1.0,practica,
+Determinacion espectrofotometrica de la constante de disociacion de un indicador de acido base,reactivo,ETANOL AL 96%,4,4,1.0,practica,
+Determinacion espectrofotometrica de la constante de disociacion de un indicador de acido base,reactivo,ROJO DE METILO,4,4,1.0,practica,
+Determinacion punto de ebullicion y indice de refraccion,reactivo,ACEITE COMESTIBLE,3,3,1.0,practica,
+Determinacion punto de ebullicion y indice de refraccion,reactivo,ETANOL AL 96%,3,3,1.0,practica,
+Determinacion punto de ebullicion y indice de refraccion,reactivo,ACIDO CLORIHIDRICO,1,3,0.333,practica,
+Determinacion punto de ebullicion y indice de refraccion,reactivo,CLOROFORMO,1,3,0.333,practica,
+Determinacion viscocidad,reactivo,ACEITE COMESTIBLE,3,3,1.0,practica,
+Determinacion viscocidad,reactivo,GLICERINA,3,3,1.0,practica,
+Determinacion viscocidad,reactivo,VASELINA LIQUIDA,3,3,1.0,practica,
+Diagnostico de malaria,reactivo,ACEITE DE INMERSION,2,3,0.667,practica,
+Diagnostico de malaria,reactivo,PANOPTICO RAPIDO,2,3,0.667,practica,
+Diferencia de angiosperma y gimnospermas,reactivo,ACEITE DE INMERSION,4,4,1.0,practica,
+Diferencia entre calor y temperatura,reactivo,ACEITE COMESTIBLE,3,3,1.0,practica,
+Diferencia entre calor y temperatura,reactivo,ETANOL AL 96%,2,3,0.667,practica,
+"Diferencia entre mitosis y meiosis, estructura del adn, nucleosoma",reactivo,ACEITE DE INMERSION,6,6,1.0,practica,
+Digestion intestinal,reactivo,ACEITE COMESTIBLE,3,3,1.0,practica,
+Digestion intestinal,reactivo,DETERGENTE,2,3,0.667,practica,
+Diluciones,reactivo,ACIDO CLORIHIDRICO,3,3,1.0,practica,
+Division celular - meiosis,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+Elaboracion de crema base,reactivo,ALCOHOL CETILICO,2,2,1.0,practica,
+Elaboracion de crema base,reactivo,CERA LANETTE,2,2,1.0,practica,
+Elaboracion de crema base,reactivo,METILPARABENO BASE,2,2,1.0,practica,
+Elaboracion de crema base,reactivo,PROPELINGLICOL,2,2,1.0,practica,
+Elaboracion de crema base,reactivo,PROPILPARABENO BASE,2,2,1.0,practica,
+Elaboracion de crema base,reactivo,VASELINA LIQUIDA,2,2,1.0,practica,
+Elaboracion de crema nutritiva de noche y crema para manchas,reactivo,ACIDO GLICOLICO,2,2,1.0,practica,
+Elaboracion de crema nutritiva de noche y crema para manchas,reactivo,ACIDO HIALURONICO,2,2,1.0,practica,
+Elaboracion de crema nutritiva de noche y crema para manchas,reactivo,COLAGENO HIDROLIZADO,2,2,1.0,practica,
+Elaboracion de crema nutritiva de noche y crema para manchas,reactivo,HIDROQUINONA,2,2,1.0,practica,
+Elaboracion de crema nutritiva de noche y crema para manchas,reactivo,HIDROXIDO DE SODIO,2,2,1.0,practica,
+Elaboracion de crema nutritiva de noche y crema para manchas,reactivo,METABISULFITO DE SODIO,2,2,1.0,practica,
+Elaboracion de crema nutritiva de noche y crema para manchas,reactivo,ROSA MOSQUETA,2,2,1.0,practica,
+Elaboracion de emulcion repelente,reactivo,ALCOHOL CETOESTEARILICO,2,2,1.0,practica,
+Elaboracion de emulcion repelente,reactivo,ESENCIA DE CEDRON,2,2,1.0,practica,
+Elaboracion de emulcion repelente,reactivo,LAURIL SULFATO DE SODIO,2,2,1.0,practica,
+Elaboracion de emulcion repelente,reactivo,METILPARABENO BASE,2,2,1.0,practica,
+Elaboracion de emulcion repelente,reactivo,PROPELINGLICOL,2,2,1.0,practica,
+Elaboracion de emulcion repelente,reactivo,PROPILPARABENO BASE,2,2,1.0,practica,
+Elaboracion de emulcion repelente,reactivo,VASELINA SOLIDA,2,2,1.0,practica,
+Elaboracion de emulcion repelente,reactivo,ETANOL AL 96%,1,2,0.5,practica,
+Elaboracion de emulcion repelente,reactivo,GLICERINA,1,2,0.5,practica,
+Elaboracion de gel antiseptico y criogenico,reactivo,ALCANFOR,2,2,1.0,practica,
+Elaboracion de gel antiseptico y criogenico,reactivo,CARBAPOL,2,2,1.0,practica,
+Elaboracion de gel antiseptico y criogenico,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Elaboracion de gel antiseptico y criogenico,reactivo,GLICERINA,2,2,1.0,practica,
+Elaboracion de gel antiseptico y criogenico,reactivo,MENTOL,2,2,1.0,practica,
+Elaboracion de gel antiseptico y criogenico,reactivo,METILPARABENO BASE,2,2,1.0,practica,
+Elaboracion de gel antiseptico y criogenico,reactivo,PROPELINGLICOL,2,2,1.0,practica,
+Elaboracion de gel antiseptico y criogenico,reactivo,PROPILPARABENO BASE,2,2,1.0,practica,
+Elaboracion de gel antiseptico y criogenico,reactivo,TRIETANOLAMINA,2,2,1.0,practica,
+Elaboracion de gel antiseptico y criogenico,reactivo,AROMA CITRONELLA,1,2,0.5,practica,
+Elaboracion de gel antiseptico y criogenico,reactivo,COLORANTE AZUL,1,2,0.5,practica,
+Elaboracion de gel antiseptico y criogenico,reactivo,COLORANTE CAFE,1,2,0.5,practica,
+Elaboracion de jarabe,reactivo,ACIDO ASCORBICO,2,2,1.0,practica,
+Elaboracion de jarabe,reactivo,ACIDO CITRICO,2,2,1.0,practica,
+Elaboracion de jarabe,reactivo,ASPARTAME,2,2,1.0,practica,
+Elaboracion de jarabe,reactivo,BENZOATO DE SODIO,2,2,1.0,practica,
+Elaboracion de jarabe,reactivo,CITRATO DE SODIO,2,2,1.0,practica,
+Elaboracion de jarabe,reactivo,COLORANTE AMARILLO,2,2,1.0,practica,
+Elaboracion de jarabe,reactivo,COLORANTE ROJO BORDEUS,2,2,1.0,practica,
+Elaboracion de jarabe,reactivo,COLORANTE ROSA,2,2,1.0,practica,
+Elaboracion de jarabe,reactivo,ESENCIA  PLATANO,2,2,1.0,practica,
+Elaboracion de jarabe,reactivo,ESENCIA DE FRUTILLA,2,2,1.0,practica,
+Elaboracion de jarabe,reactivo,GLICERINA,2,2,1.0,practica,
+Elaboracion de jarabe,reactivo,PARACETAMOL,2,2,1.0,practica,
+Elaboracion de jarabe de bioglicinato ferroso para diabetes,reactivo,ACIDO ASCORBICO,2,2,1.0,practica,
+Elaboracion de jarabe de bioglicinato ferroso para diabetes,reactivo,ACIDO CITRICO,2,2,1.0,practica,
+Elaboracion de jarabe de bioglicinato ferroso para diabetes,reactivo,BENZOATO DE SODIO,2,2,1.0,practica,
+Elaboracion de jarabe de bioglicinato ferroso para diabetes,reactivo,BISGLICINATO DE HIERRO,2,2,1.0,practica,
+Elaboracion de jarabe de bioglicinato ferroso para diabetes,reactivo,COLORANTE AMARILLO,2,2,1.0,practica,
+Elaboracion de jarabe de bioglicinato ferroso para diabetes,reactivo,ESENCIA  PLATANO,2,2,1.0,practica,
+Elaboracion de jarabe de bioglicinato ferroso para diabetes,reactivo,ESENCIA DE VAINILLA,2,2,1.0,practica,
+Elaboracion de jarabe de bioglicinato ferroso para diabetes,reactivo,GLICERINA,2,2,1.0,practica,
+Elaboracion de jarabe de bioglicinato ferroso para diabetes,reactivo,SORBITOL 70%,2,2,1.0,practica,
+Elaboracion de jarabe simple,reactivo,ACIDO ASCORBICO,3,3,1.0,practica,
+Elaboracion de jarabe simple,reactivo,ACIDO CITRICO,3,3,1.0,practica,
+Elaboracion de jarabe simple,reactivo,BENZOATO DE SODIO,3,3,1.0,practica,
+Elaboracion de jarabe simple,reactivo,BISGLICINATO DE HIERRO,3,3,1.0,practica,
+Elaboracion de jarabe simple,reactivo,GLICERINA,3,3,1.0,practica,
+Elaboracion de jarabe simple,reactivo,SACAROSA,3,3,1.0,practica,
+Elaboracion de jarabe simple,reactivo,ESENCIA  PLATANO,2,3,0.667,practica,
+Elaboracion de jarabe simple,reactivo,ASPARTAME,1,3,0.333,practica,
+Elaboracion de jarabe simple,reactivo,CITRATO DE SODIO,1,3,0.333,practica,
+Elaboracion de jarabe simple,reactivo,COLORANTE ROSA,1,3,0.333,practica,
+Elaboracion de jarabe simple,reactivo,ESENCIA DE FRUTILLA,1,3,0.333,practica,
+Elaboracion de jarabe simple,reactivo,ESENCIA DE VAINILLA,1,3,0.333,practica,
+Elaboracion de ovulos de povidona,reactivo,GELATINA BLOOM 280,2,2,1.0,practica,
+Elaboracion de ovulos de povidona,reactivo,GLICERINA,2,2,1.0,practica,
+Elaboracion de ovulos de povidona,reactivo,POVIDONA YODADA,2,2,1.0,practica,
+Elaboracion de ovulos de povidona,reactivo,VASELINA LIQUIDA,2,2,1.0,practica,
+Elaboracion de producto innovador,reactivo,AEROSIL,2,2,1.0,practica,
+Elaboracion de producto innovador,reactivo,BENZOATO DE SODIO,2,2,1.0,practica,
+Elaboracion de producto innovador,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Elaboracion de producto innovador,reactivo,METILPARABENO BASE,2,2,1.0,practica,
+Elaboracion de producto innovador,reactivo,PROPELINGLICOL,2,2,1.0,practica,
+Elaboracion de producto innovador,reactivo,PROPILPARABENO BASE,2,2,1.0,practica,
+Elaboracion de producto innovador,reactivo,ALCOHOL CETOESTEARILICO,1,2,0.5,practica,
+Elaboracion de producto innovador,reactivo,CLORURO DE SODIO,1,2,0.5,practica,
+Elaboracion de producto innovador,reactivo,CLORURO DE SODIO TEC,1,2,0.5,practica,
+Elaboracion de producto innovador,reactivo,GLICERINA,1,2,0.5,practica,
+Elaboracion de producto innovador,reactivo,LANOLINA,1,2,0.5,practica,
+Elaboracion de producto innovador,reactivo,LAURIL SULFATO DE SODIO,1,2,0.5,practica,
+Elaboracion de soluciones,reactivo,ASPARTAME,4,4,1.0,practica,
+Elaboracion de soluciones,reactivo,BENZOATO DE SODIO,4,4,1.0,practica,
+Elaboracion de soluciones,reactivo,CITRATO DE SODIO,4,4,1.0,practica,
+Elaboracion de soluciones,reactivo,GLICERINA,4,4,1.0,practica,
+Elaboracion de soluciones,reactivo,PARACETAMOL,4,4,1.0,practica,
+Elaboracion de soluciones,reactivo,POVIDONA YODADA,4,4,1.0,practica,
+Elaboracion de soluciones,reactivo,ACIDO CITRICO,3,4,0.75,practica,
+Elaboracion de soluciones,reactivo,COLORANTE ROSA,3,4,0.75,practica,
+Elaboracion de soluciones,reactivo,ESENCIA DE FRUTILLA,3,4,0.75,practica,
+Elaboracion de soluciones,reactivo,POLIETILENGLICOL,3,4,0.75,practica,
+Elaboracion de soluciones,reactivo,COLORANTE AMARILLO,1,4,0.25,practica,
+Elaboracion de soluciones,reactivo,ESENCIA  PLATANO,1,4,0.25,practica,
+Elaboracion de unguento analgesico,reactivo,MENTOL,4,4,1.0,practica,
+Elaboracion de unguento analgesico,reactivo,METILPARABENO BASE,4,4,1.0,practica,
+Elaboracion de unguento analgesico,reactivo,PARAFINA SOLIDA,4,4,1.0,practica,
+Elaboracion de unguento analgesico,reactivo,PROPILPARABENO BASE,4,4,1.0,practica,
+Elaboracion de unguento analgesico,reactivo,SALICILATO DE METILO,4,4,1.0,practica,
+Elaboracion de unguento analgesico,reactivo,ETANOL AL 96%,3,4,0.75,practica,
+Elaboracion de unguento analgesico,reactivo,EUCALIPTOL,3,4,0.75,practica,
+Elaboracion de unguento analgesico,reactivo,VASELINA SOLIDA,3,4,0.75,practica,
+Elaboracion de unguento analgesico,reactivo,AEROSIL,1,4,0.25,practica,
+Elaboracion de unguento analgesico,reactivo,CARBOXIMETILCELULOSA,1,4,0.25,practica,
+Elaboracion de unguento analgesico,reactivo,MAGNESIO EN LIMADURAS,1,4,0.25,practica,
+Elaboracion de unguento analgesico,reactivo,ZINC EN GRANALLA,1,4,0.25,practica,
+Energia libre y equilibrio,reactivo,ACIDO ACETICO GLACIAL,3,3,1.0,practica,
+Energia libre y equilibrio,reactivo,ETANOL AL 96%,2,3,0.667,practica,
+Enmascaramiento de formulaciones liquidos y semisolidas,reactivo,COLORANTE ROSA,2,2,1.0,practica,
+Enmascaramiento de formulaciones liquidos y semisolidas,reactivo,ESENCIA  PLATANO,2,2,1.0,practica,
+Enmascaramiento de formulaciones liquidos y semisolidas,reactivo,ESENCIA  TUTTY FRUTTY,2,2,1.0,practica,
+Enmascaramiento de formulaciones liquidos y semisolidas,reactivo,ESENCIA DE CHOCOLATE,2,2,1.0,practica,
+Enmascaramiento de formulaciones liquidos y semisolidas,reactivo,ESENCIA DE COCO,2,2,1.0,practica,
+Enmascaramiento de formulaciones liquidos y semisolidas,reactivo,ESENCIA DE FRUTILLA,2,2,1.0,practica,
+Enmascaramiento de formulaciones liquidos y semisolidas,reactivo,ESENCIA DE LIMON,2,2,1.0,practica,
+Enmascaramiento de formulaciones liquidos y semisolidas,reactivo,ESENCIA DE VAINILLA,2,2,1.0,practica,
+Enmascaramiento de formulaciones liquidos y semisolidas,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Enmascaramiento de formulaciones liquidos y semisolidas,reactivo,FRAGANCIA BABY JEANS,2,2,1.0,practica,
+Enmascaramiento de formulaciones liquidos y semisolidas,reactivo,FRAGANCIA DE MANZANA,2,2,1.0,practica,
+Enmascaramiento de formulaciones liquidos y semisolidas,reactivo,FRAGANCIA JASMIN,2,2,1.0,practica,
+Enterobacterias,medio de cultivo,BLOOD AGAR BASE,2,2,1.0,practica,
+Enumeracion de staphylococcus coagulasa positiva,medio de cultivo,AGUA PEPTONADA,1,1,1.0,practica,
+Enumeracion de staphylococcus coagulasa positiva,medio de cultivo,CEREBRO CORAZÓN INFUSIÓN,1,1,1.0,practica,
+Enumeracion de staphylococcus coagulasa positiva,medio de cultivo,MANNITOL SALT AGAR BASE,1,1,1.0,practica,
+Espermograma,reactivo,ACEITE DE INMERSION,4,4,1.0,practica,
+Estandarizacion de soluciones,reactivo,CARBONATO DE SODIO,14,14,1.0,practica,
+Estandarizacion de soluciones,reactivo,ACIDO CLORIHIDRICO,9,14,0.643,practica,
+Estandarizacion de soluciones,reactivo,HIDROXIDO DE SODIO,5,14,0.357,practica,
+Estequiometria de soluciones,reactivo,VINAGRE,3,4,0.75,practica,
+Estequiometria de soluciones,reactivo,PERMANGANATO DE POTASIO,1,4,0.25,practica,
+Estudio de aceite,reactivo,ACIDO CLORIHIDRICO,4,4,1.0,practica,
+Estudio de aceite,reactivo,ACEITE COMESTIBLE,1,4,0.25,practica,
+Estudio de aceite,reactivo,ACIDO ACETICO GLACIAL,1,4,0.25,practica,
+Estudio de aceite,reactivo,VASELINA SOLIDA,1,4,0.25,practica,
+Estudio de aceite comestible,reactivo,ACIDO CLORIHIDRICO,7,7,1.0,practica,
+Estudio de aceite comestible,reactivo,ACIDO ACETICO GLACIAL,3,7,0.429,practica,
+Estudio de aceite comestible,reactivo,CLOROFORMO,3,7,0.429,practica,
+Estudio de aceite comestible,reactivo,HIDROXIDO DE POTASIO,2,7,0.286,practica,
+Estudio de aceite comestible,reactivo,VASELINA SOLIDA,2,7,0.286,practica,
+Estudio de harina,reactivo,BROMATO DE POTASIO,4,5,0.8,practica,
+Estudio de harina,reactivo,BICARBONATO DE SODIO,3,5,0.6,practica,
+Estudio de harina de trigo,reactivo,BROMATO DE POTASIO,6,6,1.0,practica,
+Estudio de harina de trigo,reactivo,ACIDO CITRICO,2,6,0.333,practica,
+Estudio de harina de trigo,reactivo,ACIDO CLORIHIDRICO,2,6,0.333,practica,
+Estudio de harina de trigo,reactivo,BICARBONATO DE SODIO,2,6,0.333,practica,
+Estudio de la leche,reactivo,ACIDO ACETICO GLACIAL,2,3,0.667,practica,
+Estudio de la leche,reactivo,ALCOHOL AMILICO,1,3,0.333,practica,
+Estudio de la miel,reactivo,ETER DE PETROLEO,1,1,1.0,practica,
+Estudio de la miel de abeja,reactivo,ACIDO CLORIHIDRICO,1,2,0.5,practica,
+Estudio de la miel de abeja,reactivo,ETER DE PETROLEO,1,2,0.5,practica,
+Estudio de la miel de abeja,reactivo,ETER DIETILICO,1,2,0.5,practica,
+Estudio de vino,reactivo,ACIDO CLORIHIDRICO,10,11,0.909,practica,
+Estudio de vino,reactivo,VASELINA SOLIDA,7,11,0.636,practica,
+Eucariontes unicelulares,reactivo,ACEITE DE INMERSION,1,1,1.0,practica,
+Evaluacion de la actividad antimicrobiana,reactivo,DIMETILSULFOXIDO,2,2,1.0,practica,
+Evaluacion espectrometria de la estabilidad de los colorantes y potenciometria,reactivo,CLORURO DE SODIO TEC,2,3,0.667,practica,
+Evaluacion espectrometria de la estabilidad de los colorantes y potenciometria,reactivo,ACETONA,1,3,0.333,practica,
+Evaluacion espectrometria de la estabilidad de los colorantes y potenciometria,reactivo,ACIDO ASCORBICO,1,3,0.333,practica,
+Evaluacion espectrometria de la estabilidad de los colorantes y potenciometria,reactivo,ACIDO SULFURICO,1,3,0.333,practica,
+Evaluacion espectrometria de la estabilidad de los colorantes y potenciometria,reactivo,CLORURO DE CALCIO,1,3,0.333,practica,
+Evaluacion espectrometria de la estabilidad de los colorantes y potenciometria,reactivo,CLORURO DE POTASIO,1,3,0.333,practica,
+Evaluacion espectrometria de la estabilidad de los colorantes y potenciometria,reactivo,ETANOL AL 96%,1,3,0.333,practica,
+Evaluacion espectrometria de la estabilidad de los colorantes y potenciometria,reactivo,HEXANO,1,3,0.333,practica,
+Evaluacion espectrometria de la estabilidad de los colorantes y potenciometria,reactivo,YODO SUBLIMADO,1,3,0.333,practica,
+Examen,reactivo,ALMIDON,1,1,1.0,practica,
+Examen,reactivo,CLORURO DE SODIO TEC,1,1,1.0,practica,
+Examen,reactivo,ETANOL AL 96%,1,1,1.0,practica,
+Examen,reactivo,LECHE DE MAGNESIA,1,1,1.0,practica,
+Examen,reactivo,YODATO DE POTASIO,1,1,1.0,practica,
+Examen,reactivo,YODURO DE POTASIO,1,1,1.0,practica,
+Examen de laboratorio,reactivo,ACEITE COMESTIBLE,3,7,0.429,practica,
+Examen de laboratorio,reactivo,1-BUTANOL,2,7,0.286,practica,
+Examen de laboratorio,reactivo,1-PROPANOL,2,7,0.286,practica,
+Examen de laboratorio,reactivo,ACEITE DE INMERSION,2,7,0.286,practica,
+Examen de laboratorio,reactivo,ACETATO DE ETILO,2,7,0.286,practica,
+Examen de laboratorio,reactivo,ACETONA,2,7,0.286,practica,
+Examen de laboratorio,reactivo,ACIDO CLORIHIDRICO,2,7,0.286,practica,
+Examen de laboratorio,reactivo,ACIDO ESTEARICO,2,7,0.286,practica,
+Examen de laboratorio,reactivo,ACIDO OXALICO,2,7,0.286,practica,
+Examen de laboratorio,reactivo,ACIDO SALICILICO,2,7,0.286,practica,
+Examen de laboratorio,reactivo,ACIDO SULFURICO,2,7,0.286,practica,
+Examen de laboratorio,reactivo,ALCOHOL ISOPROPILICO,2,7,0.286,practica,
+Examen de microscopia,reactivo,ACEITE DE INMERSION,7,7,1.0,practica,
+Examen fisico y quimico de orina,reactivo,ACETONA,3,3,1.0,practica,
+Examen fisico y quimico de orina,reactivo,ACIDO NITRICO,3,3,1.0,practica,
+Examen fisico y quimico de orina,reactivo,AMONIACO O -H AMONIO,3,3,1.0,practica,
+Examen fisico y quimico de orina,reactivo,GLUCOSA,3,3,1.0,practica,
+Examen fisico y quimico de orina,reactivo,FLOR DE AZUFRE,2,3,0.667,practica,
+Examen fisico y quimico de orina,reactivo,CARBONATO DE SODIO,1,3,0.333,practica,
+Examen general de orina (microscopia),reactivo,ALCOHOL ISOPROPILICO,1,1,1.0,practica,
+Examen preliminar,reactivo,ETANOL AL 96%,5,8,0.625,practica,
+Examen preliminar,reactivo,METANOL,5,8,0.625,practica,
+Examen preliminar,reactivo,NAFTALENO,5,8,0.625,practica,
+Examen preliminar,reactivo,VAINILLINA,5,8,0.625,practica,
+Examen preliminar,reactivo,ACETATO DE ETILO,4,8,0.5,practica,
+Examen preliminar,reactivo,ACIDO CLORIHIDRICO,4,8,0.5,practica,
+Examen preliminar,reactivo,ACIDO OXALICO,4,8,0.5,practica,
+Examen preliminar,reactivo,GLICERINA,4,8,0.5,practica,
+Examen preliminar,reactivo,HEXANO,4,8,0.5,practica,
+Examen preliminar,reactivo,SACAROSA,4,8,0.5,practica,
+Examen preliminar,reactivo,1-BUTANOL,3,8,0.375,practica,
+Examen preliminar,reactivo,1-NAFTOL,3,8,0.375,practica,
+Extension de una muestra sanguinea/tincion del extendido sanguineo,reactivo,PANOPTICO RAPIDO,2,2,1.0,practica,
+Extraccion de acido acetil salicilico,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Extraccion de acidos nucleicos,reactivo,ALCOHOL AMILICO,3,4,0.75,practica,
+Extraccion de acidos nucleicos,reactivo,ETANOL AL 96%,3,4,0.75,practica,
+Extraccion de acidos nucleicos,reactivo,ALCOHOL ISOAMILICO,2,4,0.5,practica,
+Extraccion de acidos nucleicos,reactivo,ALCOHOL ISOPROPILICO,2,4,0.5,practica,
+Extraccion de adn,reactivo,ALCOHOL AMILICO,4,5,0.8,practica,
+Extraccion de adn,reactivo,ETANOL AL 96%,4,5,0.8,practica,
+Extraccion de adn,reactivo,ALCOHOL ISOPROPILICO,2,5,0.4,practica,
+"Extraccion de adn vegetal, animal y levadura",reactivo,ALCOHOL ISOPROPILICO,2,2,1.0,practica,
+"Extraccion de adn vegetal, animal y levadura",reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Extraccion de adn ¨vegetal¨,reactivo,ALCOHOL AMILICO,2,2,1.0,practica,
+Extraccion de adn ¨vegetal¨,reactivo,ALCOHOL ISOAMILICO,1,2,0.5,practica,
+Extraccion de adn ¨vegetal¨,reactivo,BICARBONATO DE SODIO,1,2,0.5,practica,
+Extraccion de dna plasmidico,reactivo,ACIDO ACETICO GLACIAL,3,3,1.0,practica,
+Extraccion de dna plasmidico,reactivo,ACIDO CLORIHIDRICO,2,3,0.667,practica,
+Extraccion de dna plasmidico,reactivo,HIDROXIDO DE SODIO,1,3,0.333,practica,
+Extraccion liquido liquido de adn plasmidico,reactivo,ETANOL ABS,2,2,1.0,practica,
+Extraccion liquido-liquido,reactivo,ETANOL AL 96%,5,6,0.833,practica,
+Extraccion liquido-liquido,reactivo,ETER DE PETROLEO,2,6,0.333,practica,
+Extraccion por soxhelt eter de petroleo,reactivo,VASELINA SOLIDA,1,1,1.0,practica,
+Extraccion por soxhlet,reactivo,VASELINA SOLIDA,2,2,1.0,practica,
+Extraccion por soxhlet-extracto acuoso,reactivo,VASELINA SOLIDA,2,2,1.0,practica,
+Extraccion solido liquido y extraccion liquido liquido,reactivo,ACIDO CLORIHIDRICO,4,4,1.0,practica,
+Extraccion solido liquido y extraccion liquido liquido,reactivo,ETER DE PETROLEO,3,4,0.75,practica,
+Extraccion solido liquido y extraccion liquido liquido,reactivo,ETANOL AL 96%,2,4,0.5,practica,
+Extraccion solido-liquido,reactivo,ETANOL AL 96%,1,1,1.0,practica,
+Flor,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Formacion de iones complejos,reactivo,AMONIACO O -H AMONIO,1,1,1.0,practica,
+Formula leucocitaria,reactivo,ACEITE DE INMERSION,5,5,1.0,practica,
+Formula leucocitaria,reactivo,PANOPTICO RAPIDO,3,5,0.6,practica,
+Frotis sanguineo,reactivo,PANOPTICO RAPIDO,10,10,1.0,practica,
+Frotis sanguineo,reactivo,ACEITE DE INMERSION,9,10,0.9,practica,
+Frotis sanguineo,reactivo,ETANOL AL 96%,3,10,0.3,practica,
+Frutos,reactivo,ETANOL AL 96%,1,1,1.0,practica,
+Genero bacillos,reactivo,ACEITE DE INMERSION,3,3,1.0,practica,
+Genero bacillos,medio de cultivo,AGAR BHI,1,1,1.0,practica,
+Genero bacillos,medio de cultivo,SIM,1,1,1.0,practica,
+Genero bacillos,medio de cultivo,TSI,1,1,1.0,practica,
+Genero garnerella y lactobacillus,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+Genero neisseriacceae,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+Genero staphylococcus,reactivo,ACEITE DE INMERSION,1,1,1.0,practica,
+Genero staphylococcus,reactivo,CITRATO DE SODIO,1,1,1.0,practica,
+Genero staphylococcus,medio de cultivo,BLOOD AGAR BASE,1,1,1.0,practica,
+Genero staphylococcus,medio de cultivo,DNASE AGAR,1,1,1.0,practica,
+Genero staphylococcus,medio de cultivo,MANNITOL SALT AGAR BASE,1,1,1.0,practica,
+Genero streptococcus,reactivo,ACEITE DE INMERSION,1,1,1.0,practica,
+Genero streptococcus,medio de cultivo,BILE AESCULIN AGAR,1,2,0.5,practica,
+Genero streptococcus,medio de cultivo,BLOOD AGAR BASE,1,2,0.5,practica,
+Genero streptococcus,medio de cultivo,CEREBRO CORAZÓN INFUSIÓN,1,2,0.5,practica,
+Gotas opticas y nasales,reactivo,ACIDO BORICO,2,2,1.0,practica,
+Gotas opticas y nasales,reactivo,CLORURO DE SODIO PA,2,2,1.0,practica,
+Gravimetria,reactivo,CLORURO DE BARIO,16,16,1.0,practica,
+Gravimetria,reactivo,SULFATO DE SODIO,15,16,0.938,practica,
+Gravimetria,reactivo,ETANOL AL 96%,5,16,0.312,practica,
+Grupo sanguineo,reactivo,ANTI-A,6,10,0.6,practica,
+Grupo sanguineo,reactivo,ANTI-B,6,10,0.6,practica,
+Grupo sanguineo,reactivo,ANTI-D,6,10,0.6,practica,
+Grupo sanguineo,reactivo,KIT GRUPO SANGUINEO,3,10,0.3,practica,
+Grupo sanguineo directo e indirecto,reactivo,KIT GRUPO SANGUINEO,2,2,1.0,practica,
+Grupo sanguineo directo e indirecto,reactivo,SOL. FISIOLOGICA ESTERIL,1,2,0.5,practica,
+Grupo sanguineo en tubo,reactivo,ANTI-A,3,3,1.0,practica,
+Grupo sanguineo en tubo,reactivo,ANTI-B,3,3,1.0,practica,
+Grupo sanguineo en tubo,reactivo,ANTI-D,3,3,1.0,practica,
+Grupo sanguineo en tubo,reactivo,SOL. FISIOLOGICA ESTERIL,3,3,1.0,practica,
+Grupo sanguineo y ves,reactivo,KIT GRUPO SANGUINEO,2,2,1.0,practica,
+Helicobacter pylori-disbacteriosis,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+Hemocultivo/infeccion torrente sanguineo,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+Hemograma completo,reactivo,ACEITE DE INMERSION,3,4,0.75,practica,
+Hemograma completo,reactivo,PANOPTICO RAPIDO,3,4,0.75,practica,
+Hemograma completo,reactivo,ETANOL AL 96%,2,4,0.5,practica,
+Hemograma completo,reactivo,LIQUIDO DE REES,2,4,0.5,practica,
+Hoja morfologia,reactivo,ACEITE DE INMERSION,4,4,1.0,practica,
+Identificacion de aspergillus,reactivo,ACEITE DE INMERSION,1,1,1.0,practica,
+Identificacion de biomoleculas,reactivo,ACIDO SULFURICO,2,2,1.0,practica,
+Identificacion de biomoleculas con muestras conocidas,reactivo,ACIDO SULFURICO,8,8,1.0,practica,
+Identificacion de corpusculo de barr,reactivo,ACEITE DE INMERSION,3,3,1.0,practica,
+Identificacion de enterobacterias,reactivo,ACEITE DE INMERSION,3,3,1.0,practica,
+Identificacion de neisseria,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+Identificacion de semen y espermatoscopia 2:identificacion de saliva ( amilasografia),reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+Identificacion de semen y espermatoscopia 2:identificacion de saliva ( amilasografia),reactivo,COLORANTE ROJO,2,2,1.0,practica,
+Identificacion de semen y espermatoscopia 2:identificacion de saliva ( amilasografia),reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Identificacion del genero haemophilus,reactivo,ACEITE DE INMERSION,4,4,1.0,practica,
+Identificacion del genero haemophilus,medio de cultivo,BLOOD AGAR BASE,1,1,1.0,practica,
+Identificacion del genero haemophilus,medio de cultivo,MUELLER HINTON,1,1,1.0,practica,
+Identificacion del genero haemophilus,medio de cultivo,SIM,1,1,1.0,practica,
+Identificacion del genero staphyloccocus,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+Incompatibilidades farmaceuticas,reactivo,ACEITE DE HIGADO DE BACALAO,2,2,1.0,practica,
+Incompatibilidades farmaceuticas,reactivo,ACETATO DE PLOMO,2,2,1.0,practica,
+Incompatibilidades farmaceuticas,reactivo,ACIDO ASCORBICO,2,2,1.0,practica,
+Incompatibilidades farmaceuticas,reactivo,ACIDO BENZOICO,2,2,1.0,practica,
+Incompatibilidades farmaceuticas,reactivo,ACIDO CITRICO,2,2,1.0,practica,
+Incompatibilidades farmaceuticas,reactivo,ACIDO FENICO,2,2,1.0,practica,
+Incompatibilidades farmaceuticas,reactivo,ACIDO GLICOLICO,2,2,1.0,practica,
+Incompatibilidades farmaceuticas,reactivo,ACIDO SALICILICO,2,2,1.0,practica,
+Incompatibilidades farmaceuticas,reactivo,ACIDO TARTARICO,2,2,1.0,practica,
+Incompatibilidades farmaceuticas,reactivo,ALCANFOR,2,2,1.0,practica,
+Incompatibilidades farmaceuticas,reactivo,AZUFRE,2,2,1.0,practica,
+Incompatibilidades farmaceuticas,reactivo,BICARBONATO DE SODIO,2,2,1.0,practica,
+Inestabilidades e incompatibilidades farmaceuticas,reactivo,ACIDO GLICOLICO,6,7,0.857,practica,
+Inestabilidades e incompatibilidades farmaceuticas,reactivo,CARBOXIMETILCELULOSA,6,7,0.857,practica,
+Inestabilidades e incompatibilidades farmaceuticas,reactivo,ETANOL AL 96%,6,7,0.857,practica,
+Inestabilidades e incompatibilidades farmaceuticas,reactivo,GLICERINA,6,7,0.857,practica,
+Inestabilidades e incompatibilidades farmaceuticas,reactivo,TIMOL,6,7,0.857,practica,
+Inestabilidades e incompatibilidades farmaceuticas,reactivo,ACIDO FENICO,5,7,0.714,practica,
+Inestabilidades e incompatibilidades farmaceuticas,reactivo,ALCANFOR,5,7,0.714,practica,
+Inestabilidades e incompatibilidades farmaceuticas,reactivo,HIDROXIDO DE SODIO,5,7,0.714,practica,
+Inestabilidades e incompatibilidades farmaceuticas,reactivo,MENTOL,5,7,0.714,practica,
+Inestabilidades e incompatibilidades farmaceuticas,reactivo,ACETATO DE PLOMO,4,7,0.571,practica,
+Inestabilidades e incompatibilidades farmaceuticas,reactivo,ACIDO FOSFORICO,4,7,0.571,practica,
+Inestabilidades e incompatibilidades farmaceuticas,reactivo,ACIDO SALICILICO,4,7,0.571,practica,
+Infeccion del tracto urinario,reactivo,ACEITE DE INMERSION,3,3,1.0,practica,
+Infeccion del tracto urinario,reactivo,RVO DE KOBAC,3,3,1.0,practica,
+Infeccion del tracto urinario,medio de cultivo,AGAR BACTERIOLOGICAL,1,1,1.0,practica,
+Infeccion del tracto urinario,medio de cultivo,BLOOD AGAR BASE,1,1,1.0,practica,
+Infeccion del tracto urinario,medio de cultivo,CITRATO,1,1,1.0,practica,
+Infeccion del tracto urinario,medio de cultivo,CLED,1,1,1.0,practica,
+Infeccion del tracto urinario,medio de cultivo,LISINA 1,1,1,1.0,practica,
+Infeccion del tracto urinario,medio de cultivo,MAC CONKEY,1,1,1.0,practica,
+Infeccion del tracto urinario,medio de cultivo,MUELLER HINTON,1,1,1.0,practica,
+Infeccion del tracto urinario,medio de cultivo,SIM,1,1,1.0,practica,
+Infeccion del tracto urinario,medio de cultivo,TSI,1,1,1.0,practica,
+Infecciones de vias respiratorias bajas,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+Infecciones de vias respiratorias bajas,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Infecciones del snc,reactivo,ACEITE DE INMERSION,3,3,1.0,practica,
+Infecciones del snc,reactivo,TINTA CHINA,1,3,0.333,practica,
+Infecciones del tracto genital,medio de cultivo,AGAR BACTERIOLOGICAL,1,1,1.0,practica,
+Infecciones del tracto genital,medio de cultivo,BLOOD AGAR BASE,1,1,1.0,practica,
+Infecciones del tracto genital,medio de cultivo,CYSTINE TRIPTIC AGAR,1,1,1.0,practica,
+Infecciones del tracto genital,medio de cultivo,FRUCTOSA,1,1,1.0,practica,
+Infecciones del tracto genital,medio de cultivo,GC MEDIUM BASE,1,1,1.0,practica,
+Infecciones del tracto genital,medio de cultivo,GLUCOSA,1,1,1.0,practica,
+Infecciones del tracto genital,medio de cultivo,HEMOGLOBIN,1,1,1.0,practica,
+Infecciones del tracto genital,medio de cultivo,LACTOSA,1,1,1.0,practica,
+Infecciones del tracto genital,medio de cultivo,MALTOSA,1,1,1.0,practica,
+Infecciones del tracto genital,medio de cultivo,MUELLER HINTON,1,1,1.0,practica,
+Infecciones del tracto genital,medio de cultivo,SABOURAUD DEXTROSA AGAR,1,1,1.0,practica,
+Infecciones del tracto genital,medio de cultivo,SACCHAROSE,1,1,1.0,practica,
+Infecciones del tracto respiratorio superior,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+Influencia del ph y la t en las reacciones catalizadas por enzimas,reactivo,ACIDO CLORIHIDRICO,4,4,1.0,practica,
+Interferencia y enmascaramiento,reactivo,ACETONA,5,5,1.0,practica,
+Interferencia y enmascaramiento,reactivo,ETANOL AL 96%,3,5,0.6,practica,
+Interferencia y enmascaramiento,reactivo,SODIO METALICO,3,5,0.6,practica,
+Interferencia y enmascaramiento y redox,reactivo,SODIO METALICO,3,3,1.0,practica,
+Interferencia y enmascaramiento y redox,reactivo,ZINC EN GRANALLA,3,3,1.0,practica,
+Interpretacion del hemograma,reactivo,ACEITE DE INMERSION,1,1,1.0,practica,
+Interpretacion del hemograma,reactivo,ETANOL AL 96%,1,1,1.0,practica,
+Introduccion,reactivo,ACETATO DE SODIO,1,1,1.0,practica,
+Introduccion a la micologia,reactivo,TINTA CHINA,1,1,1.0,practica,
+Investigacion de lupus entematoso-formula,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+Iodometria,reactivo,ACIDO SULFURICO,2,2,1.0,practica,
+Iodometria,reactivo,ALMIDON,2,2,1.0,practica,
+Iodometria,reactivo,YODATO DE POTASIO,2,2,1.0,practica,
+Iodometria,reactivo,YODURO DE POTASIO,2,2,1.0,practica,
+La semilla,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Lab: preparacion de bromuro de n-butilo 2da parte,reactivo,VASELINA SOLIDA,1,1,1.0,practica,
+Lab: preparacion de bromuro n-butilo 3ra parte,reactivo,ACIDO CLORIHIDRICO,2,2,1.0,practica,
+Lab: preparacion de bromuro n-butilo 3ra parte,reactivo,VASELINA SOLIDA,2,2,1.0,practica,
+Ley de hess en un proceso de neutralizacion,reactivo,HIDROXIDO DE SODIO,8,8,1.0,practica,
+Ley de hess en un proceso de neutralizacion,reactivo,ACIDO CLORIHIDRICO,4,8,0.5,practica,
+Ley de hess en un proceso de neutralizacion,reactivo,ETANOL AL 96%,3,8,0.375,practica,
+Lipidos generalidades,reactivo,ACEITE DE OLIVA,6,6,1.0,practica,
+Lipidos generalidades,reactivo,TINTA CHINA,6,6,1.0,practica,
+Lipidos generalidades,reactivo,CLOROFORMO,5,6,0.833,practica,
+Lipidos generalidades,reactivo,ACEITE COMESTIBLE,4,6,0.667,practica,
+Lipidos generalidades,reactivo,ACETONA,3,6,0.5,practica,
+"Lipidos generalidades, obtencion de fosfolipidos",reactivo,ACEITE COMESTIBLE,3,3,1.0,practica,
+"Lipidos generalidades, obtencion de fosfolipidos",reactivo,ACEITE DE OLIVA,3,3,1.0,practica,
+"Lipidos generalidades, obtencion de fosfolipidos",reactivo,ACETONA,3,3,1.0,practica,
+"Lipidos generalidades, obtencion de fosfolipidos",reactivo,CLOROFORMO,3,3,1.0,practica,
+"Lipidos generalidades, obtencion de fosfolipidos",reactivo,TINTA CHINA,3,3,1.0,practica,
+Lipidos: obtencion e identificacion,reactivo,CLOROFORMO,6,7,0.857,practica,
+Lipidos: obtencion e identificacion,reactivo,ETANOL AL 96%,2,7,0.286,practica,
+Marcha analitica i,reactivo,AMONIACO O -H AMONIO,3,3,1.0,practica,
+Marcha fitoquimica - extracto etanolico acuoso,reactivo,ACETONA,4,6,0.667,practica,
+Marcha fitoquimica - extracto etanolico acuoso,reactivo,VASELINA SOLIDA,4,6,0.667,practica,
+Marcha fitoquimica- extracto etereo,reactivo,MAGNESIO EN LIMADURAS,4,4,1.0,practica,
+Material de laboratorio y reactivos,reactivo,ACIDO SULFURICO,3,3,1.0,practica,
+Materiales de laboratorio,reactivo,CLORURO DE SODIO TEC,9,13,0.692,practica,
+Medicion de masa,reactivo,CLORURO DE SODIO TEC,2,2,1.0,practica,
+Medicion de masa y volumen de liquidos,reactivo,ETANOL AL 96%,1,1,1.0,practica,
+Medicion del ph de diferentes soluciones,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Medicion del trompon de caida de una esfera en un vaso en medio viscoso,reactivo,ACEITE COMESTIBLE,2,2,1.0,practica,
+Medios de cultivo utilizados en bacteriologia,reactivo,RVO DE KOBAC,2,2,1.0,practica,
+Micobacterias,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+Microscopia,reactivo,ACEITE DE INMERSION,8,8,1.0,practica,
+Mitocondria y metabolismo celular,reactivo,ACEITE DE INMERSION,5,5,1.0,practica,
+Mitocondria y metabolismo celular,reactivo,ETANOL AL 96%,3,5,0.6,practica,
+Mitosis,reactivo,ACEITE DE INMERSION,4,4,1.0,practica,
+Monitoreo bacteriano,reactivo,ACIDO CLORIHIDRICO,1,1,1.0,practica,
+Monitoreo bacteriano,reactivo,ETANOL AL 96%,1,1,1.0,practica,
+Monitoreo bacteriano,reactivo,HIDROXIDO DE SODIO,1,1,1.0,practica,
+Muestras usadas en el diagnostico de virus,reactivo,ETANOL AL 96%,1,1,1.0,practica,
+No disyunciones,reactivo,PANOPTICO RAPIDO,2,2,1.0,practica,
+No disyunciones,reactivo,ACEITE DE INMERSION,1,2,0.5,practica,
+Normas de bioseguridad y microscopia,reactivo,ACEITE DE INMERSION,1,1,1.0,practica,
+Nucleosoma,reactivo,ACEITE DE INMERSION,3,3,1.0,practica,
+Obs de celulas animales,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+Obs de celulas animales,reactivo,PANOPTICO RAPIDO,2,2,1.0,practica,
+Observacion de bacterias,reactivo,ACEITE DE INMERSION,10,11,0.909,practica,
+Observacion de celulas animales,reactivo,ACEITE DE INMERSION,4,4,1.0,practica,
+Observacion de celulas animales,reactivo,PANOPTICO RAPIDO,3,4,0.75,practica,
+Observacion de celulas sanguineas,reactivo,ACEITE DE INMERSION,3,3,1.0,practica,
+Observacion de celulas sanguineas,reactivo,PANOPTICO RAPIDO,3,3,1.0,practica,
+Observacion de celulas sexuales,reactivo,TINTA CHINA,2,2,1.0,practica,
+Observacion de celulas sexuales,reactivo,ACEITE DE INMERSION,1,2,0.5,practica,
+Observacion de celulas vegetales,reactivo,ACEITE DE INMERSION,1,1,1.0,practica,
+Observacion de organos linfoides,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+Observacion de organos linfoides,reactivo,PANOPTICO RAPIDO,2,2,1.0,practica,
+Observacion de organos linfoides,reactivo,CAL,1,2,0.5,practica,
+Observacion de organos linfoides y celulas sanguineas,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+Observacion de organos linfoides y celulas sanguineas,reactivo,PANOPTICO RAPIDO,2,2,1.0,practica,
+Observacion de organos linfoides y celulas sanguineas,reactivo,CAL,1,2,0.5,practica,
+Observacion de organos linfoides y celulas sanguineas,reactivo,CLOROFORMO,1,2,0.5,practica,
+Observacion de organos linfoides y celulas sanguineas,reactivo,ETANOL AL 96%,1,2,0.5,practica,
+Observacion de plastidios,reactivo,CLORURO DE SODIO TEC,1,1,1.0,practica,
+Obtencion de acido benzoico,reactivo,CARBONATO DE SODIO,2,3,0.667,practica,
+Obtencion de acido benzoico,reactivo,PERMANGANATO DE POTASIO,2,3,0.667,practica,
+Obtencion de acido benzoico,reactivo,TOLUENO,2,3,0.667,practica,
+Obtencion de acido benzoico,reactivo,VASELINA SOLIDA,1,3,0.333,practica,
+Obtencion de alquinos,reactivo,CARBURO DE CALCIO,3,3,1.0,practica,
+Obtencion de alquinos,reactivo,ACIDO NITRICO,1,3,0.333,practica,
+Obtencion de colorantes vegetales y teñido de fibras,reactivo,ACEITE COMESTIBLE,2,2,1.0,practica,
+Obtencion de colorantes vegetales y teñido de fibras,reactivo,ACETONA,2,2,1.0,practica,
+Obtencion de colorantes vegetales y teñido de fibras,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Obtencion de colorantes vegetales y teñido de fibras,reactivo,ETER DE PETROLEO,2,2,1.0,practica,
+Obtencion de derivados de la celulaso,reactivo,ACETATO DE ETILO,2,2,1.0,practica,
+Obtencion de derivados de la celulaso,reactivo,ACETONA,2,2,1.0,practica,
+Obtencion de derivados de la celulaso,reactivo,ACIDO NITRICO,2,2,1.0,practica,
+Obtencion de derivados de la celulaso,reactivo,ACIDO SULFURICO,2,2,1.0,practica,
+Obtencion de derivados de la celulaso,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Obtencion de derivados de la celulaso,reactivo,ETER DE PETROLEO,2,2,1.0,practica,
+Obtencion de derivados de la celulosa,reactivo,ACIDO NITRICO,3,3,1.0,practica,
+Obtencion de derivados de la celulosa,reactivo,ETANOL AL 96%,3,3,1.0,practica,
+Obtencion de enzimas,reactivo,CAL,4,4,1.0,practica,
+Obtencion de enzimas,reactivo,ETANOL AL 96%,4,4,1.0,practica,
+Obtencion de furfural,reactivo,ACIDO CLORIHIDRICO,4,4,1.0,practica,
+Obtencion de furfural,reactivo,ANILINA,2,4,0.5,practica,
+Obtencion de materias primas por aplicación de operaciones farmaceuticas,reactivo,ETANOL AL 96%,5,5,1.0,practica,
+Obtencion de materias primas por aplicación de operaciones farmaceuticas,reactivo,GLICERINA,5,5,1.0,practica,
+Obtencion de materias primas por aplicación de operaciones farmaceuticas,reactivo,PROPELINGLICOL,4,5,0.8,practica,
+Obtencion de materias primas por aplicación de operaciones farmaceuticas parte ii,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Obtencion de materias primas por aplicación de operaciones farmaceuticas parte ii,reactivo,GLICERINA,2,2,1.0,practica,
+Obtencion de materias primas por aplicación de operaciones farmaceuticas parte ii,reactivo,PROPELINGLICOL,2,2,1.0,practica,
+Obtencion de materias primas por aplicación de operaciones farmaceuticas parte ii,reactivo,ACIDO OXALICO,1,2,0.5,practica,
+Obtencion de yodo,reactivo,CLOROFORMO,2,2,1.0,practica,
+Obtencion del salicilaldehido,reactivo,ACIDO FENICO,5,6,0.833,practica,
+Obtencion del salicilaldehido,reactivo,CLORURO DE CALCIO,5,6,0.833,practica,
+Obtencion del salicilaldehido,reactivo,HIDROXIDO DE SODIO,5,6,0.833,practica,
+Obtencion del salicilaldehido,reactivo,CLOROFORMO,3,6,0.5,practica,
+Obtencion del salicilaldehido,reactivo,VASELINA SOLIDA,3,6,0.5,practica,
+Obtencion del salicilaldehido,reactivo,ACIDO SULFURICO,2,6,0.333,practica,
+Obtencion del salicilaldehido,reactivo,ETER DIETILICO,2,6,0.333,practica,
+"Obtencion del salicilaldeido, saponificacion de una grasa y obtencion de acido carboxilicos",reactivo,CLORURO DE CALCIO,2,2,1.0,practica,
+"Obtencion del salicilaldeido, saponificacion de una grasa y obtencion de acido carboxilicos",reactivo,ETANOL AL 96%,2,2,1.0,practica,
+"Obtencion del salicilaldeido, saponificacion de una grasa y obtencion de acido carboxilicos",reactivo,ETER DIETILICO,2,2,1.0,practica,
+"Obtencion del salicilaldeido, saponificacion de una grasa y obtencion de acido carboxilicos",reactivo,VASELINA SOLIDA,2,2,1.0,practica,
+Obtencion e identificacion de fosfolipidos,reactivo,ACIDO ACETICO GLACIAL,8,8,1.0,practica,
+Obtencion e identificacion de fosfolipidos,reactivo,ACIDO SULFURICO,6,8,0.75,practica,
+Obtencion e identificacion de fosfolipidos,reactivo,ANHIDRIDO ACETICO,6,8,0.75,practica,
+Obtencion e identificacion de fosfolipidos,reactivo,CLOROFORMO,6,8,0.75,practica,
+Obtencion e identificacion de fosfolipidos,reactivo,ETANOL AL 96%,5,8,0.625,practica,
+Obtencion y preparacion de cloruro de hidrogeno,reactivo,AMONIACO O -H AMONIO,2,2,1.0,practica,
+Obtencion y propiedades de los alquenos eteno,reactivo,ACIDO SULFURICO,2,2,1.0,practica,
+Obtencion y propiedades de los alquenos eteno,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Obtencion y propiedades del cloruro de hidrogeno,reactivo,AMONIACO O -H AMONIO,3,3,1.0,practica,
+Obtencion y propiedades del cloruro de hidrogeno,reactivo,ACIDO SULFURICO,2,3,0.667,practica,
+Obtencion y propiedades del cloruro de hidrogeno,reactivo,CLORURO DE SODIO TEC,2,3,0.667,practica,
+Obtencion y propiedades del cloruro de hidrogeno,reactivo,ETANOL AL 96%,2,3,0.667,practica,
+Obtencion y propiedades del hidrogeno,reactivo,COBRE EN VIRUTAS,3,3,1.0,practica,
+Obtencion y propiedades del hidrogeno,reactivo,MAGNESIO EN VIRUTAS,3,3,1.0,practica,
+Obtencion y propiedades del hidrogeno,reactivo,NIQUEL EL POLVO,3,3,1.0,practica,
+Obtencion y propiedades del hidrogeno,reactivo,SODIO METALICO,3,3,1.0,practica,
+Obtencion y propiedades del hidrogeno,reactivo,ZINC EN GRANALLA,3,3,1.0,practica,
+Obtencion y propiedades del hidrogeno,reactivo,ETANOL AL 96%,2,3,0.667,practica,
+Obtencion y propiedades del nh3,reactivo,CAL,2,2,1.0,practica,
+Obtencion y propiedades del nh3,reactivo,CLORURO DE AMONIO,2,2,1.0,practica,
+Obtencion y propiedades del nh3,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Obtencion y propiedades del yodo,reactivo,CLOROFORMO,4,4,1.0,practica,
+Obtencion y propiedades del yodo,reactivo,ACIDO SULFURICO,1,4,0.25,practica,
+Obtencion y propiedades del yodo,reactivo,DIOXIDO DE MANGANESO,1,4,0.25,practica,
+Obtencion y propiedades del yodo,reactivo,GASOLINA,1,4,0.25,practica,
+Obtencion y propiedades del yodo,reactivo,YODURO DE POTASIO,1,4,0.25,practica,
+Optica,reactivo,GLICERINA,2,2,1.0,practica,
+Optica,reactivo,ACEITE COMESTIBLE,1,2,0.5,practica,
+Optica,reactivo,ACEITE DE INMERSION,1,2,0.5,practica,
+Permanganometria,reactivo,AMONIACO O -H AMONIO,2,2,1.0,practica,
+Permanganometria,reactivo,ACIDO CLORIHIDRICO,1,2,0.5,practica,
+Permanganometria,reactivo,PERMANGANATO DE POTASIO,1,2,0.5,practica,
+Ph de diferentes solucion,reactivo,ACIDO CLORIHIDRICO,2,2,1.0,practica,
+Ph de diferentes solucion,reactivo,CUSO4 5H2O,1,2,0.5,practica,
+Ph de diferentes solucion,reactivo,CUSO5 5H2O,1,2,0.5,practica,
+Placas,reactivo,ACEITE DE INMERSION,1,1,1.0,practica,
+Plastidios,reactivo,DIOXIDO DE MANGANESO,1,1,1.0,practica,
+Plastidios,reactivo,GASOLINA,1,1,1.0,practica,
+Plastidios,reactivo,YODURO DE POTASIO,1,1,1.0,practica,
+Polisacaridos,reactivo,ETANOL AL 96%,5,7,0.714,practica,
+Polisacaridos,reactivo,CARBONATO DE SODIO,2,7,0.286,practica,
+Polvo efervecente,reactivo,AEROSIL,2,2,1.0,practica,
+Preparacion de ac. benzoico,reactivo,VASELINA SOLIDA,2,2,1.0,practica,
+Preparacion de ac. benzoico,reactivo,ACEITE COMESTIBLE,1,2,0.5,practica,
+Preparacion de ac. benzoico,reactivo,ACIDO BENZOICO,1,2,0.5,practica,
+Preparacion de ac. benzoico,reactivo,CARBONATO DE SODIO 10H2O,1,2,0.5,practica,
+Preparacion de ac. benzoico,reactivo,PERMANGANATO DE POTASIO,1,2,0.5,practica,
+Preparacion de ac. benzoico,reactivo,TOLUENO,1,2,0.5,practica,
+Preparacion de acido benzoico,reactivo,VASELINA SOLIDA,2,2,1.0,practica,
+Preparacion de acido benzoico,reactivo,ACEITE COMESTIBLE,1,2,0.5,practica,
+Preparacion de acido benzoico,reactivo,ACIDO BENZOICO,1,2,0.5,practica,
+Preparacion de acido benzoico,reactivo,CARBONATO DE SODIO 10H2O,1,2,0.5,practica,
+Preparacion de acido benzoico,reactivo,PERMANGANATO DE POTASIO,1,2,0.5,practica,
+Preparacion de acido benzoico,reactivo,TOLUENO,1,2,0.5,practica,
+Preparacion de acido picrico,reactivo,ACIDO CLORIHIDRICO,5,5,1.0,practica,
+Preparacion de acido picrico,reactivo,ACIDO FENICO,5,5,1.0,practica,
+Preparacion de acido picrico,reactivo,ACIDO NITRICO,5,5,1.0,practica,
+Preparacion de acido picrico,reactivo,ACIDO SULFURICO,5,5,1.0,practica,
+Preparacion de acido picrico,reactivo,ETANOL AL 96%,2,5,0.4,practica,
+Preparacion de extensiones de sangre,reactivo,CAL,1,1,1.0,practica,
+Preparacion de m-dinitrobenceno,reactivo,ACIDO SULFURICO,5,5,1.0,practica,
+Preparacion de m-dinitrobenceno,reactivo,ACIDO NITRICO,4,5,0.8,practica,
+Preparacion de m-dinitrobenceno,reactivo,ETANOL AL 96%,4,5,0.8,practica,
+Preparacion de m-dinitrobenceno,reactivo,NITROBENCENO,4,5,0.8,practica,
+Preparacion de m-dinitrobenceno,reactivo,ACEITE COMESTIBLE,3,5,0.6,practica,
+Preparacion de medios de cultivos,medio de cultivo,AGAR NUTRIENT 1,2,4,0.5,practica,
+Preparacion de medios de cultivos,medio de cultivo,AGUA PEPTONADA,2,4,0.5,practica,
+Preparacion de medios de cultivos,medio de cultivo,CALDO TRIPTEINA SOYA,2,4,0.5,practica,
+Preparacion de medios de cultivos,medio de cultivo,AGAR BHI,1,4,0.25,practica,
+Preparacion de medios de cultivos,medio de cultivo,AGAR NUTRIENT 3,1,4,0.25,practica,
+Preparacion de medios de cultivos,medio de cultivo,BLOOD AGAR BASE,1,4,0.25,practica,
+Preparacion de medios de cultivos,medio de cultivo,CEREBRO CORAZÓN INFUSIÓN,1,4,0.25,practica,
+Preparacion de medios de cultivos,medio de cultivo,MAC CONKEY,1,4,0.25,practica,
+Preparacion de medios de cultivos,medio de cultivo,XLD,1,4,0.25,practica,
+Preparacion de reactivo,reactivo,CAL,1,1,1.0,practica,
+Preparacion de reactivo,reactivo,CLORURO DE SODIO PA,1,1,1.0,practica,
+Preparacion de reactivo,reactivo,CLORURO DE SODIO TEC,1,1,1.0,practica,
+Preparacion de reactivo,reactivo,ETANOL AL 96%,1,1,1.0,practica,
+Preparacion de reactivo,reactivo,FORMOL,1,1,1.0,practica,
+Preparacion de reactivo,reactivo,YODATO DE POTASIO,1,1,1.0,practica,
+Preparacion de reactivo,reactivo,YODO METALICO,1,1,1.0,practica,
+Preparacion de reactivo,reactivo,YODURO DE POTASIO,1,1,1.0,practica,
+Preparacion de reactivo,reactivo,ZNSO4,1,1,1.0,practica,
+Preparacion de reactivo,medio de cultivo,AGUA PEPTONADA,1,1,1.0,practica,
+Preparacion de reactivo,medio de cultivo,CALDO TRIPTEINA SOYA,1,1,1.0,practica,
+Preparacion de reactivo,medio de cultivo,CEREBRO CORAZÓN INFUSIÓN,1,1,1.0,practica,
+Preparacion de reactivos micromolares para diseño de curva de calibrado,reactivo,ACIDO SULFURICO,2,2,1.0,practica,
+Preparacion de sol stock,reactivo,BICARBONATO DE SODIO,3,3,1.0,practica,
+Preparacion de sol stock,reactivo,ACIDO CLORIHIDRICO,1,3,0.333,practica,
+Preparacion de sol stock,reactivo,CLORURO DE AMONIO,1,3,0.333,practica,
+Preparacion de sol stock,reactivo,CLORURO DE MAGNESIO 6H20,1,3,0.333,practica,
+Preparacion de sol stock,reactivo,CLORURO DE SODIO TEC,1,3,0.333,practica,
+Preparacion de sol stock,reactivo,EDTA 2H2O,1,3,0.333,practica,
+Preparacion de sol stock,reactivo,ETANOL AL 96%,1,3,0.333,practica,
+Preparacion de sol stock,reactivo,GLUCOSA,1,3,0.333,practica,
+Preparacion de soluciones,reactivo,CLORURO DE SODIO TEC,5,6,0.833,practica,
+Preparacion de soluciones,reactivo,ACIDO CLORIHIDRICO,3,6,0.5,practica,
+Preparacion de soluciones,reactivo,ETANOL AL 96%,3,6,0.5,practica,
+Preparacion de soluciones,reactivo,HIDROXIDO DE SODIO,3,6,0.5,practica,
+Preparacion de soluciones,reactivo,SDS,3,6,0.5,practica,
+Preparacion de soluciones,reactivo,ACETATO DE POTASIO,2,6,0.333,practica,
+Preparacion de soluciones,reactivo,CROMATO DE POTASIO,2,6,0.333,practica,
+Preparacion de soluciones,reactivo,EDTA 2H2O,2,6,0.333,practica,
+Preparacion de soluciones,reactivo,NITRATO DE PLATA,2,6,0.333,practica,
+Preparacion de soluciones a un ph determinado,reactivo,ETANOL AL 96%,21,33,0.636,practica,
+Preparacion de soluciones a un ph determinado,reactivo,ACIDO CLORIHIDRICO,13,33,0.394,practica,
+Preparacion de soluciones a un ph determinado,reactivo,HIDROXIDO DE SODIO,13,33,0.394,practica,
+Preparacion de soluciones a un ph determinado,reactivo,CIANURO DE SODIO,12,33,0.364,practica,
+Preparacion de soluciones a un ph determinado,reactivo,ACIDO ACETICO GLACIAL,11,33,0.333,practica,
+Preparacion de soluciones a un ph determinado (bases),reactivo,CIANURO DE SODIO,2,2,1.0,practica,
+Preparacion de soluciones a un ph determinado (bases),reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Preparacion de soluciones a un ph determinado (bases),reactivo,HIDROXIDO DE SODIO,2,2,1.0,practica,
+Preparacion de soluciones por dilucion,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Preparacion de soluciones por disolucion n6,reactivo,ACIDO CLORIHIDRICO,3,3,1.0,practica,
+Preparacion de soluciones por disolucion n6,reactivo,ACIDO SULFURICO,3,3,1.0,practica,
+Preparacion de soluciones simples,reactivo,ACETATO DE POTASIO,7,8,0.875,practica,
+Preparacion de soluciones simples,reactivo,ETANOL AL 96%,7,8,0.875,practica,
+Preparacion de soluciones simples,reactivo,SDS,7,8,0.875,practica,
+Preparacion de soluciones simples,reactivo,HIDROXIDO DE SODIO,6,8,0.75,practica,
+Preparacion de soluciones simples,reactivo,CLORURO DE SODIO TEC,5,8,0.625,practica,
+Preparacion de soluciones simples,reactivo,ACIDO CLORIHIDRICO,3,8,0.375,practica,
+Preparacion de soluciones simples,medio de cultivo,MAC CONKEY,1,1,1.0,practica,
+Preparacion de soluciones stock,reactivo,BICARBONATO DE SODIO,10,11,0.909,practica,
+Preparacion de soluciones stock,reactivo,CLORURO DE AMONIO,8,11,0.727,practica,
+Preparacion de soluciones stock,reactivo,CLORURO DE MAGNESIO 6H20,8,11,0.727,practica,
+Preparacion de soluciones stock,reactivo,EDTA 2H2O,8,11,0.727,practica,
+Preparacion de soluciones stock,reactivo,ETANOL AL 96%,8,11,0.727,practica,
+Preparacion de soluciones stock,reactivo,ACETATO DE POTASIO,6,11,0.545,practica,
+Preparacion de soluciones stock,reactivo,SDS,6,11,0.545,practica,
+Preparacion de soluciones stock,reactivo,GLUCOSA,5,11,0.455,practica,
+Preparacion de soluciones stock,reactivo,HIDROXIDO DE SODIO,5,11,0.455,practica,
+Preparacion de soluciones stock,reactivo,SACAROSA,3,11,0.273,practica,
+Preparacion de soluciones stock tampon y mezclas,reactivo,BICARBONATO DE SODIO,2,3,0.667,practica,
+Preparacion de soluciones stock tampon y mezclas,reactivo,HIDROXIDO DE SODIO,2,3,0.667,practica,
+Preparacion de soluciones stock tampon y mezclas,reactivo,CLORURO DE AMONIO,1,3,0.333,practica,
+Preparacion de soluciones stock tampon y mezclas,reactivo,CLORURO DE MAGNESIO 6H20,1,3,0.333,practica,
+Preparacion de soluciones stock tampon y mezclas,reactivo,EDTA 2H2O,1,3,0.333,practica,
+Preparacion de soluciones stock tampon y mezclas,reactivo,ETANOL AL 96%,1,3,0.333,practica,
+Preparacion de soluciones stock tampon y mezclas,reactivo,FOSFATO DE SODIO NA2HPO4,1,3,0.333,practica,
+Preparacion de soluciones stock tampon y mezclas,reactivo,FOSFATO DE SODIO NAH2PO4,1,3,0.333,practica,
+Preparacion de soluciones stock tampon y mezclas,reactivo,GLUCOSA,1,3,0.333,practica,
+Preparacion de soluciones stock tampon y mezclas,reactivo,SDS,1,3,0.333,practica,
+Preparacion de soluciones stock y curva de crecimiento,reactivo,BICARBONATO DE SODIO,2,2,1.0,practica,
+Preparacion de soluciones tampon,reactivo,ETANOL AL 96%,4,5,0.8,practica,
+Preparacion de soluciones unidades fisicas,reactivo,CLORURO DE SODIO TEC,8,8,1.0,practica,
+Preparacion de soluciones unidades fisicas,reactivo,ETANOL AL 96%,2,8,0.25,practica,
+Preparacion de soluciones unidades quimicas,reactivo,CLORURO DE SODIO TEC,10,10,1.0,practica,
+Preparacion de soluciones unidades quimicas,reactivo,CUSO4 5H2O,9,10,0.9,practica,
+Preparacion de yodoformo,reactivo,ACETONA,2,2,1.0,practica,
+Preparacion de yodoformo,reactivo,YODURO DE POTASIO,2,2,1.0,practica,
+Preparacion de yodoformo,reactivo,LAVANDINA,1,2,0.5,practica,
+Preparacion de yodoformo,reactivo,TWENN 80,1,2,0.5,practica,
+Preparacion y estandarizacion de soluciones volumetricas,reactivo,ACIDO CLORIHIDRICO,1,1,1.0,practica,
+Preparacion y estandarizacion de soluciones volumetricas,reactivo,CARBONATO DE SODIO,1,1,1.0,practica,
+Preparacion y estandarizacion de soluciones volumetricas,reactivo,ETANOL AL 96%,1,1,1.0,practica,
+Preparacion y estandarizacion de soluciones volumetricas,reactivo,HIDROXIDO DE SODIO,1,1,1.0,practica,
+Preparacion y propiedades de los alquenos,reactivo,ACIDO SULFURICO,2,3,0.667,practica,
+Preparacion y propiedades de los alquenos,reactivo,CARBURO DE CALCIO,1,3,0.333,practica,
+Preparacion y propiedades de los alquenos,reactivo,ETANOL ABS,1,3,0.333,practica,
+Preparacion y propiedades de los alquenos,reactivo,ETANOL AL 96%,1,3,0.333,practica,
+Presencia de la enzima catalasa en presencia t.a.y.t.v,reactivo,ETANOL AL 96%,4,4,1.0,practica,
+Propiedades de la membrana celular,medio de cultivo,AGAR NUTRIENT 2,1,1,1.0,practica,
+Propiedades de la membrana celular,medio de cultivo,AGUA PEPTONADA,1,1,1.0,practica,
+Propiedades de la membrana celular,medio de cultivo,MAC CONKEY,1,1,1.0,practica,
+Propiedades de la membrana celular,medio de cultivo,MANNITOL SALT AGAR BASE,1,1,1.0,practica,
+Propiedades de la membrana celular,medio de cultivo,PLATE COUNT AGAR (PCA),1,1,1.0,practica,
+Propiedades de los alcanos,reactivo,ACEITE COMESTIBLE,3,3,1.0,practica,
+Propiedades de los alcanos,reactivo,ACETATO DE ETILO,3,3,1.0,practica,
+Propiedades de los alcanos,reactivo,ACETONA,3,3,1.0,practica,
+Propiedades de los alcanos,reactivo,ACIDO ACETICO GLACIAL,3,3,1.0,practica,
+Propiedades de los alcanos,reactivo,ACIDO NITRICO,3,3,1.0,practica,
+Propiedades de los alcanos,reactivo,ACIDO SULFURICO,3,3,1.0,practica,
+Propiedades de los alcanos,reactivo,CLORURO DE SODIO TEC,3,3,1.0,practica,
+Propiedades de los alcanos,reactivo,ETER DE PETROLEO,3,3,1.0,practica,
+Propiedades de los alcanos,reactivo,ETER DIETILICO,3,3,1.0,practica,
+Propiedades de los alcanos,reactivo,GLICERINA,3,3,1.0,practica,
+Propiedades de los alcanos,reactivo,PARAFINA SOLIDA,3,3,1.0,practica,
+Propiedades de los alcanos,reactivo,SACAROSA,3,3,1.0,practica,
+Propiedades de los alcoholes,reactivo,1-BUTANOL,2,2,1.0,practica,
+Propiedades de los alcoholes,reactivo,ACIDO ACETICO GLACIAL,2,2,1.0,practica,
+Propiedades de los alcoholes,reactivo,ACIDO SALICILICO,2,2,1.0,practica,
+Propiedades de los alcoholes,reactivo,ACIDO SULFURICO,2,2,1.0,practica,
+Propiedades de los alcoholes,reactivo,ALCOHOL AMILICO,2,2,1.0,practica,
+Propiedades de los alcoholes,reactivo,ALCOHOL ISOPROPILICO,2,2,1.0,practica,
+Propiedades de los alcoholes,reactivo,ALCOHOL TERBUTILICO,2,2,1.0,practica,
+Propiedades de los alcoholes,reactivo,METANOL,2,2,1.0,practica,
+Propiedades de los alcoholes,reactivo,SODIO METALICO,2,2,1.0,practica,
+Propiedades de los alcoholes,reactivo,ALCOHOL ISOAMILICO,1,2,0.5,practica,
+Propiedades de los alquinos,reactivo,CARBURO DE CALCIO,1,1,1.0,practica,
+Propiedades quimicas de alcoholes,reactivo,ACIDO ACETICO GLACIAL,4,4,1.0,practica,
+Propiedades quimicas de alcoholes,reactivo,ACIDO SALICILICO,4,4,1.0,practica,
+Propiedades quimicas de alcoholes,reactivo,ACIDO SULFURICO,4,4,1.0,practica,
+Propiedades quimicas de alcoholes,reactivo,METANOL,4,4,1.0,practica,
+Propiedades quimicas de alcoholes,reactivo,SODIO METALICO,4,4,1.0,practica,
+Propiedades quimicas de alcoholes,reactivo,1-BUTANOL,3,4,0.75,practica,
+Propiedades quimicas de alcoholes,reactivo,ACIDO CLORIHIDRICO,3,4,0.75,practica,
+Propiedades quimicas de alcoholes,reactivo,ALCOHOL AMILICO,3,4,0.75,practica,
+Propiedades quimicas de alcoholes,reactivo,ALCOHOL ISOPROPILICO,3,4,0.75,practica,
+Propiedades quimicas de alcoholes,reactivo,CLORURO DE SODIO TEC,3,4,0.75,practica,
+Propiedades quimicas de alcoholes,reactivo,ETANOL AL 96%,3,4,0.75,practica,
+Propiedades quimicas de alcoholes,reactivo,ALCOHOL ISOAMILICO,2,4,0.5,practica,
+Propiedades quimicas de aldehidos y cetonas,reactivo,ACETONA,6,6,1.0,practica,
+Propiedades quimicas de aldehidos y cetonas,reactivo,METANOL,4,6,0.667,practica,
+Propiedades quimicas de aldehidos y cetonas,reactivo,AMONIACO O -H AMONIO,3,6,0.5,practica,
+Propiedades quimicas de aldehidos y cetonas,reactivo,ACETALDEHIDO,2,6,0.333,practica,
+Propiedades quimicas de aldehidos y cetonas,reactivo,FORMALDEHIDO,2,6,0.333,practica,
+Propiedades quimicas de aldehidos y cetonas,reactivo,FORMALINA,2,6,0.333,practica,
+Propiedades quimicas de fenoles,reactivo,1-NAFTOL,4,4,1.0,practica,
+Propiedades quimicas de fenoles,reactivo,ACIDO FENICO,4,4,1.0,practica,
+Propiedades quimicas de fenoles,reactivo,ACIDO SALICILICO,4,4,1.0,practica,
+Propiedades quimicas de fenoles,reactivo,2-NAFTOL,3,4,0.75,practica,
+Propiedades quimicas de los hidratos de carbono,reactivo,ALMIDON,2,2,1.0,practica,
+Propiedades quimicas de los hidratos de carbono,reactivo,FRUCTOSA,2,2,1.0,practica,
+Propiedades quimicas de los hidratos de carbono,reactivo,GLUCOSA,2,2,1.0,practica,
+Propiedades quimicas de los hidratos de carbono,reactivo,MALTOSA,2,2,1.0,practica,
+Propiedades quimicas de los hidratos de carbono,reactivo,SACAROSA,2,2,1.0,practica,
+Proteina con lig. organicos,reactivo,ACIDO NITRICO,2,2,1.0,practica,
+Proteinas en liquidos organicos,reactivo,ACIDO NITRICO,2,2,1.0,practica,
+Proteinas plasmaticas,reactivo,ETANOL AL 96%,3,3,1.0,practica,
+Proyecto,reactivo,ACIDO NITRICO,1,2,0.5,practica,
+Proyecto,reactivo,CLORURO DE CALCIO2H2O,1,2,0.5,practica,
+Proyecto,reactivo,VASELINA SOLIDA,1,2,0.5,practica,
+Purificacion de acido acetil salicilico,reactivo,ACIDO ESTEARICO,3,3,1.0,practica,
+Purificacion de acido acetil salicilico,reactivo,ETANOL AL 96%,3,3,1.0,practica,
+Purificacion de acido acetil salicilico,reactivo,GLICERINA,3,3,1.0,practica,
+Purificacion de acido acetil salicilico,reactivo,1-BUTANOL,2,3,0.667,practica,
+Purificacion de acido acetil salicilico,reactivo,ACIDO FOSFORICO,2,3,0.667,practica,
+Purificacion de acido acetil salicilico,reactivo,ALCOHOL CETLICO,2,3,0.667,practica,
+Purificacion de acido acetil salicilico,reactivo,ALMIDON,2,3,0.667,practica,
+Purificacion de acido acetil salicilico,reactivo,NAFTALENO,2,3,0.667,practica,
+Purificacion de acido acetil salicilico,reactivo,VAINILLINA,2,3,0.667,practica,
+Purificacion de acido acetil salicilico,reactivo,SACAROSA,1,3,0.333,practica,
+Reaccion de saponificacion de acetato de etilo,reactivo,ACETATO DE ETILO,2,2,1.0,practica,
+Reaccion de saponificacion de acetato de etilo,reactivo,ACIDO CLORIHIDRICO,2,2,1.0,practica,
+Reaccion de widal,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Reaccion redox,reactivo,ACIDO NITRICO,4,4,1.0,practica,
+Reaccion redox,reactivo,SODIO METALICO,4,4,1.0,practica,
+Reactivos de grupo y especificos,reactivo,ACETONA,5,5,1.0,practica,
+Reactivos de grupo y especificos,reactivo,AMONIACO O -H AMONIO,2,5,0.4,practica,
+Reconocimiento de parasitos tisulares,reactivo,ACEITE DE INMERSION,4,4,1.0,practica,
+Recuento bacteriano,medio de cultivo,CALDO NUTRITIVO,1,1,1.0,practica,
+Recuento bacteriano,medio de cultivo,MAC CONKEY,1,1,1.0,practica,
+"Recuento de leucocitos, eritrocitos, plaquetas y tincion hematologica",reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+"Recuento de leucocitos, eritrocitos, plaquetas y tincion hematologica",reactivo,ETANOL AL 96%,2,2,1.0,practica,
+"Recuento de leucocitos, eritrocitos, plaquetas y tincion hematologica",reactivo,PANOPTICO RAPIDO,1,2,0.5,practica,
+Recuentos de bacterias aerobicasmesofilas - mohos y levaduras,medio de cultivo,AGUA PEPTONADA,2,2,1.0,practica,
+Recuentos de bacterias aerobicasmesofilas - mohos y levaduras,medio de cultivo,PLATE COUNT AGAR (PCA),2,2,1.0,practica,
+Recuentos de bacterias aerobicasmesofilas - mohos y levaduras,medio de cultivo,POTATO DEXTROSE AGAR GRANULATED,2,2,1.0,practica,
+Rendimiento de una reaccion,reactivo,ETANOL AL 96%,5,5,1.0,practica,
+Rendimiento de una reaccion,reactivo,ZINC EN GRANALLA,5,5,1.0,practica,
+Rendimiento de una reaccion,reactivo,ACIDO CLORIHIDRICO,3,5,0.6,practica,
+"Repaso de preparacion de soluciones en concentraciones fisicas, quimica y dilusion",reactivo,ACIDO CLORIHIDRICO,2,2,1.0,practica,
+"Repaso de preparacion de soluciones en concentraciones fisicas, quimica y dilusion",reactivo,CLORURO DE SODIO TEC,2,2,1.0,practica,
+"Repaso de preparacion de soluciones en concentraciones fisicas, quimica y dilusion",reactivo,CUSO4 5H2O,1,2,0.5,practica,
+"Repaso de preparacion de soluciones en concentraciones fisicas, quimica y dilusion",reactivo,CUSO5 5H2O,1,2,0.5,practica,
+Revision de guias,reactivo,CARBONATO DE SODIO,1,1,1.0,practica,
+Revision de guias,reactivo,HIDROXIDO DE SODIO,1,1,1.0,practica,
+Revision de guias,medio de cultivo,MAC CONKEY,1,1,1.0,practica,
+Rotacion optica y analisis elemental cualitativo,reactivo,FRUCTOSA,2,2,1.0,practica,
+Rotacion optica y analisis elemental cualitativo,reactivo,GLUCOSA,2,2,1.0,practica,
+Rotacion optica y analisis elemental cualitativo,reactivo,SULFATO FERROSO,2,2,1.0,practica,
+Rotacion optica y analisis elemental cualitativo,reactivo,AZUL DE METILENO,1,2,0.5,practica,
+Saponificacion continuacion preparacion del salicilaldehido,reactivo,CLORURO DE CALCIO,2,2,1.0,practica,
+Saponificacion continuacion preparacion del salicilaldehido,reactivo,CLORURO DE SODIO TEC,2,2,1.0,practica,
+Saponificacion continuacion preparacion del salicilaldehido,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Saponificacion continuacion preparacion del salicilaldehido,reactivo,ETER DIETILICO,2,2,1.0,practica,
+Saponificacion continuacion preparacion del salicilaldehido,reactivo,VASELINA SOLIDA,2,2,1.0,practica,
+Saponificacion continuacion preparacion del salicilaldehido,reactivo,ACIDO CLORIHIDRICO,1,2,0.5,practica,
+Saponificacion de una grasa,reactivo,ACIDO CLORIHIDRICO,2,4,0.5,practica,
+Saponificacion de una grasa,reactivo,ACIDO DODECIL BENCENOSULFANILICO,2,4,0.5,practica,
+Saponificacion de una grasa,reactivo,ETANOL AL 96%,2,4,0.5,practica,
+Saponificacion de una grasa,reactivo,ACEITE COMESTIBLE,1,4,0.25,practica,
+Saponificacion de una grasa,reactivo,CLORURO DE SODIO PA,1,4,0.25,practica,
+Saponificacion de una grasa,reactivo,CLORURO DE SODIO TEC,1,4,0.25,practica,
+Saponificacion de una grasa,reactivo,HIDROXIDO DE SODIO,1,4,0.25,practica,
+Saponificacion de una grasa y obtencion de acidos grasos,reactivo,ACIDO CLORIHIDRICO,4,6,0.667,practica,
+Saponificacion de una grasa y obtencion de acidos grasos,reactivo,CLORURO DE SODIO TEC,2,6,0.333,practica,
+Saponificacion de una grasa y obtencion de acidos grasos,reactivo,ETANOL AL 96%,2,6,0.333,practica,
+Secrecion salival,reactivo,CLORURO DE SODIO TEC,6,6,1.0,practica,
+Secrecion salival,reactivo,ETANOL AL 96%,2,6,0.333,practica,
+Secrecion salival,reactivo,SACAROSA,2,6,0.333,practica,
+Sensacion fisiologica diferencia de temperatura,reactivo,ACEITE COMESTIBLE,2,2,1.0,practica,
+Sintesis de acido benzoico,reactivo,CARBONATO DE SODIO,1,1,1.0,practica,
+Sintesis de acido benzoico,reactivo,PERMANGANATO DE POTASIO,1,1,1.0,practica,
+Sintesis de acido benzoico,reactivo,TOLUENO,1,1,1.0,practica,
+Sintesis de anilina parte 1,reactivo,ACIDO CLORIHIDRICO,2,4,0.5,practica,
+Sintesis de anilina parte 1,reactivo,CLORURO DE SODIO TEC,2,4,0.5,practica,
+Sintesis de anilina parte 1,reactivo,DICLOROMETANO,2,4,0.5,practica,
+Sintesis de anilina parte 1,reactivo,HIDROXIDO DE SODIO,2,4,0.5,practica,
+Sintesis de anilina parte 1,reactivo,HIERRO EN POLVO,2,4,0.5,practica,
+Sintesis de anilina parte 1,reactivo,NITROBENCENO,2,4,0.5,practica,
+Sintesis de anilina parte 1,reactivo,CLOROFORMO,1,4,0.25,practica,
+Sintesis de anilina parte 1,reactivo,CLORURO DE SODIO PA,1,4,0.25,practica,
+Sintesis de anilina parte 1,reactivo,ETANOL AL 96%,1,4,0.25,practica,
+Sintesis de cetona,reactivo,ACETATO DE CALCIO,7,7,1.0,practica,
+Sintesis de cetona,reactivo,ACETONA,6,7,0.857,practica,
+Sintesis de cetona,reactivo,ACIDO ACETICO GLACIAL,6,7,0.857,practica,
+Sintesis de cetona,reactivo,ACETATO DE SODIO,5,7,0.714,practica,
+Staphylococcus coagulasa positivo,reactivo,ETANOL AL 96%,3,3,1.0,practica,
+Sublimacion,reactivo,ACIDO NITRICO,8,9,0.889,practica,
+Supositorio para adelgazamiento,reactivo,METILPARABENO BASE,2,2,1.0,practica,
+Supositorio para adelgazamiento,reactivo,PARAFINA SOLIDA,2,2,1.0,practica,
+Supositorio para adelgazamiento,reactivo,PROPILPARABENO BASE,2,2,1.0,practica,
+Supositorio para adelgazamiento,reactivo,VASELINA LIQUIDA,2,2,1.0,practica,
+Supositorio para adelgazamiento,reactivo,ETANOL AL 96%,1,2,0.5,practica,
+Tecnicas de separacion,reactivo,CARBONATO DE CALCIO,1,1,1.0,practica,
+Tecnicas de separacion,reactivo,ETANOL AL 96%,1,1,1.0,practica,
+Tecnicas de separacion solido-liquido,reactivo,CARBONATO DE CALCIO,1,1,1.0,practica,
+Tecnicas de separacion solido-liquido,reactivo,ETANOL AL 96%,1,1,1.0,practica,
+Tecnicas usuales de separacion,reactivo,CARBONATO DE CALCIO,12,13,0.923,practica,
+Tecnicas usuales de separacion,reactivo,CLORURO DE SODIO TEC,11,13,0.846,practica,
+Tecnicas usuales de separacion,reactivo,NAFTALENO,11,13,0.846,practica,
+Tecnicas usuales de separacion,reactivo,ETER DE PETROLEO,9,13,0.692,practica,
+Tejido cartilaginoso,reactivo,ACEITE DE INMERSION,1,1,1.0,practica,
+Tejido conectivo,reactivo,ACEITE DE INMERSION,3,3,1.0,practica,
+Tejido conjuntivo,reactivo,ACEITE DE INMERSION,1,1,1.0,practica,
+Tejido epitelial,reactivo,ACEITE DE INMERSION,7,7,1.0,practica,
+Tejido vegetal,reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Tejido vegetal,reactivo,GASOLINA,1,2,0.5,practica,
+Temperatura y calor,reactivo,ACEITE COMESTIBLE,1,1,1.0,practica,
+Tincion de gram,reactivo,ACEITE DE INMERSION,1,1,1.0,practica,
+Tincion de gram,medio de cultivo,AGAR SS,1,1,1.0,practica,
+Tincion de gram,medio de cultivo,BLOOD AGAR BASE,1,1,1.0,practica,
+Tincion de gram,medio de cultivo,MAC CONKEY,1,1,1.0,practica,
+Tincion de gram,medio de cultivo,MANNITOL SALT AGAR BASE,1,1,1.0,practica,
+Tincion de gram y zhiel neelsen,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+Tincion de zielh neelsen,reactivo,ACEITE DE INMERSION,2,2,1.0,practica,
+Tipos de reacciones,reactivo,ZINC EN GRANALLA,9,10,0.9,practica,
+Tipos de reacciones,reactivo,ACIDO NITRICO,7,10,0.7,practica,
+Tipos de reacciones,reactivo,DIOXIDO DE MANGANESO,6,10,0.6,practica,
+Tipos de reacciones,reactivo,MAGNESIO EN LIMADURAS,6,10,0.6,practica,
+Tipos de reacciones,reactivo,ACIDO CLORIHIDRICO,4,10,0.4,practica,
+Tipos de reacciones,reactivo,AMONIACO O -H AMONIO,3,10,0.3,practica,
+Tipos de reacciones,reactivo,CLORATO DE POTASIO,3,10,0.3,practica,
+Tipos de reacciones,reactivo,KCLO3,3,10,0.3,practica,
+Tipos de reacciones,reactivo,MAGNESIO EN VIRUTAS,3,10,0.3,practica,
+Tipos de reacciones - experiencia #2,reactivo,ACIDO NITRICO,2,2,1.0,practica,
+Tipos de reacciones - experiencia #2,reactivo,ACIDO CLORIHIDRICO,1,2,0.5,practica,
+Tipos de reacciones - experiencia #2,reactivo,AMONIACO O -H AMONIO,1,2,0.5,practica,
+Titulacion acido - base,reactivo,ACIDO CLORIHIDRICO,2,2,1.0,practica,
+Toma de muestra,reactivo,CAL,1,2,0.5,practica,
+Toma de muestra,reactivo,ETANOL AL 96%,1,2,0.5,practica,
+Toma de muestra,medio de cultivo,SABOURAUD DEXTROSA AGAR,3,3,1.0,practica,
+Toma de muestra fraccionamiento celular,reactivo,ACIDO SULFURICO,3,3,1.0,practica,
+Toma de muestra fraccionamiento celular,reactivo,ACIDO NITRICO,1,3,0.333,practica,
+Toma de muestra fraccionamiento celular,reactivo,ETANOL AL 96%,1,3,0.333,practica,
+Toma de muestra sanguinea,reactivo,CAL,2,2,1.0,practica,
+Toma de muestra sanguinea,reactivo,ACEITE DE INMERSION,1,2,0.5,practica,
+Toma de muestra sanguinea,reactivo,PANOPTICO RAPIDO,1,2,0.5,practica,
+Toma de muestra sanguinea y fraccionamiento celular,reactivo,ACIDO NITRICO,5,5,1.0,practica,
+Toma de muestra sanguinea y fraccionamiento celular,reactivo,ACIDO SULFURICO,5,5,1.0,practica,
+Toma de muestra sanguinea y fraccionamiento celular,reactivo,ETANOL AL 96%,2,5,0.4,practica,
+Toma de muestras y frotis sanguineo,reactivo,PANOPTICO RAPIDO,3,3,1.0,practica,
+Toxicologia de la cocaina y derivados (pasta base) toxicologia de plaguicidas (organofosforados y carbamatos),reactivo,ETANOL AL 96%,2,2,1.0,practica,
+Toxicologia de la cocaina y derivados (pasta base) toxicologia de plaguicidas (organofosforados y carbamatos),reactivo,ACIDO CLORIHIDRICO,1,2,0.5,practica,
+Toxicologia de la cocaina y derivados (pasta base) toxicologia de plaguicidas (organofosforados y carbamatos),reactivo,CLOROFORMO,1,2,0.5,practica,
+Toxicologia de la marihuana c(cannabis sativa) determinacion de alcoholemia (etanol en sangre),reactivo,ACEITE DE INMERSION,1,1,1.0,practica,
+Toxicologia de la marihuana determinacion de alcoholemia,reactivo,ETANOL AL 96%,2,3,0.667,practica,
+Toxicologia de la marihuana determinacion de alcoholemia,reactivo,ACEITE DE INMERSION,1,3,0.333,practica,
+Toxicologia de la marihuana determinacion de alcoholemia,reactivo,ACIDO CLORIHIDRICO,1,3,0.333,practica,
+Toxicologia de la marihuana determinacion de alcoholemia,reactivo,CLOROFORMO,1,3,0.333,practica,
+Toxicologia de los aies pruebas preliminares toxicologicos analisis de toxicos gaseosos o liquidos volatilizables toxicologia de las quinolonas,reactivo,ACIDO SULFURICO,3,3,1.0,practica,
+Toxicologia de los aies pruebas preliminares toxicologicos analisis de toxicos gaseosos o liquidos volatilizables toxicologia de las quinolonas,reactivo,CLOROFORMO,3,3,1.0,practica,
+Toxicologia de los aies pruebas preliminares toxicologicos analisis de toxicos gaseosos o liquidos volatilizables toxicologia de las quinolonas,reactivo,ACIDO ACETICO GLACIAL,2,3,0.667,practica,
+Toxicologia de los aies pruebas preliminares toxicologicos analisis de toxicos gaseosos o liquidos volatilizables toxicologia de las quinolonas,reactivo,ANHIDRIDO ACETICO,2,3,0.667,practica,
+Toxicologia de metales pesados(plomo-saturnismo) toxicologia de metales pesados(mercurio-hidrasgismo,reactivo,ETANOL AL 96%,3,3,1.0,practica,
+Toxicologia de metales pesados(plomo-saturnismo) toxicologia de metales pesados(mercurio-hidrasgismo,reactivo,ACEITE DE INMERSION,2,3,0.667,practica,
+Toxicologia de metales pesados(plomo-saturnismo) toxicologia de metales pesados(mercurio-hidrasgismo,reactivo,ACIDO NITRICO,2,3,0.667,practica,
+Toxicologia de metales pesados(plomo-saturnismo) toxicologia de metales pesados(mercurio-hidrasgismo,reactivo,AZUL DE CRESIL BRILLANTE,2,3,0.667,practica,
+Toxicologia de metales pesados(plomo-saturnismo) toxicologia de metales pesados(mercurio-hidrasgismo,reactivo,CLORURO DE MERCURIO,1,3,0.333,practica,
+Toxicologia de metales pesados(plomo-saturnismo) toxicologia de metales pesados(mercurio-hidrasgismo,reactivo,PANOPTICO RAPIDO,1,3,0.333,practica,
+Toxicologia del cianuro - hematologia forence - toxicologia del monoxido de carbono,reactivo,ACEITE DE INMERSION,3,3,1.0,practica,
+Toxicologia del cianuro - hematologia forence - toxicologia del monoxido de carbono,reactivo,ETANOL AL 96%,3,3,1.0,practica,
+Toxicologia del cianuro - hematologia forence - toxicologia del monoxido de carbono,reactivo,PANOPTICO RAPIDO,3,3,1.0,practica,
+Toxicologia del cianuro - hematologia forence - toxicologia del monoxido de carbono,reactivo,ACIDO ACETICO GLACIAL,2,3,0.667,practica,
+Toxicologia del cianuro - hematologia forence - toxicologia del monoxido de carbono,reactivo,ACIDO CLORIHIDRICO,2,3,0.667,practica,
+Toxicologia del cianuro - hematologia forence - toxicologia del monoxido de carbono,reactivo,CIANURO DE SODIO,2,3,0.667,practica,
+Toxicologia del cianuro - hematologia forence - toxicologia del monoxido de carbono,reactivo,CLORURO DE SODIO TEC,2,3,0.667,practica,
+Trabajo de campo-proyecto de investigacion ´´frecuencia de hipertrigliceridemia,reactivo,CAL,1,1,1.0,practica,
+Uso y control de la micripipeta,reactivo,ACIDO SULFURICO,2,2,1.0,practica,
+Uso y manejo de la micropipeta,reactivo,ACIDO ACETICO GLACIAL,1,1,1.0,practica,
+Uso y manejo de la micropipeta,reactivo,ACIDO CLORIHIDRICO,1,1,1.0,practica,
+Uso y manejo de la micropipeta,reactivo,CIANURO DE POTASIO,1,1,1.0,practica,
+Uso y manejo de la micropipeta,reactivo,CUSO4 5H2O,1,1,1.0,practica,
+Uso y manejo de la micropipeta,reactivo,ETANOL AL 96%,1,1,1.0,practica,
+Vdrl,reactivo,ETANOL AL 96%,1,1,1.0,practica,
+Velocidad de reaccion,reactivo,ACIDO SULFURICO,2,4,0.5,practica,
+Velocidad de reaccion,reactivo,ETANOL AL 96%,2,4,0.5,practica,
+Verificacion de la ley de charles,reactivo,ETANOL AL 96%,1,1,1.0,practica,
+Acidez total,reactivo,ACIDO CLORIHIDRICO,22,50,0.44,asignatura,"BQM-420,FMC-415"
+Acidez total,reactivo,ETANOL AL 96%,14,50,0.28,asignatura,"BQM-420,FMC-415"
+Acidez total,reactivo,VASELINA SOLIDA,10,50,0.2,asignatura,"BQM-420,FMC-415"
+Acidez total,reactivo,BROMATO DE POTASIO,9,50,0.18,asignatura,"BQM-420,FMC-415"
+Acidez total,reactivo,BICARBONATO DE SODIO,6,50,0.12,asignatura,"BQM-420,FMC-415"
+Acidez total,reactivo,ACIDO CITRICO,5,50,0.1,asignatura,"BQM-420,FMC-415"
+Acidez total,medio de cultivo,AGUA PEPTONADA,9,10,0.9,asignatura,"BQM-420,FMC-415"
+Acidez total,medio de cultivo,PLATE COUNT AGAR (PCA),4,10,0.4,asignatura,"BQM-420,FMC-415"
+Acidez total,medio de cultivo,POTATO DEXTROSE AGAR GRANULATED,4,10,0.4,asignatura,"BQM-420,FMC-415"
+Acidez total,medio de cultivo,CEREBRO CORAZÓN INFUSIÓN,3,10,0.3,asignatura,"BQM-420,FMC-415"
+Acidez total,medio de cultivo,LAURYL TRIPTOSE BROTH,3,10,0.3,asignatura,"BQM-420,FMC-415"
+Acidez total,medio de cultivo,MANNITOL SALT AGAR BASE,3,10,0.3,asignatura,"BQM-420,FMC-415"
+Acidez total,medio de cultivo,VERDE BRILLANTE,2,10,0.2,asignatura,"BQM-420,FMC-415"
+Alelos multiples,reactivo,ACEITE DE INMERSION,15,24,0.625,asignatura,BIO-109
+Alelos multiples,reactivo,PANOPTICO RAPIDO,11,24,0.458,asignatura,BIO-109
+Alelos multiples,reactivo,ANTI-A,6,24,0.25,asignatura,BIO-109
+Alelos multiples,reactivo,ANTI-B,6,24,0.25,asignatura,BIO-109
+Alelos multiples,reactivo,ANTI-D,6,24,0.25,asignatura,BIO-109
+Alelos multiples,reactivo,SOL. FISIOLOGICA ESTERIL,3,24,0.125,asignatura,BIO-109
+Ambiente,reactivo,ETANOL AL 96%,80,258,0.31,asignatura,"BIO-308,BQM-308,BQM-440,FIS-101,FMC-205,FMC-415,FMC-420,QMC-206,QMC-209,QMC-306"
+Ambiente,reactivo,ACEITE DE INMERSION,66,258,0.256,asignatura,"BIO-308,BQM-308,BQM-440,FIS-101,FMC-205,FMC-415,FMC-420,QMC-206,QMC-209,QMC-306"
+Ambiente,reactivo,ACIDO CLORIHIDRICO,57,258,0.221,asignatura,"BIO-308,BQM-308,BQM-440,FIS-101,FMC-205,FMC-415,FMC-420,QMC-206,QMC-209,QMC-306"
+Ambiente,reactivo,HIDROXIDO DE SODIO,50,258,0.194,asignatura,"BIO-308,BQM-308,BQM-440,FIS-101,FMC-205,FMC-415,FMC-420,QMC-206,QMC-209,QMC-306"
+Ambiente,reactivo,SDS,33,258,0.128,asignatura,"BIO-308,BQM-308,BQM-440,FIS-101,FMC-205,FMC-415,FMC-420,QMC-206,QMC-209,QMC-306"
+Ambiente,reactivo,BICARBONATO DE SODIO,31,258,0.12,asignatura,"BIO-308,BQM-308,BQM-440,FIS-101,FMC-205,FMC-415,FMC-420,QMC-206,QMC-209,QMC-306"
+Ambiente,reactivo,ACETATO DE POTASIO,29,258,0.112,asignatura,"BIO-308,BQM-308,BQM-440,FIS-101,FMC-205,FMC-415,FMC-420,QMC-206,QMC-209,QMC-306"
+Ambiente,medio de cultivo,MAC CONKEY,36,75,0.48,asignatura,"BIO-308,BQM-308,BQM-440,FIS-101,FMC-205,FMC-415,FMC-420,QMC-206,QMC-209,QMC-306"
+Ambiente,medio de cultivo,AGUA PEPTONADA,25,75,0.333,asignatura,"BIO-308,BQM-308,BQM-440,FIS-101,FMC-205,FMC-415,FMC-420,QMC-206,QMC-209,QMC-306"
+Ambiente,medio de cultivo,BLOOD AGAR BASE,24,75,0.32,asignatura,"BIO-308,BQM-308,BQM-440,FIS-101,FMC-205,FMC-415,FMC-420,QMC-206,QMC-209,QMC-306"
+Ambiente,medio de cultivo,MANNITOL SALT AGAR BASE,21,75,0.28,asignatura,"BIO-308,BQM-308,BQM-440,FIS-101,FMC-205,FMC-415,FMC-420,QMC-206,QMC-209,QMC-306"
+Ambiente,medio de cultivo,CEREBRO CORAZÓN INFUSIÓN,14,75,0.187,asignatura,"BIO-308,BQM-308,BQM-440,FIS-101,FMC-205,FMC-415,FMC-420,QMC-206,QMC-209,QMC-306"
+Ambiente,medio de cultivo,CALDO TRIPTEINA SOYA,12,75,0.16,asignatura,"BIO-308,BQM-308,BQM-440,FIS-101,FMC-205,FMC-415,FMC-420,QMC-206,QMC-209,QMC-306"
+Ambiente,medio de cultivo,AGAR NUTRIENT 1,8,75,0.107,asignatura,"BIO-308,BQM-308,BQM-440,FIS-101,FMC-205,FMC-415,FMC-420,QMC-206,QMC-209,QMC-306"
+Ambiente,medio de cultivo,PLATE COUNT AGAR (PCA),8,75,0.107,asignatura,"BIO-308,BQM-308,BQM-440,FIS-101,FMC-205,FMC-415,FMC-420,QMC-206,QMC-209,QMC-306"
+Calculo de provision de energia,reactivo,ACIDO SULFURICO,12,24,0.5,asignatura,BQM-201
+Calculo de provision de energia,reactivo,CLOROFORMO,11,24,0.458,asignatura,BQM-201
+Cariotipo,reactivo,ACEITE DE INMERSION,78,106,0.736,asignatura,"BIO-107,BIO-109"
+Cariotipo,reactivo,PANOPTICO RAPIDO,33,106,0.311,asignatura,"BIO-107,BIO-109"
+Cariotipo,reactivo,ETANOL AL 96%,19,106,0.179,asignatura,"BIO-107,BIO-109"
+Celulas animales,reactivo,ACEITE DE INMERSION,130,152,0.855,asignatura,"BIO-107,BIO-108,BIO-117"
+Celulas animales,reactivo,PANOPTICO RAPIDO,36,152,0.237,asignatura,"BIO-107,BIO-108,BIO-117"
+Celulas animales,reactivo,ETANOL AL 96%,25,152,0.164,asignatura,"BIO-107,BIO-108,BIO-117"
+Claves analiticas,reactivo,ACEITE DE INMERSION,8,16,0.5,asignatura,BIO-217
+Claves analiticas,reactivo,ETANOL AL 96%,8,16,0.5,asignatura,BIO-217
+Control de calidad quimico en comprimidos,reactivo,AEROSIL,3,5,0.6,asignatura,FMC-400
+Control de calidad quimico en comprimidos,reactivo,PROPILPARABENO BASE,3,5,0.6,asignatura,FMC-400
+Control de calidad quimico en comprimidos,reactivo,GLICERINA,2,5,0.4,asignatura,FMC-400
+Control de calidad quimico en comprimidos,reactivo,METILPARABENO BASE,2,5,0.4,asignatura,FMC-400
+Control de calidad quimico en comprimidos,reactivo,VASELINA LIQUIDA,2,5,0.4,asignatura,FMC-400
+Control de calidad quimico en comprimidos,reactivo,ACIDO LACTICO,1,5,0.2,asignatura,FMC-400
+Control de calidad quimico en comprimidos,reactivo,ALCOHOL CETOESTEARILICO,1,5,0.2,asignatura,FMC-400
+Control de calidad quimico en comprimidos,reactivo,ALCOHOL ESTEARILICO,1,5,0.2,asignatura,FMC-400
+De los genes a las proteinas,reactivo,ACEITE DE INMERSION,78,106,0.736,asignatura,"BIO-107,BIO-109"
+De los genes a las proteinas,reactivo,PANOPTICO RAPIDO,33,106,0.311,asignatura,"BIO-107,BIO-109"
+De los genes a las proteinas,reactivo,ETANOL AL 96%,19,106,0.179,asignatura,"BIO-107,BIO-109"
+Destilacion de eter de petroleo,reactivo,VASELINA SOLIDA,13,24,0.542,asignatura,FMC-305
+Destilacion de eter de petroleo,reactivo,ACETONA,4,24,0.167,asignatura,FMC-305
+Destilacion de eter de petroleo,reactivo,DIMETILSULFOXIDO,4,24,0.167,asignatura,FMC-305
+Destilacion de eter de petroleo,reactivo,MAGNESIO EN LIMADURAS,4,24,0.167,asignatura,FMC-305
+Determinacion de actividad enzimatica por desaparicion de sustrato,reactivo,ETANOL AL 96%,16,22,0.727,asignatura,BQM-200
+Determinacion de actividad enzimatica por desaparicion de sustrato,reactivo,ACIDO CLORIHIDRICO,5,22,0.227,asignatura,BQM-200
+Determinacion de actividad enzimatica por desaparicion de sustrato,reactivo,CAL,4,22,0.182,asignatura,BQM-200
+Determinacion de bilirrubina,reactivo,ACEITE DE INMERSION,4,11,0.364,asignatura,"BQM-315,BQM-415"
+Determinacion de bilirrubina,reactivo,ACIDO NITRICO,4,11,0.364,asignatura,"BQM-315,BQM-415"
+Determinacion de bilirrubina,reactivo,AMONIACO O -H AMONIO,4,11,0.364,asignatura,"BQM-315,BQM-415"
+Determinacion de bilirrubina,reactivo,ACETONA,3,11,0.273,asignatura,"BQM-315,BQM-415"
+Determinacion de bilirrubina,reactivo,GLUCOSA,3,11,0.273,asignatura,"BQM-315,BQM-415"
+Determinacion de bilirrubina,reactivo,ALCOHOL ISOPROPILICO,2,11,0.182,asignatura,"BQM-315,BQM-415"
+Determinacion de bilirrubina,reactivo,FLOR DE AZUFRE,2,11,0.182,asignatura,"BQM-315,BQM-415"
+Determinacion de cenizas en materias primas de uso farmaceutico,reactivo,AEROSIL,3,5,0.6,asignatura,FMC-400
+Determinacion de cenizas en materias primas de uso farmaceutico,reactivo,PROPILPARABENO BASE,3,5,0.6,asignatura,FMC-400
+Determinacion de cenizas en materias primas de uso farmaceutico,reactivo,GLICERINA,2,5,0.4,asignatura,FMC-400
+Determinacion de cenizas en materias primas de uso farmaceutico,reactivo,METILPARABENO BASE,2,5,0.4,asignatura,FMC-400
+Determinacion de cenizas en materias primas de uso farmaceutico,reactivo,VASELINA LIQUIDA,2,5,0.4,asignatura,FMC-400
+Determinacion de cenizas en materias primas de uso farmaceutico,reactivo,ACIDO LACTICO,1,5,0.2,asignatura,FMC-400
+Determinacion de cenizas en materias primas de uso farmaceutico,reactivo,ALCOHOL CETOESTEARILICO,1,5,0.2,asignatura,FMC-400
+Determinacion de cenizas en materias primas de uso farmaceutico,reactivo,ALCOHOL ESTEARILICO,1,5,0.2,asignatura,FMC-400
+Determinacion de urea y creatina,reactivo,ACIDO NITRICO,9,13,0.692,asignatura,"BQM-300,BQM-315"
+Determinacion de urea y creatina,reactivo,ACIDO SULFURICO,4,13,0.308,asignatura,"BQM-300,BQM-315"
+Determinacion de vitaminas,reactivo,ACIDO NITRICO,9,12,0.75,asignatura,BQM-300
+Determinacion de vitaminas,reactivo,ACIDO SULFURICO,4,12,0.333,asignatura,BQM-300
+Determinacion del coeficiente gama por el metodo de clement y desormes,reactivo,ETANOL AL 96%,27,56,0.482,asignatura,"QMC-206,QMC-209"
+Determinacion del coeficiente gama por el metodo de clement y desormes,reactivo,HIDROXIDO DE SODIO,17,56,0.304,asignatura,"QMC-206,QMC-209"
+Determinacion del coeficiente gama por el metodo de clement y desormes,reactivo,ACIDO CLORIHIDRICO,12,56,0.214,asignatura,"QMC-206,QMC-209"
+Determinacion del coeficiente gama por el metodo de clement y desormes,reactivo,ACIDO SULFURICO,12,56,0.214,asignatura,"QMC-206,QMC-209"
+Determinacion del coeficiente gama por el metodo de clement y desormes,reactivo,ACIDO ACETICO GLACIAL,9,56,0.161,asignatura,"QMC-206,QMC-209"
+Determinacion del coeficiente gama por el metodo de clement y desormes,reactivo,ACEITE COMESTIBLE,6,56,0.107,asignatura,"QMC-206,QMC-209"
+Determinacion del grado de solubilidad,reactivo,AEROSIL,3,5,0.6,asignatura,FMC-400
+Determinacion del grado de solubilidad,reactivo,PROPILPARABENO BASE,3,5,0.6,asignatura,FMC-400
+Determinacion del grado de solubilidad,reactivo,GLICERINA,2,5,0.4,asignatura,FMC-400
+Determinacion del grado de solubilidad,reactivo,METILPARABENO BASE,2,5,0.4,asignatura,FMC-400
+Determinacion del grado de solubilidad,reactivo,VASELINA LIQUIDA,2,5,0.4,asignatura,FMC-400
+Determinacion del grado de solubilidad,reactivo,ACIDO LACTICO,1,5,0.2,asignatura,FMC-400
+Determinacion del grado de solubilidad,reactivo,ALCOHOL CETOESTEARILICO,1,5,0.2,asignatura,FMC-400
+Determinacion del grado de solubilidad,reactivo,ALCOHOL ESTEARILICO,1,5,0.2,asignatura,FMC-400
+Disolucion de precipitados,reactivo,CARBONATO DE SODIO,20,76,0.263,asignatura,"QMC-201,QMC-202"
+Disolucion de precipitados,reactivo,ETANOL AL 96%,20,76,0.263,asignatura,"QMC-201,QMC-202"
+Disolucion de precipitados,reactivo,SODIO METALICO,13,76,0.171,asignatura,"QMC-201,QMC-202"
+Disolucion de precipitados,reactivo,ACIDO CLORIHIDRICO,12,76,0.158,asignatura,"QMC-201,QMC-202"
+Disolucion de precipitados,reactivo,CLORURO DE BARIO,12,76,0.158,asignatura,"QMC-201,QMC-202"
+Disolucion de precipitados,reactivo,ACIDO NITRICO,11,76,0.145,asignatura,"QMC-201,QMC-202"
+Disolucion de precipitados,reactivo,SULFATO DE SODIO,11,76,0.145,asignatura,"QMC-201,QMC-202"
+Disolucion de precipitados,reactivo,ACETONA,10,76,0.132,asignatura,"QMC-201,QMC-202"
+Division celular-mitosis,reactivo,ACEITE DE INMERSION,111,132,0.841,asignatura,"BIO-107,BIO-108"
+Division celular-mitosis,reactivo,PANOPTICO RAPIDO,36,132,0.273,asignatura,"BIO-107,BIO-108"
+Division celular-mitosis,reactivo,ETANOL AL 96%,24,132,0.182,asignatura,"BIO-107,BIO-108"
+Energia libre de gibbs,reactivo,ACIDO SULFURICO,6,14,0.429,asignatura,QMC-209
+Energia libre de gibbs,reactivo,ACEITE COMESTIBLE,5,14,0.357,asignatura,QMC-209
+Energia libre de gibbs,reactivo,ETANOL AL 96%,3,14,0.214,asignatura,QMC-209
+Examen coproparasitologico,reactivo,ACEITE DE INMERSION,13,20,0.65,asignatura,"BQM-311,FMC-205"
+Examen coproparasitologico,reactivo,PANOPTICO RAPIDO,4,20,0.2,asignatura,"BQM-311,FMC-205"
+Examen coproparasitologico,reactivo,ZNSO4,4,20,0.2,asignatura,"BQM-311,FMC-205"
+Examen coproparasitologico,reactivo,CAL,3,20,0.15,asignatura,"BQM-311,FMC-205"
+Examen coproparasitologico,reactivo,CLORURO DE SODIO TEC,3,20,0.15,asignatura,"BQM-311,FMC-205"
+Examen coproparasitologico,reactivo,FORMOL,3,20,0.15,asignatura,"BQM-311,FMC-205"
+Examen coproparasitologico,reactivo,YODURO DE POTASIO,3,20,0.15,asignatura,"BQM-311,FMC-205"
+Examen coproparasitologico,reactivo,CLORURO DE SODIO PA,2,20,0.1,asignatura,"BQM-311,FMC-205"
+Examen general de orina,reactivo,ACEITE DE INMERSION,4,10,0.4,asignatura,BQM-415
+Examen general de orina,reactivo,ACIDO NITRICO,4,10,0.4,asignatura,BQM-415
+Examen general de orina,reactivo,AMONIACO O -H AMONIO,4,10,0.4,asignatura,BQM-415
+Examen general de orina,reactivo,ACETONA,3,10,0.3,asignatura,BQM-415
+Examen general de orina,reactivo,GLUCOSA,3,10,0.3,asignatura,BQM-415
+Examen general de orina,reactivo,ALCOHOL ISOPROPILICO,2,10,0.2,asignatura,BQM-415
+Examen general de orina,reactivo,FLOR DE AZUFRE,2,10,0.2,asignatura,BQM-415
+Examen general de orina,reactivo,CARBONATO DE SODIO,1,10,0.1,asignatura,BQM-415
+Exploracion de los reflejos en el hombre,reactivo,ACEITE DE INMERSION,6,29,0.207,asignatura,"BIO-207,BIO-209"
+Exploracion de los reflejos en el hombre,reactivo,CLORURO DE SODIO TEC,6,29,0.207,asignatura,"BIO-207,BIO-209"
+Exploracion de los reflejos en el hombre,reactivo,KIT GRUPO SANGUINEO,6,29,0.207,asignatura,"BIO-207,BIO-209"
+Exploracion de los reflejos en el hombre,reactivo,PANOPTICO RAPIDO,5,29,0.172,asignatura,"BIO-207,BIO-209"
+Exploracion de los reflejos en el hombre,reactivo,ACEITE COMESTIBLE,3,29,0.103,asignatura,"BIO-207,BIO-209"
+Exposiciones,reactivo,ACEITE DE INMERSION,8,34,0.235,asignatura,"BIO-209,BQM-305,BQM-435"
+Exposiciones,reactivo,CAL,8,34,0.235,asignatura,"BIO-209,BQM-305,BQM-435"
+Exposiciones,reactivo,ETANOL AL 96%,8,34,0.235,asignatura,"BIO-209,BQM-305,BQM-435"
+Exposiciones,reactivo,CLOROFORMO,7,34,0.206,asignatura,"BIO-209,BQM-305,BQM-435"
+Exposiciones,reactivo,PANOPTICO RAPIDO,7,34,0.206,asignatura,"BIO-209,BQM-305,BQM-435"
+Exposiciones,reactivo,ANHIDRIDO ACETICO,5,34,0.147,asignatura,"BIO-209,BQM-305,BQM-435"
+Exposiciones,reactivo,ACIDO SULFURICO,4,34,0.118,asignatura,"BIO-209,BQM-305,BQM-435"
+Exposiciones,reactivo,KIT GRUPO SANGUINEO,4,34,0.118,asignatura,"BIO-209,BQM-305,BQM-435"
+Formacion de precipitados,reactivo,CLORURO DE SODIO TEC,41,129,0.318,asignatura,"QMC-101,QMC-201,QMC-202"
+Formacion de precipitados,reactivo,ETANOL AL 96%,25,129,0.194,asignatura,"QMC-101,QMC-201,QMC-202"
+Formacion de precipitados,reactivo,CARBONATO DE SODIO,21,129,0.163,asignatura,"QMC-101,QMC-201,QMC-202"
+Formacion de precipitados,reactivo,ACIDO CLORIHIDRICO,20,129,0.155,asignatura,"QMC-101,QMC-201,QMC-202"
+Formacion de precipitados,reactivo,CARBONATO DE CALCIO,15,129,0.116,asignatura,"QMC-101,QMC-201,QMC-202"
+Formacion de precipitados,reactivo,SODIO METALICO,13,129,0.101,asignatura,"QMC-101,QMC-201,QMC-202"
+Glucidos totales 2da parte,reactivo,ACIDO CLORIHIDRICO,19,46,0.413,asignatura,FMC-415
+Glucidos totales 2da parte,reactivo,ETANOL AL 96%,14,46,0.304,asignatura,FMC-415
+Glucidos totales 2da parte,reactivo,BROMATO DE POTASIO,9,46,0.196,asignatura,FMC-415
+Glucidos totales 2da parte,reactivo,VASELINA SOLIDA,7,46,0.152,asignatura,FMC-415
+Glucidos totales 2da parte,reactivo,BICARBONATO DE SODIO,6,46,0.13,asignatura,FMC-415
+Glucidos totales 2da parte,reactivo,ACIDO CITRICO,5,46,0.109,asignatura,FMC-415
+Glucidos totales 2da parte,medio de cultivo,AGUA PEPTONADA,9,10,0.9,asignatura,FMC-415
+Glucidos totales 2da parte,medio de cultivo,PLATE COUNT AGAR (PCA),4,10,0.4,asignatura,FMC-415
+Glucidos totales 2da parte,medio de cultivo,POTATO DEXTROSE AGAR GRANULATED,4,10,0.4,asignatura,FMC-415
+Glucidos totales 2da parte,medio de cultivo,CEREBRO CORAZÓN INFUSIÓN,3,10,0.3,asignatura,FMC-415
+Glucidos totales 2da parte,medio de cultivo,LAURYL TRIPTOSE BROTH,3,10,0.3,asignatura,FMC-415
+Glucidos totales 2da parte,medio de cultivo,MANNITOL SALT AGAR BASE,3,10,0.3,asignatura,FMC-415
+Glucidos totales 2da parte,medio de cultivo,VERDE BRILLANTE,2,10,0.2,asignatura,FMC-415
+Hongos,reactivo,ACEITE DE INMERSION,119,148,0.804,asignatura,"BIO-107,BIO-108,BIO-217"
+Hongos,reactivo,PANOPTICO RAPIDO,36,148,0.243,asignatura,"BIO-107,BIO-108,BIO-217"
+Hongos,reactivo,ETANOL AL 96%,32,148,0.216,asignatura,"BIO-107,BIO-108,BIO-217"
+Introduccion al laboratorio,reactivo,ETANOL AL 96%,42,151,0.278,asignatura,"BIO-207,BQM-201,FMC-412,QMC-210,QMC-303"
+Introduccion al laboratorio,reactivo,METILPARABENO BASE,24,151,0.159,asignatura,"BIO-207,BQM-201,FMC-412,QMC-210,QMC-303"
+Introduccion al laboratorio,reactivo,PROPILPARABENO BASE,24,151,0.159,asignatura,"BIO-207,BQM-201,FMC-412,QMC-210,QMC-303"
+Introduccion al laboratorio,reactivo,ACIDO SULFURICO,19,151,0.126,asignatura,"BIO-207,BQM-201,FMC-412,QMC-210,QMC-303"
+La celula,reactivo,ACEITE DE INMERSION,14,45,0.311,asignatura,"BIO-207,BIO-209,BIO-217"
+La celula,reactivo,ETANOL AL 96%,10,45,0.222,asignatura,"BIO-207,BIO-209,BIO-217"
+La celula,reactivo,CLORURO DE SODIO TEC,6,45,0.133,asignatura,"BIO-207,BIO-209,BIO-217"
+La celula,reactivo,KIT GRUPO SANGUINEO,6,45,0.133,asignatura,"BIO-207,BIO-209,BIO-217"
+La celula,reactivo,PANOPTICO RAPIDO,5,45,0.111,asignatura,"BIO-207,BIO-209,BIO-217"
+Lipidos : obtencion e identificacion/acidos grasos: saturados e insaturados,reactivo,ACIDO SULFURICO,12,24,0.5,asignatura,BQM-201
+Lipidos : obtencion e identificacion/acidos grasos: saturados e insaturados,reactivo,CLOROFORMO,11,24,0.458,asignatura,BQM-201
+Materiales de uso comun en laboratorio,reactivo,CLORURO DE SODIO TEC,47,123,0.382,asignatura,"QMC-100,QMC-101"
+Materiales de uso comun en laboratorio,reactivo,ETANOL AL 96%,38,123,0.309,asignatura,"QMC-100,QMC-101"
+Materiales de uso comun en laboratorio,reactivo,ACIDO CLORIHIDRICO,30,123,0.244,asignatura,"QMC-100,QMC-101"
+Materiales de uso comun en laboratorio,reactivo,ZINC EN GRANALLA,23,123,0.187,asignatura,"QMC-100,QMC-101"
+Materiales de uso comun en laboratorio,reactivo,CARBONATO DE CALCIO,15,123,0.122,asignatura,"QMC-100,QMC-101"
+Materiales de uso comun en laboratorio,reactivo,CUSO4 5H2O,14,123,0.114,asignatura,"QMC-100,QMC-101"
+Materiales de uso comun en laboratorio,reactivo,HIDROXIDO DE SODIO,13,123,0.106,asignatura,"QMC-100,QMC-101"
+Medicion de masa y volumen,reactivo,ETANOL AL 96%,64,168,0.381,asignatura,"QMC-100,QMC-101,QMC-102"
+Medicion de masa y volumen,reactivo,CLORURO DE SODIO TEC,49,168,0.292,asignatura,"QMC-100,QMC-101,QMC-102"
+Medicion de masa y volumen,reactivo,ACIDO CLORIHIDRICO,39,168,0.232,asignatura,"QMC-100,QMC-101,QMC-102"
+Medicion de masa y volumen,reactivo,ZINC EN GRANALLA,29,168,0.173,asignatura,"QMC-100,QMC-101,QMC-102"
+Medicion de masa y volumen,reactivo,HIDROXIDO DE SODIO,19,168,0.113,asignatura,"QMC-100,QMC-101,QMC-102"
+Medicion de masa y volumen,reactivo,CIANURO DE SODIO,17,168,0.101,asignatura,"QMC-100,QMC-101,QMC-102"
+Medicion de masa y volumen,reactivo,CUSO4 5H2O,17,168,0.101,asignatura,"QMC-100,QMC-101,QMC-102"
+Medicion de volumenes liquidos,reactivo,CLORURO DE SODIO TEC,47,123,0.382,asignatura,"QMC-100,QMC-101"
+Medicion de volumenes liquidos,reactivo,ETANOL AL 96%,38,123,0.309,asignatura,"QMC-100,QMC-101"
+Medicion de volumenes liquidos,reactivo,ACIDO CLORIHIDRICO,30,123,0.244,asignatura,"QMC-100,QMC-101"
+Medicion de volumenes liquidos,reactivo,ZINC EN GRANALLA,23,123,0.187,asignatura,"QMC-100,QMC-101"
+Medicion de volumenes liquidos,reactivo,CARBONATO DE CALCIO,15,123,0.122,asignatura,"QMC-100,QMC-101"
+Medicion de volumenes liquidos,reactivo,CUSO4 5H2O,14,123,0.114,asignatura,"QMC-100,QMC-101"
+Medicion de volumenes liquidos,reactivo,HIDROXIDO DE SODIO,13,123,0.106,asignatura,"QMC-100,QMC-101"
+Microcultivo,reactivo,ACEITE DE INMERSION,3,6,0.5,asignatura,BQM-303
+Microcultivo,reactivo,TINTA CHINA,2,6,0.333,asignatura,BQM-303
+Microcultivo,reactivo,HIDROXIDO DE POTASIO,1,6,0.167,asignatura,BQM-303
+Modelos matematicos de fenomenos fisicos,reactivo,ACEITE COMESTIBLE,4,6,0.667,asignatura,FIS-101
+Modelos matematicos de fenomenos fisicos,reactivo,GLICERINA,3,6,0.5,asignatura,FIS-101
+Modelos matematicos de fenomenos fisicos,reactivo,ACEITE DE INMERSION,1,6,0.167,asignatura,FIS-101
+Modelos matematicos de fenomenos fisicos,reactivo,AEROSIL,1,6,0.167,asignatura,FIS-101
+Modelos matematicos de fenomenos fisicos,reactivo,CLORURO DE SODIO TEC,1,6,0.167,asignatura,FIS-101
+Modelos moleculares,reactivo,ETANOL AL 96%,71,171,0.415,asignatura,"QMC-103,QMC-105"
+Modelos moleculares,reactivo,ACIDO SULFURICO,32,171,0.187,asignatura,"QMC-103,QMC-105"
+Modelos moleculares,reactivo,ACEITE COMESTIBLE,31,171,0.181,asignatura,"QMC-103,QMC-105"
+Modelos moleculares,reactivo,ACETATO DE ETILO,30,171,0.175,asignatura,"QMC-103,QMC-105"
+Modelos moleculares,reactivo,ETER DE PETROLEO,30,171,0.175,asignatura,"QMC-103,QMC-105"
+Modelos moleculares,reactivo,ACIDO NITRICO,29,171,0.17,asignatura,"QMC-103,QMC-105"
+Modelos moleculares,reactivo,ACIDO ACETICO GLACIAL,27,171,0.158,asignatura,"QMC-103,QMC-105"
+Modelos moleculares,reactivo,ETANOL ABS,27,171,0.158,asignatura,"QMC-103,QMC-105"
+Monohibridismo,reactivo,ACEITE DE INMERSION,15,24,0.625,asignatura,BIO-109
+Monohibridismo,reactivo,PANOPTICO RAPIDO,11,24,0.458,asignatura,BIO-109
+Monohibridismo,reactivo,ANTI-A,6,24,0.25,asignatura,BIO-109
+Monohibridismo,reactivo,ANTI-B,6,24,0.25,asignatura,BIO-109
+Monohibridismo,reactivo,ANTI-D,6,24,0.25,asignatura,BIO-109
+Monohibridismo,reactivo,SOL. FISIOLOGICA ESTERIL,3,24,0.125,asignatura,BIO-109
+Normas de bioseguridad,reactivo,ETANOL AL 96%,73,196,0.372,asignatura,"BIO-107,QMC-100,QMC-207,QMC-306"
+Normas de bioseguridad,reactivo,ACEITE DE INMERSION,64,196,0.327,asignatura,"BIO-107,QMC-100,QMC-207,QMC-306"
+Normas de bioseguridad,reactivo,ACIDO SULFURICO,34,196,0.173,asignatura,"BIO-107,QMC-100,QMC-207,QMC-306"
+Normas de bioseguridad,reactivo,ACIDO CLORIHIDRICO,29,196,0.148,asignatura,"BIO-107,QMC-100,QMC-207,QMC-306"
+Normas de bioseguridad,reactivo,ACIDO NITRICO,26,196,0.133,asignatura,"BIO-107,QMC-100,QMC-207,QMC-306"
+Normas de bioseguridad,reactivo,ZINC EN GRANALLA,23,196,0.117,asignatura,"BIO-107,QMC-100,QMC-207,QMC-306"
+Normas de bioseguridad,reactivo,PANOPTICO RAPIDO,22,196,0.112,asignatura,"BIO-107,QMC-100,QMC-207,QMC-306"
+Normas de trabajo y medidas de seguridad en el laboratorio,reactivo,ETANOL AL 96%,50,115,0.435,asignatura,QMC-103
+Normas de trabajo y medidas de seguridad en el laboratorio,reactivo,ACIDO NITRICO,25,115,0.217,asignatura,QMC-103
+Normas de trabajo y medidas de seguridad en el laboratorio,reactivo,ACIDO SULFURICO,25,115,0.217,asignatura,QMC-103
+Normas de trabajo y medidas de seguridad en el laboratorio,reactivo,ACETATO DE ETILO,22,115,0.191,asignatura,QMC-103
+Normas de trabajo y medidas de seguridad en el laboratorio,reactivo,ACIDO ACETICO GLACIAL,22,115,0.191,asignatura,QMC-103
+Normas de trabajo y medidas de seguridad en el laboratorio,reactivo,VASELINA SOLIDA,20,115,0.174,asignatura,QMC-103
+Normas de trabajo y medidas de seguridad en el laboratorio,reactivo,1-BUTANOL,19,115,0.165,asignatura,QMC-103
+Normas de trabajo y medidas de seguridad en el laboratorio,reactivo,ETANOL ABS,18,115,0.157,asignatura,QMC-103
+Observacion de eucariontes unicelulares,reactivo,ACEITE DE INMERSION,111,132,0.841,asignatura,"BIO-107,BIO-108"
+Observacion de eucariontes unicelulares,reactivo,PANOPTICO RAPIDO,36,132,0.273,asignatura,"BIO-107,BIO-108"
+Observacion de eucariontes unicelulares,reactivo,ETANOL AL 96%,24,132,0.182,asignatura,"BIO-107,BIO-108"
+Observacion de hongos,reactivo,ACEITE DE INMERSION,130,152,0.855,asignatura,"BIO-107,BIO-108,BIO-117"
+Observacion de hongos,reactivo,PANOPTICO RAPIDO,36,152,0.237,asignatura,"BIO-107,BIO-108,BIO-117"
+Observacion de hongos,reactivo,ETANOL AL 96%,25,152,0.164,asignatura,"BIO-107,BIO-108,BIO-117"
+Osteologia,reactivo,ACEITE DE INMERSION,25,26,0.962,asignatura,"BIO-117,BIO-118"
+Plantas medicinales,reactivo,ACEITE DE INMERSION,8,16,0.5,asignatura,BIO-217
+Plantas medicinales,reactivo,ETANOL AL 96%,8,16,0.5,asignatura,BIO-217
+Proteinas generalidades,reactivo,ACIDO SULFURICO,23,66,0.348,asignatura,BQM-101
+Proteinas generalidades,reactivo,ALMIDON,18,66,0.273,asignatura,BQM-101
+Proteinas generalidades,reactivo,CLOROFORMO,18,66,0.273,asignatura,BQM-101
+Proteinas generalidades,reactivo,GLUCOSA,18,66,0.273,asignatura,BQM-101
+Proteinas generalidades,reactivo,MALTOSA,18,66,0.273,asignatura,BQM-101
+Proteinas generalidades,reactivo,SACAROSA,18,66,0.273,asignatura,BQM-101
+Proteinas generalidades,reactivo,ETANOL AL 96%,17,66,0.258,asignatura,BQM-101
+Proteinas generalidades,reactivo,FRUCTOSA,17,66,0.258,asignatura,BQM-101
+Reflejos en el hombre,reactivo,ACEITE DE INMERSION,6,29,0.207,asignatura,"BIO-207,BIO-209"
+Reflejos en el hombre,reactivo,CLORURO DE SODIO TEC,6,29,0.207,asignatura,"BIO-207,BIO-209"
+Reflejos en el hombre,reactivo,KIT GRUPO SANGUINEO,6,29,0.207,asignatura,"BIO-207,BIO-209"
+Reflejos en el hombre,reactivo,PANOPTICO RAPIDO,5,29,0.172,asignatura,"BIO-207,BIO-209"
+Reflejos en el hombre,reactivo,ACEITE COMESTIBLE,3,29,0.103,asignatura,"BIO-207,BIO-209"
+Repaso,reactivo,ACIDO SULFURICO,21,52,0.404,asignatura,"BQM-201,BQM-309,BQM-315,QMC-306"
+Repaso,reactivo,ACEITE DE INMERSION,16,52,0.308,asignatura,"BQM-201,BQM-309,BQM-315,QMC-306"
+Repaso,reactivo,CLOROFORMO,11,52,0.212,asignatura,"BQM-201,BQM-309,BQM-315,QMC-306"
+Repaso,medio de cultivo,MAC CONKEY,10,18,0.556,asignatura,"BQM-201,BQM-309,BQM-315,QMC-306"
+Repaso,medio de cultivo,BLOOD AGAR BASE,8,18,0.444,asignatura,"BQM-201,BQM-309,BQM-315,QMC-306"
+Repaso,medio de cultivo,MUELLER HINTON,7,18,0.389,asignatura,"BQM-201,BQM-309,BQM-315,QMC-306"
+Repaso,medio de cultivo,MANNITOL SALT AGAR BASE,5,18,0.278,asignatura,"BQM-201,BQM-309,BQM-315,QMC-306"
+Repaso,medio de cultivo,SIM,4,18,0.222,asignatura,"BQM-201,BQM-309,BQM-315,QMC-306"
+Repaso,medio de cultivo,AGAR SS,3,18,0.167,asignatura,"BQM-201,BQM-309,BQM-315,QMC-306"
+Repaso,medio de cultivo,TSI,3,18,0.167,asignatura,"BQM-201,BQM-309,BQM-315,QMC-306"
+Repaso,medio de cultivo,CLED,2,18,0.111,asignatura,"BQM-201,BQM-309,BQM-315,QMC-306"
+Sistema digestivo,reactivo,ACEITE DE INMERSION,25,26,0.962,asignatura,"BIO-117,BIO-118"
+Sistema nervioso,reactivo,ACEITE DE INMERSION,25,26,0.962,asignatura,"BIO-117,BIO-118"
+Sistema respiratorio,reactivo,ACEITE DE INMERSION,25,26,0.962,asignatura,"BIO-117,BIO-118"
+Tecnicas de separacion solido-solido,reactivo,CLORURO DE SODIO TEC,47,123,0.382,asignatura,"QMC-100,QMC-101"
+Tecnicas de separacion solido-solido,reactivo,ETANOL AL 96%,38,123,0.309,asignatura,"QMC-100,QMC-101"
+Tecnicas de separacion solido-solido,reactivo,ACIDO CLORIHIDRICO,30,123,0.244,asignatura,"QMC-100,QMC-101"
+Tecnicas de separacion solido-solido,reactivo,ZINC EN GRANALLA,23,123,0.187,asignatura,"QMC-100,QMC-101"
+Tecnicas de separacion solido-solido,reactivo,CARBONATO DE CALCIO,15,123,0.122,asignatura,"QMC-100,QMC-101"
+Tecnicas de separacion solido-solido,reactivo,CUSO4 5H2O,14,123,0.114,asignatura,"QMC-100,QMC-101"
+Tecnicas de separacion solido-solido,reactivo,HIDROXIDO DE SODIO,13,123,0.106,asignatura,"QMC-100,QMC-101"
+Tecnicas de trabajo en el laboratorio,reactivo,ETANOL AL 96%,50,115,0.435,asignatura,QMC-103
+Tecnicas de trabajo en el laboratorio,reactivo,ACIDO NITRICO,25,115,0.217,asignatura,QMC-103
+Tecnicas de trabajo en el laboratorio,reactivo,ACIDO SULFURICO,25,115,0.217,asignatura,QMC-103
+Tecnicas de trabajo en el laboratorio,reactivo,ACETATO DE ETILO,22,115,0.191,asignatura,QMC-103
+Tecnicas de trabajo en el laboratorio,reactivo,ACIDO ACETICO GLACIAL,22,115,0.191,asignatura,QMC-103
+Tecnicas de trabajo en el laboratorio,reactivo,VASELINA SOLIDA,20,115,0.174,asignatura,QMC-103
+Tecnicas de trabajo en el laboratorio,reactivo,1-BUTANOL,19,115,0.165,asignatura,QMC-103
+Tecnicas de trabajo en el laboratorio,reactivo,ETANOL ABS,18,115,0.157,asignatura,QMC-103
+Tejido muscular,reactivo,ACEITE DE INMERSION,25,26,0.962,asignatura,"BIO-117,BIO-118"
+Tejido nervioso,reactivo,ACEITE DE INMERSION,25,26,0.962,asignatura,"BIO-117,BIO-118"
+Tejido oseo,reactivo,ACEITE DE INMERSION,25,26,0.962,asignatura,"BIO-117,BIO-118"
+Tension superficial,reactivo,ETANOL AL 96%,35,67,0.522,asignatura,"QMC-206,QMC-208"
+Tension superficial,reactivo,HIDROXIDO DE SODIO,16,67,0.239,asignatura,"QMC-206,QMC-208"
+Tension superficial,reactivo,ACIDO CLORIHIDRICO,15,67,0.224,asignatura,"QMC-206,QMC-208"
+Tension superficial,reactivo,ACEITE COMESTIBLE,10,67,0.149,asignatura,"QMC-206,QMC-208"
+Tension superficial,reactivo,ACIDO ACETICO GLACIAL,9,67,0.134,asignatura,"QMC-206,QMC-208"
+Tension superficial,reactivo,ACIDO SULFURICO,9,67,0.134,asignatura,"QMC-206,QMC-208"
+Tension superficial,reactivo,ALCANFOR,7,67,0.104,asignatura,"QMC-206,QMC-208"
+Trabajo expansion y compresion,reactivo,ETANOL AL 96%,27,56,0.482,asignatura,"QMC-206,QMC-209"
+Trabajo expansion y compresion,reactivo,HIDROXIDO DE SODIO,17,56,0.304,asignatura,"QMC-206,QMC-209"
+Trabajo expansion y compresion,reactivo,ACIDO CLORIHIDRICO,12,56,0.214,asignatura,"QMC-206,QMC-209"
+Trabajo expansion y compresion,reactivo,ACIDO SULFURICO,12,56,0.214,asignatura,"QMC-206,QMC-209"
+Trabajo expansion y compresion,reactivo,ACIDO ACETICO GLACIAL,9,56,0.161,asignatura,"QMC-206,QMC-209"
+Trabajo expansion y compresion,reactivo,ACEITE COMESTIBLE,6,56,0.107,asignatura,"QMC-206,QMC-209"
+Uso de la micropipeta,reactivo,ETANOL AL 96%,16,42,0.381,asignatura,"BQM-300,FMC-420"
+Uso de la micropipeta,reactivo,HIDROXIDO DE SODIO,13,42,0.31,asignatura,"BQM-300,FMC-420"
+Uso de la micropipeta,reactivo,SDS,13,42,0.31,asignatura,"BQM-300,FMC-420"
+Uso de la micropipeta,reactivo,EDTA 2H2O,12,42,0.286,asignatura,"BQM-300,FMC-420"
+Uso de la micropipeta,reactivo,GLUCOSA,12,42,0.286,asignatura,"BQM-300,FMC-420"
+Uso de la micropipeta,reactivo,BICARBONATO DE SODIO,11,42,0.262,asignatura,"BQM-300,FMC-420"
+Uso de la micropipeta,reactivo,CLORURO DE MAGNESIO 6H20,11,42,0.262,asignatura,"BQM-300,FMC-420"
+Uso de la micropipeta,reactivo,CLORURO DE AMONIO,10,42,0.238,asignatura,"BQM-300,FMC-420"
+Uso de la micropipeta,medio de cultivo,MAC CONKEY,8,12,0.667,asignatura,"BQM-300,FMC-420"
+Uso de la micropipeta,medio de cultivo,AGAR NUTRIENT 3,4,12,0.333,asignatura,"BQM-300,FMC-420"
+Uso de la micropipeta,medio de cultivo,AGUA PEPTONADA,4,12,0.333,asignatura,"BQM-300,FMC-420"
+Uso de la micropipeta,medio de cultivo,CALDO TRIPTEINA SOYA,4,12,0.333,asignatura,"BQM-300,FMC-420"
+Uso de la micropipeta,medio de cultivo,CEREBRO CORAZÓN INFUSIÓN,4,12,0.333,asignatura,"BQM-300,FMC-420"
+Uso de la micropipeta,medio de cultivo,GLUCOSA,2,12,0.167,asignatura,"BQM-300,FMC-420"
+Variacion de la viscosidad con la temperatura,reactivo,ETANOL AL 96%,35,67,0.522,asignatura,"QMC-206,QMC-208"
+Variacion de la viscosidad con la temperatura,reactivo,HIDROXIDO DE SODIO,16,67,0.239,asignatura,"QMC-206,QMC-208"
+Variacion de la viscosidad con la temperatura,reactivo,ACIDO CLORIHIDRICO,15,67,0.224,asignatura,"QMC-206,QMC-208"
+Variacion de la viscosidad con la temperatura,reactivo,ACEITE COMESTIBLE,10,67,0.149,asignatura,"QMC-206,QMC-208"
+Variacion de la viscosidad con la temperatura,reactivo,ACIDO ACETICO GLACIAL,9,67,0.134,asignatura,"QMC-206,QMC-208"
+Variacion de la viscosidad con la temperatura,reactivo,ACIDO SULFURICO,9,67,0.134,asignatura,"QMC-206,QMC-208"
+Variacion de la viscosidad con la temperatura,reactivo,ALCANFOR,7,67,0.104,asignatura,"QMC-206,QMC-208"
+Verificacion de la ley de boyle y mariotte,reactivo,ETANOL AL 96%,35,67,0.522,asignatura,"QMC-206,QMC-208"
+Verificacion de la ley de boyle y mariotte,reactivo,HIDROXIDO DE SODIO,16,67,0.239,asignatura,"QMC-206,QMC-208"
+Verificacion de la ley de boyle y mariotte,reactivo,ACIDO CLORIHIDRICO,15,67,0.224,asignatura,"QMC-206,QMC-208"
+Verificacion de la ley de boyle y mariotte,reactivo,ACEITE COMESTIBLE,10,67,0.149,asignatura,"QMC-206,QMC-208"
+Verificacion de la ley de boyle y mariotte,reactivo,ACIDO ACETICO GLACIAL,9,67,0.134,asignatura,"QMC-206,QMC-208"
+Verificacion de la ley de boyle y mariotte,reactivo,ACIDO SULFURICO,9,67,0.134,asignatura,"QMC-206,QMC-208"
+Verificacion de la ley de boyle y mariotte,reactivo,ALCANFOR,7,67,0.104,asignatura,"QMC-206,QMC-208"
+Verificacion de la ley de gay lussac,reactivo,ETANOL AL 96%,35,67,0.522,asignatura,"QMC-206,QMC-208"
+Verificacion de la ley de gay lussac,reactivo,HIDROXIDO DE SODIO,16,67,0.239,asignatura,"QMC-206,QMC-208"
+Verificacion de la ley de gay lussac,reactivo,ACIDO CLORIHIDRICO,15,67,0.224,asignatura,"QMC-206,QMC-208"
+Verificacion de la ley de gay lussac,reactivo,ACEITE COMESTIBLE,10,67,0.149,asignatura,"QMC-206,QMC-208"
+Verificacion de la ley de gay lussac,reactivo,ACIDO ACETICO GLACIAL,9,67,0.134,asignatura,"QMC-206,QMC-208"
+Verificacion de la ley de gay lussac,reactivo,ACIDO SULFURICO,9,67,0.134,asignatura,"QMC-206,QMC-208"
+Verificacion de la ley de gay lussac,reactivo,ALCANFOR,7,67,0.104,asignatura,"QMC-206,QMC-208"

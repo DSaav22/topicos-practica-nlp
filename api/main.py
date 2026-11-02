@@ -21,10 +21,17 @@ MAX_CARACTERES = 500
 # Con cientos de clases la probabilidad absoluta queda baja aunque acierte; se pide confirmar
 # cuando la primera opción no llega al doble de la segunda.
 MARGEN_CONFIRMAR = 2.0
+NOTAS_REACTIVOS = {
+    "practica": "Conteo de las salidas del kardex en las sesiones registradas de esta práctica; "
+                "el modelo solo elige la práctica.",
+    "asignatura": "Esta práctica no tiene salidas propias en el kardex: se muestran los reactivos "
+                  "más usados en sus asignaturas.",
+    None: "No hay salidas registradas para esta práctica ni para sus asignaturas.",
+}
 
 pipeline = joblib.load(RAIZ / "models" / "pipeline.joblib")
 metricas = json.loads((RAIZ / "models" / "metricas.json").read_text(encoding="utf-8"))
-reactivos = pd.read_csv(RAIZ / "data" / "processed" / "reactivos_por_practica.csv")
+reactivos = pd.read_csv(RAIZ / "data" / "processed" / "reactivos_por_practica.csv", keep_default_na=False)
 catalogo = pd.read_csv(RAIZ / "data" / "processed" / "catalogo.csv")
 MODO = pipeline.named_steps["preprocesamiento"].modo
 CLASES = list(pipeline.classes_)
@@ -106,6 +113,7 @@ def predecir(entrada: EntradaPrediccion):
     elegida, probabilidad = pares[0]
     segunda = pares[1][1] if len(pares) > 1 else 0.0
     sugeridos = reactivos[reactivos["practica"] == elegida]
+    base = sugeridos["base"].iloc[0] if len(sugeridos) else None
     return {
         "texto": entrada.texto,
         "practica": elegida,
@@ -113,10 +121,12 @@ def predecir(entrada: EntradaPrediccion):
         "confirmar": bool(probabilidad < MARGEN_CONFIRMAR * segunda),
         "alternativas": [{"practica": c, "probabilidad": round(float(p), 4)} for c, p in pares[: entrada.top_k]],
         "reactivos_sugeridos": [
-            {"reactivo": r.reactivo, "proporcion": float(r.proporcion), "sesiones": int(r.sesiones)}
+            {"reactivo": r.reactivo, "tipo": r.tipo, "proporcion": float(r.proporcion), "sesiones": int(r.sesiones)}
             for r in sugeridos.itertuples()
         ],
-        "nota_reactivos": "La lista sale por conteo del kardex para la práctica elegida; el modelo solo elige la práctica.",
+        "base_reactivos": base,
+        "siglas_base": sugeridos["siglas"].iloc[0].split(",") if base == "asignatura" else [],
+        "nota_reactivos": NOTAS_REACTIVOS[base],
     }
 
 

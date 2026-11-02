@@ -56,6 +56,28 @@ def test_candidatas_restringen_la_respuesta():
     assert abs(sum(a["probabilidad"] for a in cuerpo["alternativas"]) - 1) < 0.01
 
 
+def test_sugiere_reactivos_de_la_practica():
+    cuerpo = cliente.post("/predecir", json={"texto": "alcanos"}).json()
+    assert cuerpo["base_reactivos"] == "practica"
+    nombres = [r["reactivo"] for r in cuerpo["reactivos_sugeridos"]]
+    assert "HEXANO" in nombres
+    assert all(r["tipo"] in ("reactivo", "medio de cultivo") for r in cuerpo["reactivos_sugeridos"])
+
+
+def test_sugiere_medios_de_cultivo_en_microbiologia():
+    cuerpo = cliente.post("/predecir", json={"texto": "genero staphylococcus"}).json()
+    tipos = {r["tipo"] for r in cuerpo["reactivos_sugeridos"]}
+    assert "medio de cultivo" in tipos
+
+
+def test_sin_registro_propio_usa_la_asignatura():
+    cuerpo = cliente.post("/predecir", json={"texto": "formacion de precipitados"}).json()
+    assert cuerpo["practica"] == "Formacion de precipitados"
+    assert cuerpo["base_reactivos"] == "asignatura"
+    assert cuerpo["siglas_base"]
+    assert cuerpo["reactivos_sugeridos"]
+
+
 def test_preprocesar_muestra_los_pasos():
     r = cliente.post("/preprocesar", json={"texto": "LAB 4 Preparación de Soluciones", "modo": "stem"})
     cuerpo = r.json()
