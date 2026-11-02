@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Planillas originales: tienen nombres de docentes, auxiliares y estudiantes.
+data/raw/*
+!data/raw/README.md
+
+frontend/node_modules/
+frontend/dist/
