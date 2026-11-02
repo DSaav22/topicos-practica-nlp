@@ -114,7 +114,7 @@ tabla(s, [
     ["Pieza", "Quién", "Qué hace"],
     ["Carrera y grupos", "Sesión del auxiliar en BioFarm", "Ya se conocen: el modelo no los adivina"],
     ["Nombre escrito → práctica", "Modelo (NLP + ML)", "Práctica oficial con probabilidad y alternativas"],
-    ["Reactivos sugeridos", "Conteo del kardex", "Los que salen en ≥ 50 % de las sesiones de esa práctica"],
+    ["Reactivos estimados", "Conteo de los kardex", "Hasta 12 por tipo, desde el 25 % de las sesiones de esa práctica"],
     ["Gramos", "Auxiliar y pesaje", "No se predicen: varían demasiado entre sesiones"],
 ], anchos=[3.2, 3.6, 5.3], tam=17)
 vinetas(s, ["Descartado: predecir FAR/BQM (la sesión ya lo trae) y regresión de gramos"], y=4.8, tam=18)
@@ -123,7 +123,7 @@ vinetas(s, ["Descartado: predecir FAR/BQM (la sesión ya lo trae) y regresión d
 d = m["datos"]
 s = nueva("Datos", "Planillas internas del laboratorio, obtenidas el 25/10/2026 · uso académico, no públicas")
 vinetas(s, [
-    "Atenciones marzo–octubre 2026 (FAR/BQM) y dos kardex de reactivos (controlados y no controlados)",
+    "Atenciones marzo–octubre 2026 (FAR/BQM), dos kardex de reactivos y el kardex de medios de microbiología",
     "Se quitan docente, auxiliar, registros y firmas: al repo solo van práctica, carrera, sigla, grupo, reactivo",
     f"{d['filas']:,} filas etiquetadas · {d['practicas']} prácticas oficiales · mediana 13 filas por práctica".replace(",", "."),
     "Desbalance fuerte → métrica principal macro-F1 y class_weight='balanced'",
@@ -221,14 +221,26 @@ tabla(s, [
     ["Backend", "api/main.py (FastAPI)", "/salud · /predecir · /preprocesar · /metricas"],
     ["Frontend", "frontend/ (React + Vite)", "Predicción, pasos, métricas, archivo con varios"],
 ], anchos=[1.8, 4.5, 5.8], tam=16)
-vinetas(s, ["Semilla 42 · versiones fijadas · 16 pruebas con pytest"], y=5.2, tam=18)
+vinetas(s, ["Semilla 42 · versiones fijadas · 19 pruebas con pytest"], y=5.2, tam=18)
 
-# 12. Demo
+# 12. Reactivos estimados
+s = nueva("El auxiliar escribe el título → ve qué reactivos usará")
+vinetas(s, [
+    "El modelo identifica la práctica; los reactivos salen por conteo",
+    "Kardex de reactivos: % de formularios de la práctica en que salió cada uno",
+    "Microbiología: el medio se une a la atención del grupo ±1–3 días",
+    "Hasta 12 por tipo desde el 25 % · aviso si hay < 3 sesiones",
+    "Sin registro propio → lo más usado en sus asignaturas",
+    "260 de 266 prácticas con sugerencia (200 propias, 60 por asignatura)",
+], ancho=6.8, tam=17)
+s.shapes.add_picture(str(RAIZ / "docs" / "img" / "reactivos.png"), Inches(7.6), Inches(1.3), height=Inches(5.9))
+
+# 13. Demo
 s = nueva("Demostración")
 s.shapes.add_picture(str(RAIZ / "docs" / "img" / "prediccion.png"), Inches(0.6), Inches(1.3), height=Inches(6))
 s.shapes.add_picture(str(RAIZ / "docs" / "img" / "metricas.png"), Inches(6.9), Inches(1.3), height=Inches(6))
 
-# 13. BioFarm
+# 14. BioFarm
 s = nueva("Encaje en BioFarm y límites")
 vinetas(s, [
     "BioFarm manda el texto y las prácticas de los grupos del auxiliar (candidatas)",

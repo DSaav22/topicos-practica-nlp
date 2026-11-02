@@ -16,7 +16,7 @@ Se descartó predecir la carrera (FAR / BQM), porque la sesión del usuario ya l
 
 | | |
 |---|---|
-| Origen | Planillas internas del Laboratorio Académico FCFB — UAGRM: `ATENCION 2026 JULIO AGOSTO SEPTIEMBRE.xlsx` (hoja `ATENCION 2026`, marzo a octubre de 2026) y los dos kardex de reactivos (controlados y no controlados) |
+| Origen | Planillas internas del Laboratorio Académico FCFB — UAGRM: `ATENCION 2026 JULIO AGOSTO SEPTIEMBRE.xlsx` (hoja `ATENCION 2026`, marzo a octubre de 2026), los dos kardex de reactivos (controlados y no controlados) y el kardex de medios de cultivo de microbiología (solo para sugerir medios) |
 | Fecha de obtención | 25 de octubre de 2026 |
 | Licencia | Datos no públicos, de uso académico con autorización del laboratorio. Las planillas crudas no se suben al repositorio |
 | Idioma | Español |
@@ -26,6 +26,7 @@ Se descartó predecir la carrera (FAR / BQM), porque la sesión del usuario ya l
 |---|---|
 | Atenciones FAR/BQM con nombre | 7.994 |
 | Salidas de kardex | 4.376 (236 reactivos, 912 nombres de práctica) |
+| Salidas de medios de cultivo | 466, de las cuales 363 se unen a una atención (40 medios) |
 | Nombres crudos distintos en atenciones | 3.655 (3.160 claves tras normalizar) |
 | **Filas etiquetadas** | **4.565** (atenciones + sesiones únicas del kardex) |
 | **Prácticas oficiales (clases)** | **266**, de 8 a 82 filas cada una (mediana 13) |
@@ -49,7 +50,19 @@ La tabla completa queda en `data/etiquetas/variantes.csv` (clave, práctica ofic
 - **Desbalance:** la clase más grande («Bioseguridad») tiene 82 filas y la mediana es 13. Por eso la métrica principal es **macro-F1** y la regresión logística usa `class_weight="balanced"`.
 - **Textos cortos:** 677 de las 4.565 filas tienen una sola palabra («bioseguridad», «alcanos»), y la API las acepta.
 - **Palabras frecuentes:** antes de quitar stop words dominan «de» (2.865), «y» y «del»; después, «soluciones», «preparación», «determinación», «laboratorio» y «observación».
-- **Reactivos ubicuos:** el etanol al 96 % sale en 307 prácticas distintas y el aceite de inmersión en 188. La sugerencia de reactivos usa la proporción de sesiones **de esa práctica** (≥ 50 %), no «todo lo que alguna vez la acompañó».
+- **Reactivos ubicuos:** el etanol al 96 % sale en 307 prácticas distintas y el aceite de inmersión en 188. La sugerencia de reactivos usa la proporción de sesiones **de esa práctica**, no «todo lo que alguna vez la acompañó» (ver 2.3).
+
+### 2.3 Reactivos estimados por práctica
+
+El auxiliar escribe el título de la práctica. Cuando el modelo la identifica, ve qué reactivos va a usar más o menos. La lista sale por conteo:
+
+- **Kardex de reactivos:** para cada práctica se cuenta en qué parte de sus formularios salió cada reactivo. Si el nombre escrito en el kardex no llega a una práctica del catálogo, se usa el nombre de la atención con el mismo número de formulario: 1.531 de los 1.537 formularios del kardex aparecen en las atenciones.
+- **Kardex de microbiología:** no anota el nombre de la práctica. Cada salida de medio se une a la atención del mismo grupo y sigla más cercana en fecha, entre un día antes y tres días después, porque el medio se prepara antes de la sesión. Así se unen 363 de las 466 salidas.
+- **Regla:** se muestran hasta 12 por tipo (reactivo o medio de cultivo) que hayan salido en al menos el 25 % de las sesiones de la práctica. La pantalla avisa cuando hay menos de 3 sesiones registradas.
+- **Respaldo:** si la práctica no tiene salidas propias (por ejemplo, «Formación de precipitados»), se muestran los reactivos más usados en sus asignaturas. Para eso se exigen 5 sesiones o más y se muestran hasta 8 reactivos desde el 10 %. La pantalla lo indica con «Reactivos más usados en QMC-101, …».
+- **Cobertura:** 260 de las 266 prácticas del catálogo tienen sugerencia (200 con su propio registro y 60 por asignatura). Las 6 restantes no tienen salidas ni en la práctica ni en sus asignaturas.
+
+Los otros archivos del laboratorio no sirven para esto. La hoja de salidas de insumos está vacía y el kardex de ventanilla volumétrica registra material de vidrio, sin práctica.
 
 ## 3. Pipeline de NLP (`src/nlp/preprocesamiento.py`)
 
@@ -150,8 +163,10 @@ Camino de una predicción:
 2. El frontend hace `POST /predecir` con `{"texto": "LAB 4 cromatografia"}`.
 3. Pydantic valida: no vacío, ≤ 500 caracteres, con letras.
 4. El pipeline normaliza, tokeniza, quita stop words y lematiza (`cromatografia`), vectoriza y devuelve una probabilidad por cada una de las 266 prácticas.
-5. La API ordena las prácticas, toma la primera, decide si hay que confirmar y busca en `reactivos_por_practica.csv` los reactivos de esa práctica.
-6. El frontend muestra «Cromatografía 44,5 %», las alternativas y los reactivos: acetato de etilo, butanol y ácido acético.
+5. La API ordena las prácticas, toma la primera, decide si hay que confirmar y busca en `reactivos_por_practica.csv` los reactivos de esa práctica, con su tipo y si salen de la práctica o de la asignatura.
+6. El frontend muestra «Cromatografía 44,5 %» y, debajo, el recuadro de reactivos que probablemente usará: acetato de etilo (67 %), 1-butanol y ácido acético glacial (58 %), etanol (50 %), según 12 sesiones. Después muestra las alternativas.
+
+![Reactivos y medios de cultivo para una práctica de microbiología](img/reactivos.png)
 
 | Endpoint | Qué hace |
 |---|---|
@@ -161,7 +176,7 @@ Camino de una predicción:
 | `GET /metricas` | Métricas, experimentos y errores |
 | `GET /practicas` | Catálogo de prácticas |
 
-La documentación interactiva queda en `http://localhost:8000/docs`. Las pruebas automatizadas están en `tests/` (16 pruebas con pytest): predicción conocida, error de tipeo, texto vacío, texto largo, formato incorrecto, candidatas y preprocesamiento.
+La documentación interactiva queda en `http://localhost:8000/docs`. Las pruebas automatizadas están en `tests/` (19 pruebas con pytest): predicción conocida, error de tipeo, texto vacío, texto largo, formato incorrecto, candidatas, reactivos de la práctica, medios de cultivo, respaldo por asignatura y preprocesamiento.
 
 ## 6. Encaje en BioFarm
 
@@ -178,6 +193,7 @@ En BioFarm, la tabla `practicas` hoy guarda código, nombre, materia y estado, y
 - La prueba manual es pequeña (82 textos) y se armó con candidatos que ya compartían palabras con alguna práctica.
 - El catálogo de 266 prácticas no es oficial: lo tiene que cerrar el laboratorio. Los errores de tipo 2 muestran dónde fusionar.
 - Las probabilidades no están calibradas. Sirven para ordenar las opciones, no como certeza.
+- Los reactivos estimados dependen de cuántas sesiones se registraron. Las uniones de microbiología por fecha pueden asignar un medio a la práctica equivocada cuando un grupo tiene dos sesiones seguidas. El respaldo por asignatura es una referencia general, no la receta de la práctica.
 
 ## 8. Uso de asistentes de IA
 

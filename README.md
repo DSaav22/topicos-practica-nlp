@@ -89,16 +89,25 @@ curl -X POST http://localhost:8000/predecir -H "Content-Type: application/json" 
   "probabilidad": 0.4455,
   "confirmar": false,
   "alternativas": [{"practica": "Cromatografia", "probabilidad": 0.4455}, "..."],
-  "reactivos_sugeridos": [{"reactivo": "ACETATO DE ETILO", "proporcion": 0.667, "sesiones": 12}, "..."]
+  "reactivos_sugeridos": [
+    {"reactivo": "ACETATO DE ETILO", "tipo": "reactivo", "proporcion": 0.667, "sesiones": 12},
+    {"reactivo": "1-BUTANOL", "tipo": "reactivo", "proporcion": 0.583, "sesiones": 12}, "..."
+  ],
+  "base_reactivos": "practica",
+  "siglas_base": []
 }
 ```
+
+La lista de reactivos sale por conteo, no del modelo. Para cada práctica se cuenta en qué parte de sus sesiones salió cada reactivo, del kardex de reactivos, o cada medio de cultivo, del kardex de microbiología. Se muestran hasta 12 por tipo, desde el 25 % de las sesiones. Si la práctica no tiene salidas propias, `base_reactivos` vale `"asignatura"` y se muestran los reactivos más usados en sus siglas. Hay sugerencia para 260 de las 266 prácticas: 200 con su propio registro y 60 por asignatura.
+
+![Reactivos estimados al escribir el título](docs/img/reactivos.png)
 
 ## Estructura
 
 ```
 data/
   raw/          planillas originales (no versionadas)
-  processed/    atenciones, kardex, dataset, catálogo y reactivos por práctica (sin personas)
+  processed/    atenciones, kardex, microbiología, dataset, catálogo y reactivos por práctica (sin personas)
   etiquetas/    variantes.csv, fusiones_manuales.csv, prueba_manual.csv
 notebooks/      análisis exploratorio y experimentos
 src/
