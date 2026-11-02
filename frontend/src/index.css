@@ -61,6 +61,10 @@ h3 { font-size: 0.95rem; margin-top: 1.2rem; }
 .barra { background: var(--azul-claro); border-radius: 4px; height: 10px; overflow: hidden; }
 .barra.grande { height: 14px; }
 .barra span { display: block; height: 100%; background: var(--azul); }
+.barra.verde span { background: var(--verde); }
+.reactivos { background: #f3f9f5; border: 1px solid #cfe6d8; border-radius: 8px; padding: 0.4rem 0.9rem 0.2rem; margin: 1rem 0; }
+.reactivos h3 { color: var(--verde); }
+.subtitulo { font-weight: 600; font-size: 0.9rem; margin: 0.6rem 0 0.3rem; }
 .alternativas { list-style: none; padding: 0; margin: 0; }
 .alternativas li {
   display: grid; grid-template-columns: minmax(0, 1fr) 120px 60px; gap: 0.6rem; align-items: center; padding: 0.3rem 0;

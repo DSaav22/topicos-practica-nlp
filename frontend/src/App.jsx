@@ -54,7 +54,7 @@ export default function App() {
                 setEnviado(texto)
               }}
             >
-              <label htmlFor="texto">Nombre de la práctica como lo escribió el docente o el auxiliar</label>
+              <label htmlFor="texto">Título de la práctica, como lo escribe el auxiliar</label>
               <div className="fila">
                 <input
                   id="texto"
@@ -70,8 +70,9 @@ export default function App() {
                   'PREPARACION DE SOLUCIONES BUFFER',
                   'oreparacion de soluciones unidades fisecas',
                   'LAB 4 cromatografia',
-                  'toma de muestra de sangre',
-                  'bioseguridad',
+                  'lab 2 alcanos',
+                  'genero staphylococcus',
+                  'formacion de precipitados',
                 ].map((e) => (
                   <button
                     type="button"

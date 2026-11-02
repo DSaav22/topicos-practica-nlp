@@ -3,6 +3,53 @@ import { api } from '../api'
 
 const pct = (p) => `${(p * 100).toFixed(1)} %`
 const ancho = (p) => `${(p * 100).toFixed(1)}%`
+const POCAS_SESIONES = 3
+const TIPOS = [
+  { id: 'reactivo', nombre: 'Reactivos' },
+  { id: 'medio de cultivo', nombre: 'Medios de cultivo' },
+]
+
+function Reactivos({ res }) {
+  if (res.reactivos_sugeridos.length === 0) {
+    return <p className="nota">{res.nota_reactivos}</p>
+  }
+  const titulo =
+    res.base_reactivos === 'asignatura'
+      ? `Reactivos más usados en ${res.siglas_base.join(', ')}`
+      : 'Reactivos que probablemente usará'
+  return (
+    <div className="reactivos">
+      <h3>{titulo}</h3>
+      {TIPOS.map(({ id, nombre }) => {
+        const lista = res.reactivos_sugeridos.filter((r) => r.tipo === id)
+        if (lista.length === 0) return null
+        const sesiones = lista[0].sesiones
+        return (
+          <div key={id}>
+            <p className="subtitulo">
+              {nombre} · según {sesiones} {sesiones === 1 ? 'sesión registrada' : 'sesiones registradas'}
+            </p>
+            {sesiones < POCAS_SESIONES && (
+              <p className="aviso">⚠ Pocas sesiones registradas: tómelo como referencia.</p>
+            )}
+            <ul className="alternativas">
+              {lista.map((r) => (
+                <li key={r.reactivo}>
+                  <span className="nombre">{r.reactivo}</span>
+                  <div className="barra verde">
+                    <span style={{ width: ancho(r.proporcion) }} />
+                  </div>
+                  <span className="valor">{pct(r.proporcion)}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )
+      })}
+      <p className="nota">{res.nota_reactivos} El porcentaje es la parte de las sesiones en que salió cada uno.</p>
+    </div>
+  )
+}
 
 export default function Prediccion({ texto }) {
   const [res, setRes] = useState(null)
@@ -27,6 +74,8 @@ export default function Prediccion({ texto }) {
         <p className="aviso">⚠ La segunda opción está cerca: el auxiliar debe confirmar entre las alternativas.</p>
       )}
 
+      <Reactivos res={res} />
+
       <h3>Alternativas</h3>
       <ul className="alternativas">
         {res.alternativas.map((a) => (
@@ -39,29 +88,6 @@ export default function Prediccion({ texto }) {
           </li>
         ))}
       </ul>
-
-      <h3>Reactivos que suelen salir con esta práctica</h3>
-      {res.reactivos_sugeridos.length === 0 ? (
-        <p className="nota">El kardex no tiene salidas suficientes para esta práctica.</p>
-      ) : (
-        <table className="tabla">
-          <thead>
-            <tr>
-              <th>Reactivo</th>
-              <th>Sesiones en que salió</th>
-            </tr>
-          </thead>
-          <tbody>
-            {res.reactivos_sugeridos.map((r) => (
-              <tr key={r.reactivo}>
-                <td>{r.reactivo}</td>
-                <td>{pct(r.proporcion)} de {r.sesiones}</td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      )}
-      <p className="nota">{res.nota_reactivos}</p>
     </section>
   )
 }
